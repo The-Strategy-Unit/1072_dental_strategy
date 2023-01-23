@@ -164,13 +164,13 @@ Workforce_Summary <- left_join(Workforce_Summary, Population_data_Total, by = c(
   mutate(WorkforcePer100000=round((Dentist_Count/POP)*100000,2)) 
 
 
-write.csv(Charges, 'data/Charges.csv')
-write.csv(Treatment, 'data/Treatment.csv')
+write.csv(Charges, '1_strategic_data_review/data/NHS_digital_Charges.csv')
+write.csv(Treatment, '1_strategic_data_review/data/NHS_digital_Treatment.csv')
 
-write.csv(Workforce_Summary, 'data/Workforce_Summary.csv')     
+write.csv(Workforce_Summary, '1_strategic_data_review/data/NHS_digital_Workforce_Summary.csv')     
 
-write.csv(Activity_ICB, 'data/Activity_ICB.csv')  
-write.csv(Activity_Practice_Level, 'data/Activity_Practice_Level.csv')     
+write.csv(Activity_ICB, '1_strategic_data_review/data/NHS_digital_Activity_ICB.csv')  
+#write.csv(Activity_Practice_Level, '1_strategic_data_review/data/NHS_digital_Activity_Practice_Level.csv')     
 
-write.csv(Attendance_ICB, 'data/Attendance_ICB.csv')
-write.csv(Attendance_Practice_Level, 'data/Attendance_Practice_Level.csv')
+write.csv(Attendance_ICB, '1_strategic_data_review/data/NHS_digital_Attendance_ICB.csv')
+#write.csv(Attendance_Practice_Level, '1_strategic_data_review/data/NHS_digital_Attendance_Practice_Level.csv')
