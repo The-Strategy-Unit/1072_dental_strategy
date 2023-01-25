@@ -170,7 +170,7 @@ write.csv(Treatment, '1_strategic_data_review/data/NHS_digital_Treatment.csv')
 write.csv(Workforce_Summary, '1_strategic_data_review/data/NHS_digital_Workforce_Summary.csv')     
 
 write.csv(Activity_ICB, '1_strategic_data_review/data/NHS_digital_Activity_ICB.csv')  
-#write.csv(Activity_Practice_Level, '1_strategic_data_review/data/NHS_digital_Activity_Practice_Level.csv')     
+write.csv(Activity_Practice_Level, '1_strategic_data_review/data/NHS_digital_Activity_Practice_Level.csv')     
 
 write.csv(Attendance_ICB, '1_strategic_data_review/data/NHS_digital_Attendance_ICB.csv')
-#write.csv(Attendance_Practice_Level, '1_strategic_data_review/data/NHS_digital_Attendance_Practice_Level.csv')
+write.csv(Attendance_Practice_Level, '1_strategic_data_review/data/NHS_digital_Attendance_Practice_Level.csv')
