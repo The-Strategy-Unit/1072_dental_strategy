@@ -12,21 +12,18 @@ Clinical_Charges_Post18$ICB<- case_when(Clinical_Charges_Post18$SUB_ICB_CODE %in
                                         Clinical_Charges_Post18$SUB_ICB_CODE %in% c("B2M3M","05A","05H","05R")~"COVENTRY AND WARWICKSHIRE",
                                         Clinical_Charges_Post18$SUB_ICB_CODE %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
 
+Clinical_Charges_Post18<- Clinical_Charges_Post18 %>%
+  filter(LA_CODE!="Unallocated" |SUB_ICB_CODE!="Unallocated")%>%
+  filter(LA_CODE!="UNA" |SUB_ICB_CODE!="UNA")
 
 ## Charges ----
 Charges<-Clinical_Charges_Post18%>%
-  filter(!is.na(ICB)) %>%
-  filter(MEASURE=="Charge" & DENTAL_TREATMENT_BAND!="Free") %>%
-  group_by(FINANCIAL_YR, ICB, SUB_ICB_CODE, SUB_ICB_ONS_CODE, DENTAL_TREATMENT_BAND)%>%
-  summarize(VALUE=sum(VALUE), .groups='drop')
-
+  filter(MEASURE=="Charge" & DENTAL_TREATMENT_BAND!="Free") 
 
 ## Clinical treatments ----
 Treatment<-Clinical_Charges_Post18%>%
-  filter(!is.na(ICB))%>%
   filter(MEASURE!="Charge") %>%
-  group_by(DATE, ICB, SUB_ICB_CODE,  SUB_ICB_ONS_CODE, PATIENT_TYPE, DENTAL_TREATMENT_BAND, MEASURE)%>%
-  summarize(VALUE=sum(VALUE), .groups='drop')
+  dplyr::select(-FINANCIAL_YR)
 
 # WORKFORCE ----
 
@@ -44,8 +41,8 @@ Workforce$ICB<- case_when(Workforce$Org_Code %in% c("15E") ~"BIRMINGHAM AND SOLI
 
 # Workforce Summary
 Workforce_Summary<-Workforce %>%
-  rename(Sub_ICB_Code = Org_Code)%>%
-  dplyr::select(-Year, -Geography, -Parent_Code_1)
+  rename(Sub_ICB_Code = Org_Code)%>% 
+  mutate_all(na_if,"")
 
 
 #ACTIVITY ----
@@ -58,10 +55,11 @@ Activity_Post18$ICB<- case_when(Activity_Post18$SUB_ICB_CODE %in% c("15E") ~"BIR
                                 Activity_Post18$SUB_ICB_CODE %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
 
 Activity_ICB<-Activity_Post18 %>%
-  filter(!is.na(ICB))%>%
-  group_by(DATE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, LA_CODE, LA_NAME, PATIENT_TYPE, DENTAL_TREATMENT_BAND) %>%
-  summarise(COT=sum(COT),UDA=sum(UDA), .groups='drop')
+  group_by(DATE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, LA_CODE, LA_NAME, REGION_NAME, PATIENT_TYPE, DENTAL_TREATMENT_BAND) %>%
+  summarise(COT=sum(COT),UDA=sum(UDA), .groups='drop')%>%
+  filter(SUB_ICB_CODE!="Unallocated")
 
+# Practice level - selected Midlands only due to file size
 Activity_Practice_Level<-Activity_Post18%>%
   filter(REGION_NAME=="Midlands")%>%
   dplyr::select(-SUB_ICB_NAME, -REGION_CODE, -REGION_NAME, -REGION_ONS_CODE)
@@ -69,7 +67,7 @@ Activity_Practice_Level<-Activity_Post18%>%
 
 # ATTENDANCE ----
 
-#Summarising attendance data for WM ICB's and Midlands.Number of adults seen in the last 2 yrs, and children within the last 1 yr, taken at the end of the financial yr. 
+#Number of adults seen in the last 2 yrs, and children within the last 1 yr, taken at the end of the financial yr. 
 
 Attendance_Post18$ICB<- case_when(Attendance_Post18$SUB_ICB_CODE %in% c("15E") ~"BIRMINGHAM AND SOLIHULL",
                                   Attendance_Post18$SUB_ICB_CODE %in% c("18C", "05J", "05T", "06D","05F") ~ "HEREFORDSHIRE AND WORCESTERSHIRE",
@@ -79,60 +77,48 @@ Attendance_Post18$ICB<- case_when(Attendance_Post18$SUB_ICB_CODE %in% c("15E") ~
                                   Attendance_Post18$SUB_ICB_CODE %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
 
 Attendance_ICB<-Attendance_Post18 %>%
-  filter(!is.na(ICB)) %>%
-  group_by(DATE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, PATIENT_TYPE, AGE_BAND)%>%
+  filter(GEOG_TYPE=="LA" | GEOG_TYPE=="CCG"| GEOG_TYPE=="SUB_ICB") %>%
+  group_by(DATE, GEOG_TYPE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, LA_CODE, LA_NAME, PATIENT_TYPE, AGE_BAND)%>%
   summarise(SEEN=sum(PATIENTS_SEEN),POP=sum(POPULATION), .groups='drop')%>%
-  mutate(PERCENT_SEEN=round((SEEN/POP)*100,2))
+  mutate(PERCENT_SEEN=round((SEEN/POP)*100,2))%>%
+  filter(LA_CODE!="Unallocated" | SUB_ICB_CODE!="Unallocated")
 
+# Practice level - selected Midlands only due to file size
 Attendance_Practice_Level<-Attendance_Post18%>%
   filter(!is.na(PRACTICE_CODE))%>%
   filter(REGION_NAME=="Midlands")%>%
   dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME,-REGION_CODE, -REGION_NAME,  -REGION_ONS_CODE, -POPULATION)
 
-Attendance_LA<-Attendance_Post18%>%
-  filter(GEOG_TYPE=="LA" & LA_CODE!="Unallocated")%>%
-  dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME,-REGION_CODE, -REGION_NAME,  -REGION_ONS_CODE)
-
-
-
 # ADDING POPULATION DATA AT ICB LEVEL----
 
 #Summarising the population data from the Attendance sheet to use for the other datasets
-Population_data<-Attendance_ICB%>%
-  mutate(DATE2=quarter(DATE, with_year = TRUE, fiscal_start = 4)) %>%
-  separate(DATE2, c('FINANCIAL_YR', 'QUARTER'))%>%
-  group_by(DATE, ICB, QUARTER, FINANCIAL_YR, PATIENT_TYPE)%>%
-  summarise(POP=sum(POP),.groups='drop')%>%
-  filter(!is.na(ICB))
+Population_data<-Attendance_ICB %>%
+  group_by(DATE, SUB_ICB_CODE, LA_CODE, PATIENT_TYPE)%>%
+  summarise(POP=sum(POP),.groups='drop')
 
 Population_data_Total<- Population_data%>%
+  mutate(DATE2=quarter(DATE, with_year = TRUE, fiscal_start = 4)) %>%
+  separate(DATE2, c('FINANCIAL_YR', 'QUARTER'))%>%
   filter(QUARTER==4)%>%
-  group_by(FINANCIAL_YR, ICB)%>%
+  group_by(FINANCIAL_YR, SUB_ICB_CODE, LA_CODE)%>%
   summarise(POP=sum(POP),.groups='drop')
 
 
-# Calculating Charges per 1,000 
-Charges<- left_join(Charges, Population_data_Total, by = c("FINANCIAL_YR","ICB")) %>%
-  mutate(ChargePer1000=round((VALUE/POP)*1000,2))
+# Adding population data to charges 
+Charges<- left_join(Charges, Population_data_Total, by = c("FINANCIAL_YR","SUB_ICB_CODE", "LA_CODE")) 
 
-# Calculating Treatments per 1,000
-Treatment<- left_join(Treatment, Population_data, by = c("DATE", "PATIENT_TYPE", "ICB")) %>%
-  select(-c('FINANCIAL_YR', 'QUARTER'))%>%
-  mutate(TreatmentPer1000=round((VALUE/POP)*1000,2))
+# Adding population data to Treatments
+Treatment<- left_join(Treatment, Population_data, by = c("DATE", "SUB_ICB_CODE", "LA_CODE", "PATIENT_TYPE")) 
 
 # Calculating activity per 1,000 
 Activity_ICB<- Activity_ICB %>%
   mutate(GROUP=recode(PATIENT_TYPE, "Paying adult"= "Adult", "Non-paying adult"= "Adult"))
 
-Activity_ICB <- left_join(Activity_ICB, Population_data, by = c("DATE", "ICB", "GROUP"="PATIENT_TYPE")) %>%
-  select(-c('FINANCIAL_YR', 'QUARTER'))%>%
-  mutate(COTPer1000=round((COT/POP)*1000,2)) %>%
-  mutate(UDAPer1000=round((UDA/POP)*1000,2)) 
+# Adding population to workforce data (NB some new Sub ICB codes are used for older workforce data so the population data doesn't match up, should be ok once grouped by ICB)
+Workforce_Summary <- left_join(Workforce_Summary, Population_data_Total, by = c("Financial_yr"="FINANCIAL_YR", "Sub_ICB_Code"= "SUB_ICB_CODE")) %>%
+ 
 
-# Calculating workforce per 100,000
-Workforce_Summary <- left_join(Workforce_Summary, Population_data_Total, by = c("Financial_yr"="FINANCIAL_YR", "ICB")) %>%
-  mutate(WorkforcePer100000=round((Dentist_Count/POP)*100000,2)) 
-
+write.csv(Population_data, '1_strategic_data_review/data/NHS_digital_Population_data.csv')
 
 write.csv(Charges, '1_strategic_data_review/data/NHS_digital_Charges.csv')
 write.csv(Treatment, '1_strategic_data_review/data/NHS_digital_Treatment.csv')
@@ -144,4 +130,3 @@ write.csv(Activity_Practice_Level, '1_strategic_data_review/data/NHS_digital_Act
 
 write.csv(Attendance_ICB, '1_strategic_data_review/data/NHS_digital_Attendance_ICB.csv')
 write.csv(Attendance_Practice_Level, '1_strategic_data_review/data/NHS_digital_Attendance_Practice_Level.csv')
-write.csv(Attendance_LA, '1_strategic_data_review/data/NHS_digital_Attendance_LA.csv')
