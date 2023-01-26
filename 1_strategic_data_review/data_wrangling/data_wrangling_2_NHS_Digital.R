@@ -87,7 +87,7 @@ Attendance_ICB<-Attendance_Post18 %>%
 Attendance_Practice_Level<-Attendance_Post18%>%
   filter(!is.na(PRACTICE_CODE))%>%
   filter(REGION_NAME=="Midlands")%>%
-  dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME, -REGION_CODE, -REGION_NAME, -REGION_ONS_CODE, -POPULATION)
+  dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME,-REGION_CODE, -REGION_NAME,  -REGION_ONS_CODE, -POPULATION)
 
 # ADDING POPULATION DATA AT ICB LEVEL----
 
