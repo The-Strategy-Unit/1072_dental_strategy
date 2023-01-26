@@ -13,17 +13,9 @@ Clinical_Charges_Post18$ICB<- case_when(Clinical_Charges_Post18$SUB_ICB_CODE %in
                                         Clinical_Charges_Post18$SUB_ICB_CODE %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
 
 
-# Recoding years 
-Clinical_Charges_Post18<-Clinical_Charges_Post18%>%
-  mutate(FINANCIAL_YR=recode(END_DATE_QUARTER, '2018-19'='2019', '2019-20'='2020','2020-21'='2021', '2021-22'='2022'))%>%
-  mutate(FINANCIAL_YR=format(as.Date(FINANCIAL_YR, format="%Y"),"%Y" ))
-
-# Correcting date format for Sept 2020
-Clinical_Charges_Post18$END_DATE_QUARTER[Clinical_Charges_Post18$END_DATE_QUARTER=='30-Sept-20']<-'30-Sep-20'
-
-
 ## Charges ----
 Charges<-Clinical_Charges_Post18%>%
+  filter(!is.na(ICB)) %>%
   filter(MEASURE=="Charge" & DENTAL_TREATMENT_BAND!="Free") %>%
   group_by(FINANCIAL_YR, ICB, SUB_ICB_CODE, SUB_ICB_ONS_CODE, DENTAL_TREATMENT_BAND)%>%
   summarize(VALUE=sum(VALUE), .groups='drop')
@@ -31,9 +23,8 @@ Charges<-Clinical_Charges_Post18%>%
 
 ## Clinical treatments ----
 Treatment<-Clinical_Charges_Post18%>%
+  filter(!is.na(ICB))%>%
   filter(MEASURE!="Charge") %>%
-  mutate(END_DATE_QUARTER=as.Date(END_DATE_QUARTER, format="%d-%b-%y"))%>%
-  rename(DATE = END_DATE_QUARTER)%>%
   group_by(DATE, ICB, SUB_ICB_CODE,  SUB_ICB_ONS_CODE, PATIENT_TYPE, DENTAL_TREATMENT_BAND, MEASURE)%>%
   summarize(VALUE=sum(VALUE), .groups='drop')
 
