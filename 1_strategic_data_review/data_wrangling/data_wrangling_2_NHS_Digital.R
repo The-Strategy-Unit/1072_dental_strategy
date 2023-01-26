@@ -89,6 +89,12 @@ Attendance_Practice_Level<-Attendance_Post18%>%
   filter(REGION_NAME=="Midlands")%>%
   dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME,-REGION_CODE, -REGION_NAME,  -REGION_ONS_CODE, -POPULATION)
 
+Attendance_LA<-Attendance_Post18%>%
+  filter(GEOG_TYPE=="LA" & LA_CODE!="Unallocated")%>%
+  dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME,-REGION_CODE, -REGION_NAME,  -REGION_ONS_CODE)
+
+
+
 # ADDING POPULATION DATA AT ICB LEVEL----
 
 #Summarising the population data from the Attendance sheet to use for the other datasets
@@ -138,3 +144,4 @@ write.csv(Activity_Practice_Level, '1_strategic_data_review/data/NHS_digital_Act
 
 write.csv(Attendance_ICB, '1_strategic_data_review/data/NHS_digital_Attendance_ICB.csv')
 write.csv(Attendance_Practice_Level, '1_strategic_data_review/data/NHS_digital_Attendance_Practice_Level.csv')
+write.csv(Attendance_LA, '1_strategic_data_review/data/NHS_digital_Attendance_LA.csv')
