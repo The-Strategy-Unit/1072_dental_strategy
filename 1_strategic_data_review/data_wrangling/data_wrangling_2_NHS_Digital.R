@@ -57,18 +57,9 @@ Activity_Post18$ICB<- case_when(Activity_Post18$SUB_ICB_CODE %in% c("15E") ~"BIR
                                 Activity_Post18$SUB_ICB_CODE %in% c("B2M3M","05A","05H","05R")~"COVENTRY AND WARWICKSHIRE",
                                 Activity_Post18$SUB_ICB_CODE %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
 
-
-#Correcting date format  
-Activity_Post18$ACTIVITY_END_DATE[Activity_Post18$ACTIVITY_END_DATE=='30-Sept-21']<-'30-Sep-21'
-Activity_Post18$ACTIVITY_END_DATE[Activity_Post18$ACTIVITY_END_DATE=='30-June-20']<-'30-Jun-20'
-Activity_Post18$ACTIVITY_END_DATE[Activity_Post18$ACTIVITY_END_DATE=='30-June-21']<-'30-Jun-21'
-
-Activity_Post18<-Activity_Post18 %>%
-  mutate(ACTIVITY_END_DATE=as.Date(ACTIVITY_END_DATE, format="%d-%b-%y"))%>%
-  rename(DATE=ACTIVITY_END_DATE)
-
 Activity_ICB<-Activity_Post18 %>%
-  group_by(DATE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, LA_CODE, PATIENT_TYPE, DENTAL_TREATMENT_BAND) %>%
+  filter(!is.na(ICB))%>%
+  group_by(DATE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, LA_CODE, LA_NAME, PATIENT_TYPE, DENTAL_TREATMENT_BAND) %>%
   summarise(COT=sum(COT),UDA=sum(UDA), .groups='drop')
 
 Activity_Practice_Level<-Activity_Post18%>%
