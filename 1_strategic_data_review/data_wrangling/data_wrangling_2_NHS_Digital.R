@@ -63,6 +63,7 @@ Activity_ICB<-Activity_Post18 %>%
   summarise(COT=sum(COT),UDA=sum(UDA), .groups='drop')
 
 Activity_Practice_Level<-Activity_Post18%>%
+  filter(REGION_NAME=="Midlands")%>%
   dplyr::select(-SUB_ICB_NAME, -REGION_CODE, -REGION_NAME, -REGION_ONS_CODE)
 
 
@@ -85,6 +86,7 @@ Attendance_ICB<-Attendance_Post18 %>%
 
 Attendance_Practice_Level<-Attendance_Post18%>%
   filter(!is.na(PRACTICE_CODE))%>%
+  filter(REGION_NAME=="Midlands")%>%
   dplyr::select(-GEOG_TYPE, -SUB_ICB_NAME, -REGION_CODE, -REGION_NAME, -REGION_ONS_CODE, -POPULATION)
 
 # ADDING POPULATION DATA AT ICB LEVEL----
