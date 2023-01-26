@@ -25,6 +25,8 @@ Treatment<-Clinical_Charges_Post18%>%
   filter(MEASURE!="Charge") %>%
   dplyr::select(-FINANCIAL_YR)
 
+
+
 # WORKFORCE ----
 
 # Summarising Workforce data for WM ICB's, Midlands and England
@@ -110,6 +112,13 @@ Charges<- left_join(Charges, Population_data_Total, by = c("FINANCIAL_YR","SUB_I
 # Adding population data to Treatments
 Treatment<- left_join(Treatment, Population_data, by = c("DATE", "SUB_ICB_CODE", "LA_CODE", "PATIENT_TYPE")) 
 
+Treatment_ICB<-Treatment%>%
+  filter(GEOG_TYPE=="CCG"| GEOG_TYPE=="SUB_ICB")
+
+Treatment_LA<-Treatment%>%
+  filter(GEOG_TYPE=="LA")
+
+
 # Calculating activity per 1,000 
 Activity_ICB<- Activity_ICB %>%
   mutate(GROUP=recode(PATIENT_TYPE, "Paying adult"= "Adult", "Non-paying adult"= "Adult"))
@@ -121,7 +130,8 @@ Workforce_Summary <- left_join(Workforce_Summary, Population_data_Total, by = c(
 write.csv(Population_data, '1_strategic_data_review/data/NHS_digital_Population_data.csv')
 
 write.csv(Charges, '1_strategic_data_review/data/NHS_digital_Charges.csv')
-write.csv(Treatment, '1_strategic_data_review/data/NHS_digital_Treatment.csv')
+write.csv(Treatment_ICB, '1_strategic_data_review/data/NHS_digital_Treatment_ICB.csv')
+write.csv(Treatment_LA, '1_strategic_data_review/data/NHS_digital_Treatment_LA.csv')
 
 write.csv(Workforce_Summary, '1_strategic_data_review/data/NHS_digital_Workforce_Summary.csv')     
 
