@@ -184,7 +184,11 @@ names(Charges19) <- names(Charges22)
 Clinical_Charges_Post18<-rbind(Charges22, Charges21, Charges20, Charges19)
 
 Clinical_Charges_Post18<- Clinical_Charges_Post18%>%
-  filter(REGION_CODE=="Y60")
+  mutate(FINANCIAL_YR=recode(END_DATE_QUARTER, '2018-19'='2019', '2019-20'='2020','2020-21'='2021', '2021-22'='2022',.default = NA_character_))%>%
+  mutate(FINANCIAL_YR=format(as.Date(FINANCIAL_YR, format="%Y"),"%Y" ))%>%
+  rename(DATE=END_DATE_QUARTER)%>%
+  mutate(DATE=recode(DATE, '30-Sept-20'='30-Sep-20'))%>%
+  mutate(DATE=as.Date(DATE, format="%d-%b-%y"))
 
 rm(Charges22, Charges21, Charges20, Charges19)
 
@@ -204,7 +208,6 @@ names(Charges18a) <- names(Charges17a)
 ClinicalTreatment_Pre18<-rbind(Charges18a, Charges17a, Charges16a, Charges15a)
 
 ClinicalTreatment_Pre18<- ClinicalTreatment_Pre18%>%
-  filter(PARENT_CODE1=="Q76"|PARENT_CODE1=="Q77"|PARENT_CODE1=="Q78")%>%
   rename(VALUE=COUNT)%>%
   rename(MEASURE=CLINICAL_TREATMENT)
 
@@ -220,7 +223,6 @@ names(Charges15b) <- names(Charges17b)
 Charges_Pre18<-rbind(Charges18b, Charges17b, Charges16b, Charges15b)
 
 Charges_Pre18<-  Charges_Pre18%>%
-  filter(PARENT_CODE1=="Q76"|PARENT_CODE1=="Q77"|PARENT_CODE1=="Q78")%>%
   mutate(QUARTER=NA, .after = YEAR)%>%
   mutate(PATIENT_TYPE=NA, .after = PARENT_CODE2)%>%
   mutate(MEASURE=TREATMENT_BAND, .after = TREATMENT_BAND)%>%
