@@ -95,13 +95,8 @@ Attendance_Post18$ICB<- case_when(Attendance_Post18$SUB_ICB_CODE %in% c("15E") ~
                                   Attendance_Post18$SUB_ICB_CODE %in% c("B2M3M","05A","05H","05R")~"COVENTRY AND WARWICKSHIRE",
                                   Attendance_Post18$SUB_ICB_CODE %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
 
-Attendance_Post18<-Attendance_Post18 %>%
-  rename(DATE=PSEEN_END_DATE)%>%
-  filter((format.Date(DATE, "%m")=="03"|format.Date(DATE, "%m")=="06"|format.Date(DATE, "%m")=="09"|format.Date(DATE, "%m")=="12"))
-
-
 Attendance_ICB<-Attendance_Post18 %>%
-  filter(is.na(PRACTICE_CODE)) %>%
+  filter(!is.na(ICB)) %>%
   group_by(DATE, SUB_ICB_CODE, SUB_ICB_ONS_CODE, ICB, PATIENT_TYPE, AGE_BAND)%>%
   summarise(SEEN=sum(PATIENTS_SEEN),POP=sum(POPULATION), .groups='drop')%>%
   mutate(PERCENT_SEEN=round((SEEN/POP)*100,2))
