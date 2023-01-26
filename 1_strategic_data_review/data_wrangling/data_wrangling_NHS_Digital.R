@@ -280,10 +280,13 @@ names(Activity21) <- names(Activity22)
 names(Activity20) <- names(Activity22)
 names(Activity19) <- names(Activity22)
 
-Activity_Post18<-rbind(Activity22, Activity21, Activity20, Activity19)
-
-Activity_Post18<-Activity_Post18 %>%
-  filter(REGION_CODE=="Y60")
+Activity_Post18<-rbind(Activity22, Activity21, Activity20, Activity19)%>%
+  rename(DATE=ACTIVITY_END_DATE)%>%
+  mutate(DATE=recode(DATE,'30-Sept-21'='30-Sep-21'))%>%
+  mutate(DATE=recode(DATE,'30-Sept-20'='30-Sep-20'))%>%
+  mutate(DATE=recode(DATE,'30-June-20'='30-Jun-20'))%>%
+  mutate(DATE=recode(DATE,'30-June-21'='30-Jun-21'))%>%
+  mutate(DATE=as.Date(DATE, format="%d-%b-%y"))
 
 rm(Activity22, Activity21, Activity20, Activity19)
 
@@ -305,8 +308,6 @@ names(Activity18) <- names(Activity15)
 
 Activity_Pre18<- rbind(Activity15, Activity16, Activity17, Activity18)
 
-Activity_Pre18<-Activity_Pre18 %>%
-  filter(Parent_Code1=="Q76"|Parent_Code1=="Q77"|Parent_Code1=="Q78")
 
 rm(Activity15, Activity16, Activity17, Activity18)
 
