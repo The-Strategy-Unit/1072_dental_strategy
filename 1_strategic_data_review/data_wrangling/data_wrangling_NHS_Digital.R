@@ -18,7 +18,6 @@ LeaversJoiners<-read.csv(text=download)
 # Function to format workforce data
 Format<-function(data){
   data%>%
-    filter(Parent_Code_1=="ENG"|Parent_Code_1=="Y60")%>%
     filter(Year=="2015-16"|Year=="2016-17"|Year=="2017-18"|Year=="2018-19"|Year=="2019-20"|Year=="2020-21"|Year=="2021-22") 
 }
 
@@ -91,8 +90,9 @@ names(Attendance18b)<-names(Attendance22)
 
 
 Attendance_Post18<-rbind(Attendance22, Attendance21b, Attendance21, Attendance20b, Attendance20, Attendance19b, Attendance19, Attendance18b) %>%
-  filter(REGION_CODE=="Y60") %>%
-  mutate(PSEEN_END_DATE=parse_date(PSEEN_END_DATE))
+  rename(DATE=PSEEN_END_DATE)%>%
+  mutate(DATE=parse_date(DATE))%>%
+  filter((format.Date(DATE, "%m")=="03"|format.Date(DATE, "%m")=="06"|format.Date(DATE, "%m")=="09"|format.Date(DATE, "%m")=="12"))
 
 rm(Attendance22, Attendance21b, Attendance21, Attendance20b, Attendance20, Attendance19b, Attendance19, Attendance18b)
 
@@ -118,7 +118,6 @@ Attendance_Pre18$PATIENT_SEEN_END_DATE[Attendance_Pre18$PATIENT_SEEN_END_DATE=="
 
 Attendance_Pre18<-Attendance_Pre18%>%
   mutate(COUNT=as.numeric(COUNT))%>%
-  filter(PARENT_CODE1=="Q76"|PARENT_CODE1=="Q77"|PARENT_CODE1=="Q78")%>%
   spread(key=PATIENT_TYPE, value=COUNT)%>%
   dplyr::select(-TOTAL, -TOTAL_POPULATION) %>%
   rename(Adult=ADULT_POPULATION, Child=CHILD_POPULATION) %>%
