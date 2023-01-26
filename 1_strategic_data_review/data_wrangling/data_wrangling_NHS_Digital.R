@@ -321,4 +321,3 @@ rm(Activity15, Activity16, Activity17, Activity18)
 #write.csv(Clinical_Charges_Pre18, 'data/NHSDigital_Clinical_Charges_Pre18.csv')
 
 #write.csv(Workforce, 'data/NHSDigital_Workforce.csv')
-#write.csv(LeaversJoiners, 'data/NHSDigital_LeaversJoiners.csv')
