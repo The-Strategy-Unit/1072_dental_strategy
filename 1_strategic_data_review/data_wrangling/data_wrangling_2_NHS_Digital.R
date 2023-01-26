@@ -39,18 +39,10 @@ Treatment<-Clinical_Charges_Post18%>%
 
 # WORKFORCE ----
 
-# Merging workforce into leavers and joiners data
-Workforce<-Workforce%>%
-  mutate(Group="Workforce", .after = Org_Code)
-
-names(LeaversJoiners)=names(Workforce)
-
-Workforce<-rbind(Workforce, LeaversJoiners)
-
 # Summarising Workforce data for WM ICB's, Midlands and England
 
-Workforce$Region[Workforce$Parent_Code_1=="ENG"]<-"ENGLAND" 
-Workforce$Region[Workforce$Parent_Code_1=="Y60"]<-"MIDLANDS"
+Workforce$Region[Workforce$Parent_Code_1=="ENG"]<-"England" 
+Workforce$Region[Workforce$Parent_Code_1=="Y60"]<-"Midlands"
 
 Workforce$ICB<- case_when(Workforce$Org_Code %in% c("15E") ~"BIRMINGHAM AND SOLIHULL",
                           Workforce$Org_Code %in% c("18C", "05J", "05T", "06D","05F") ~ "HEREFORDSHIRE AND WORCESTERSHIRE",
@@ -58,13 +50,6 @@ Workforce$ICB<- case_when(Workforce$Org_Code %in% c("15E") ~"BIRMINGHAM AND SOLI
                           Workforce$Org_Code %in% c("D2P2L", "05Y", "06A", "05C", "05L") ~"BLACK COUNTRY",
                           Workforce$Org_Code %in% c("B2M3M","05A","05H","05R")~"COVENTRY AND WARWICKSHIRE",
                           Workforce$Org_Code %in% c("04Y","05D","05G","05Q","05V","05W") ~"STAFFORDSHIRE AND STOKE-ON-TRENT" )
-
-
-# Recoding years
-Workforce<-Workforce%>%
-  mutate(Financial_yr=recode(Year, '2015-16'='2016', '2016-17'='2017','2017-18'='2018', '2018-19'='2019', '2019-20'='2020','2020-21'='2021', '2021-22'='2022'))%>%
-  mutate(Region=recode(Region, 'MIDLANDS'='Midlands', 'ENGLAND'='England'))%>%
-  mutate(Financial_yr=format(as.Date(Financial_yr, format="%Y"),"%Y" ))
 
 # Workforce Summary
 Workforce_Summary<-Workforce %>%
