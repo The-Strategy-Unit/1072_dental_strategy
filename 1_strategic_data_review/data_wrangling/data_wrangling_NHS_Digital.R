@@ -25,6 +25,15 @@ Format<-function(data){
 Workforce<-Format(Workforce)
 LeaversJoiners<-Format(LeaversJoiners)  
 
+Workforce<-Workforce%>%
+  mutate(Group="Workforce", .after = Org_Code)
+
+names(LeaversJoiners)=names(Workforce)
+
+Workforce<-rbind(Workforce, LeaversJoiners)%>%
+  mutate(Financial_yr=recode(Year, '2015-16'='2016', '2016-17'='2017','2017-18'='2018', '2018-19'='2019', '2019-20'='2020','2020-21'='2021', '2021-22'='2022'))%>%
+  mutate(Financial_yr=format(as.Date(Financial_yr, format="%Y"),"%Y" ))
+
 
 #Dental Attendances
 url<- "https://files.digital.nhs.uk/F5/E2CB64/nhs-dent-stat-eng-21-22-anx3-ps-prac.zip"
