@@ -1,1 +1,6 @@
 NHS_digital_Activity_Practice_Level.csv filter=lfs diff=lfs merge=lfs -text
+NHS_digital_Attendence_Practice_Level filter=lfs diff=lfs merge=lfs -text
+NHS_digital_Activity_ICB.csv filter=lfs diff=lfs merge=lfs -text
+NHS_digital_Attendance_ICB.csv filter=lfs diff=lfs merge=lfs -text
+NHS_digital_Treatment_ICB.csv filter=lfs diff=lfs merge=lfs -text
+NHS_digital_Treatment_LA.csv filter=lfs diff=lfs merge=lfs -text

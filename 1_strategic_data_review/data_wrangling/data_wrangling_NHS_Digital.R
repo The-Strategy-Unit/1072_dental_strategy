@@ -18,12 +18,20 @@ LeaversJoiners<-read.csv(text=download)
 # Function to format workforce data
 Format<-function(data){
   data%>%
-    filter(Parent_Code_1=="ENG"|Parent_Code_1=="Y60")%>%
     filter(Year=="2015-16"|Year=="2016-17"|Year=="2017-18"|Year=="2018-19"|Year=="2019-20"|Year=="2020-21"|Year=="2021-22") 
 }
 
 Workforce<-Format(Workforce)
 LeaversJoiners<-Format(LeaversJoiners)  
+
+Workforce<-Workforce%>%
+  mutate(Group="Workforce", .after = Org_Code)
+
+names(LeaversJoiners)=names(Workforce)
+
+Workforce<-rbind(Workforce, LeaversJoiners)%>%
+  mutate(Financial_yr=recode(Year, '2015-16'='2016', '2016-17'='2017','2017-18'='2018', '2018-19'='2019', '2019-20'='2020','2020-21'='2021', '2021-22'='2022'))%>%
+  mutate(Financial_yr=format(as.Date(Financial_yr, format="%Y"),"%Y" ))
 
 
 #Dental Attendances
@@ -82,8 +90,9 @@ names(Attendance18b)<-names(Attendance22)
 
 
 Attendance_Post18<-rbind(Attendance22, Attendance21b, Attendance21, Attendance20b, Attendance20, Attendance19b, Attendance19, Attendance18b) %>%
-  filter(REGION_CODE=="Y60") %>%
-  mutate(PSEEN_END_DATE=parse_date(PSEEN_END_DATE))
+  rename(DATE=PSEEN_END_DATE)%>%
+  mutate(DATE=parse_date(DATE))%>%
+  filter((format.Date(DATE, "%m")=="03"|format.Date(DATE, "%m")=="06"|format.Date(DATE, "%m")=="09"|format.Date(DATE, "%m")=="12"))
 
 rm(Attendance22, Attendance21b, Attendance21, Attendance20b, Attendance20, Attendance19b, Attendance19, Attendance18b)
 
@@ -109,7 +118,6 @@ Attendance_Pre18$PATIENT_SEEN_END_DATE[Attendance_Pre18$PATIENT_SEEN_END_DATE=="
 
 Attendance_Pre18<-Attendance_Pre18%>%
   mutate(COUNT=as.numeric(COUNT))%>%
-  filter(PARENT_CODE1=="Q76"|PARENT_CODE1=="Q77"|PARENT_CODE1=="Q78")%>%
   spread(key=PATIENT_TYPE, value=COUNT)%>%
   dplyr::select(-TOTAL, -TOTAL_POPULATION) %>%
   rename(Adult=ADULT_POPULATION, Child=CHILD_POPULATION) %>%
@@ -176,7 +184,11 @@ names(Charges19) <- names(Charges22)
 Clinical_Charges_Post18<-rbind(Charges22, Charges21, Charges20, Charges19)
 
 Clinical_Charges_Post18<- Clinical_Charges_Post18%>%
-  filter(REGION_CODE=="Y60")
+  mutate(FINANCIAL_YR=recode(END_DATE_QUARTER, '2018-19'='2019', '2019-20'='2020','2020-21'='2021', '2021-22'='2022',.default = NA_character_))%>%
+  mutate(FINANCIAL_YR=format(as.Date(FINANCIAL_YR, format="%Y"),"%Y" ))%>%
+  rename(DATE=END_DATE_QUARTER)%>%
+  mutate(DATE=recode(DATE, '30-Sept-20'='30-Sep-20'))%>%
+  mutate(DATE=as.Date(DATE, format="%d-%b-%y"))
 
 rm(Charges22, Charges21, Charges20, Charges19)
 
@@ -196,7 +208,6 @@ names(Charges18a) <- names(Charges17a)
 ClinicalTreatment_Pre18<-rbind(Charges18a, Charges17a, Charges16a, Charges15a)
 
 ClinicalTreatment_Pre18<- ClinicalTreatment_Pre18%>%
-  filter(PARENT_CODE1=="Q76"|PARENT_CODE1=="Q77"|PARENT_CODE1=="Q78")%>%
   rename(VALUE=COUNT)%>%
   rename(MEASURE=CLINICAL_TREATMENT)
 
@@ -212,7 +223,6 @@ names(Charges15b) <- names(Charges17b)
 Charges_Pre18<-rbind(Charges18b, Charges17b, Charges16b, Charges15b)
 
 Charges_Pre18<-  Charges_Pre18%>%
-  filter(PARENT_CODE1=="Q76"|PARENT_CODE1=="Q77"|PARENT_CODE1=="Q78")%>%
   mutate(QUARTER=NA, .after = YEAR)%>%
   mutate(PATIENT_TYPE=NA, .after = PARENT_CODE2)%>%
   mutate(MEASURE=TREATMENT_BAND, .after = TREATMENT_BAND)%>%
@@ -270,10 +280,13 @@ names(Activity21) <- names(Activity22)
 names(Activity20) <- names(Activity22)
 names(Activity19) <- names(Activity22)
 
-Activity_Post18<-rbind(Activity22, Activity21, Activity20, Activity19)
-
-Activity_Post18<-Activity_Post18 %>%
-  filter(REGION_CODE=="Y60")
+Activity_Post18<-rbind(Activity22, Activity21, Activity20, Activity19)%>%
+  rename(DATE=ACTIVITY_END_DATE)%>%
+  mutate(DATE=recode(DATE,'30-Sept-21'='30-Sep-21'))%>%
+  mutate(DATE=recode(DATE,'30-Sept-20'='30-Sep-20'))%>%
+  mutate(DATE=recode(DATE,'30-June-20'='30-Jun-20'))%>%
+  mutate(DATE=recode(DATE,'30-June-21'='30-Jun-21'))%>%
+  mutate(DATE=as.Date(DATE, format="%d-%b-%y"))
 
 rm(Activity22, Activity21, Activity20, Activity19)
 
@@ -295,8 +308,6 @@ names(Activity18) <- names(Activity15)
 
 Activity_Pre18<- rbind(Activity15, Activity16, Activity17, Activity18)
 
-Activity_Pre18<-Activity_Pre18 %>%
-  filter(Parent_Code1=="Q76"|Parent_Code1=="Q77"|Parent_Code1=="Q78")
 
 rm(Activity15, Activity16, Activity17, Activity18)
 
@@ -312,4 +323,3 @@ rm(Activity15, Activity16, Activity17, Activity18)
 #write.csv(Clinical_Charges_Pre18, 'data/NHSDigital_Clinical_Charges_Pre18.csv')
 
 #write.csv(Workforce, 'data/NHSDigital_Workforce.csv')
-#write.csv(LeaversJoiners, 'data/NHSDigital_LeaversJoiners.csv')
