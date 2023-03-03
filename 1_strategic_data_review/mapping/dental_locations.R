@@ -9,59 +9,20 @@ library(leaflet)
 # https://rpubs.com/mattdray/basic-leaflet-maps 
 
 # Locations ----
-# Read in contract data and combine
-dental_contracts_BC  <- read_excel("1_strategic_data_review/data/Dental contracts/Black Country ICS PC dental list October 2022.xlsx"          , skip = 4) %>% clean_names()
-#dental_contracts_BS  <- read_excel("1_strategic_data_review/data/Dental contracts/Birmingham and Solihull ICS PC dental list October 2022.xlsx", skip = 4) %>% clean_names()
-dental_contracts_BS  <- read_excel("1_strategic_data_review/data/Dental contracts/BS ICS PC dental list.xlsx", skip = 4) %>% clean_names()
-dental_contracts_CW  <- read_excel("1_strategic_data_review/data/Dental contracts/Coventry and Warwick ICS PC dental list October 2022.xlsx"   , skip = 4) %>% clean_names()
-dental_contracts_HW  <- read_excel("1_strategic_data_review/data/Dental contracts/Hereford and Worcs ICS PC dental list October 2022.xlsx"     , skip = 4) %>% clean_names()
-dental_contracts_STW <- read_excel("1_strategic_data_review/data/Dental contracts/Shropshire TW ICS PC dental list October 2022.xlsx"          , skip = 4) %>% clean_names()
-dental_contracts_SHR <- read_excel("1_strategic_data_review/data/Dental contracts/Staffordshire ICS PC dental list October 2022..xlsx"         , skip = 4) %>% clean_names()
+dental_services <- 
+  read_csv("1_strategic_data_review/data/reference/dental_services_202303.csv") %>% 
+  clean_names() %>% 
+  select(code, name, type, icb_name, easting, northing, nhs_private) %>% 
+  mutate(code = case_when(type == "Dental Access Centre" ~ paste0("DAC_", row_number()), TRUE ~ code)) %>%
+  mutate(nhs_private = case_when(nhs_private == "#N/A" & type == "Dental Access Centre" ~ "DAC", TRUE ~ nhs_private))
 
-feilds <- c("contract_information", "post_code", "icb_code", "uda_annual_contracted")
-
-dental_contracts_comb <-
-  dental_contracts_BC %>% 
-  select(feilds) %>% 
-  union_all(dental_contracts_BS %>% select(feilds)) %>% 
-  union_all(dental_contracts_CW %>% select(feilds)) %>% 
-  union_all(dental_contracts_HW %>% select(feilds)) %>% 
-  union_all(dental_contracts_STW %>% select(feilds)) %>% 
-  union_all(dental_contracts_SHR %>% select(feilds)) 
-
-rm(
-  "dental_contracts_BC",
-  "dental_contracts_BS",
-  "dental_contracts_CW",
-  "dental_contracts_HW",
-  "dental_contracts_STW",
-  "dental_contracts_SHR",
-  feilds
-  )
-  
-postcode_lookup <- 
-  read_csv("1_strategic_data_review/data/reference/postcode_point_lookup.csv") %>% 
-  clean_names()
-
-# Postcodes to point locations
-dental_locations <-
-  dental_contracts_comb %>% 
-  mutate(post_code_2 = str_replace_all(post_code, " ", "")) %>% 
-  left_join(postcode_lookup %>% select(postcode, eastings, northings), by = c("post_code" = "postcode")) %>% # left join on postcode with spaces
-  left_join(postcode_lookup %>% select(postcode, eastings, northings) , by = c("post_code_2" = "postcode")) %>%  # left join on postcode without spaces
-  mutate(eastings = case_when(!is.na(eastings.x) ~ eastings.x, TRUE ~ eastings.y),
-         northings = case_when(!is.na(northings.x) ~ northings.x, TRUE ~ northings.y)) %>% # select where not NA
-  select(-contains(c(".x", ".y"))) 
-
-# List to shape file
-dental_location_map <-
-  dental_locations %>% 
-  drop_na(eastings) %>% 
-  st_as_sf(coords = c("eastings", "northings"), crs = 27700) %>% # as shape file
-  st_transform(4326) # geometry from eastings/northings to lng/lat
+dental_services_shp <-
+  dental_services %>% 
+  st_as_sf(coords = c("easting", "northing"), crs = 27700) %>% # as shape file
+  st_transform(4326)
 
 dental_location_leaflet <-
-  dental_location_map %>% 
+  dental_services_shp %>% 
   as_tibble() %>% 
   mutate(geometry_chr = as.character(geometry)) %>% 
   mutate(longitude  = as.numeric(str_sub(geometry_chr,  3, 19)),
@@ -96,16 +57,16 @@ leaflet() %>%
              #clusterOptions = markerClusterOptions()
              )
 
-
 # Dental practice deprivation profiles ----
 
 # https://tmieno2.github.io/R-as-GIS-for-Economists/spatial-intersection-transformative-join.html 
 # https://r-spatial.github.io/sf/ 
 
 lsoa_shp <- 
-  read_sf("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA_2021_EW_BSC/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson") %>% 
+  #read_sf("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA_2021_EW_BSC/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson") %>% 
+  read_sf("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LSOA_Dec_2011_Boundaries_Super_Generalised_Clipped_BSC_EW_V3_2022/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson") %>% 
   st_transform(crs = 27700) %>% 
-  select(LSOA21CD, geometry) %>% 
+  select(2, geometry) %>% 
   mutate(lsoa_geometry = geometry) %>% 
   mutate(lsoa_area = st_area(geometry))
 
@@ -141,22 +102,18 @@ west_midlands_lsoas <-
 
 # Test on single practice
 single_practice_location <-
-  dental_location_leaflet %>%
-  select(1,2,6) %>% 
-  filter(contract_information %in% c(1001760000)) %>% 
+  dental_services_shp %>% 
+  filter(code == "V82510") %>% 
   mutate(point_geometry = geometry, 
          buffer = st_buffer(geometry, 1000)) %>% 
   mutate(buffer_geometry = buffer) %>% 
-  st_as_sf() %>% 
   st_transform(crs = 27700)
 
 all_practice_locations <-
-  dental_location_leaflet %>% 
-  select(1,2,6) %>% 
+  dental_services_shp %>% 
   mutate(point_geometry = geometry, 
          buffer = st_buffer(geometry, 1000)) %>% 
   mutate(buffer_geometry = buffer) %>% 
-  st_as_sf() %>% 
   st_transform(crs = 27700)
 
 # Check buffer
@@ -216,10 +173,10 @@ single_practice_intersected_lsoas %>%
 # Pull in IMD of lsoa, weight by amount of intersection and summarise practice by weighted IMD of surrounding LSOA's
 single_practice_intersected_lsoas %>% 
   as_data_frame() %>%
-  left_join(lsoa_imd, by = c("LSOA21CD" = "lsoa11cd")) %>% 
+  left_join(lsoa_imd, by = c("LSOA11CD" = "lsoa11cd")) %>% 
   mutate(imd_decile_weighted = IMDDecil * intersection_proportion) %>% 
   
-  group_by(contract_information) %>% 
+  group_by(code) %>% 
   mutate(n = n()) %>% 
   summarise(imd_decile = sum(imd_decile_weighted)/n) %>% 
   distinct()
@@ -228,6 +185,7 @@ single_practice_intersected_lsoas %>%
 all_intersected_lsoas <-
   st_intersection(lsoa_shp, 
                   all_practice_locations %>% 
+                    filter(type != "Dental Access Centre") %>% 
                     as_data_frame() %>% 
                     select(-geometry, -point_geometry) %>% 
                     st_as_sf() %>% 
@@ -239,17 +197,17 @@ all_intersected_lsoas <-
 
 # Check st_intersection join
 all_intersected_lsoas %>% 
-  filter(contract_information %in% c(
-    "1001620000",
-    "1001640000",
-    "1001760000",
-    "1002670000",
-    "1003980000",
-    "1004000000",
-    "1004040000",
-    "1004050000",
-    "1004590000",
-    "1004630000" )) %>% 
+  filter(code %in% c(
+    "V82510",
+    "V04832",
+    "V04913",
+    "V04896",
+    "V28583",
+    "V04866",
+    "V04874",
+    "V04361",
+    "V28584",
+    "V04838" )) %>% 
   ggplot() + 
   geom_sf(aes(geometry = geometry))
 
@@ -261,13 +219,14 @@ all_intersected_lsoas %>%
 practice_weighted_imd <-
   all_intersected_lsoas %>% 
   as_data_frame() %>%
-  left_join(lsoa_imd, by = c("LSOA21CD" = "lsoa11cd")) %>% 
+  left_join(lsoa_imd, by = c("LSOA11CD" = "lsoa11cd")) %>% 
   mutate(imd_decile_weighted = IMDDecil * intersection_proportion) %>% 
-  group_by(contract_information) %>% 
+  group_by(code) %>% 
   mutate(n = n()) %>% 
   summarise(imd_decile = sum(imd_decile_weighted, na.rm = T)/n) %>% 
   distinct() %>% 
-  mutate(imd_2 = as.numeric(imd_decile)) 
+  mutate(imd_2 = as.numeric(imd_decile)) %>% 
+  ungroup()
 
 # Check distribution of weighted IMD
 practice_weighted_imd %>%
@@ -276,8 +235,8 @@ practice_weighted_imd %>%
 
 # Plot IMD for reference  
 lsoa_shp %>% 
-  filter(LSOA21CD %in% west_midlands_lsoas$LSOA11CD) %>% 
-  left_join(lsoa_imd, by = c("LSOA21CD" = "lsoa11cd")) %>%
+  filter(LSOA11CD %in% west_midlands_lsoas$LSOA11CD) %>% 
+  left_join(lsoa_imd, by = c("LSOA11CD" = "lsoa11cd")) %>%
   mutate(IMD_character = as.character(IMDDecil)) %>% 
   mutate(IMD_character = factor(IMD_character,
                                 levels = c("1","2","3","4","5","6","7","8","9","10"))) %>% 
@@ -287,11 +246,10 @@ lsoa_shp %>%
   geom_sf(data = all_practice_locations) +
   scale_fill_brewer(palette="Spectral")
 
-
-# Nearest dental practice for each lsoa ---- 
+# Update: Nearest dental practice for each lsoa ---- 
 # All lsoas and the nearest practices
 lsoa_shp %>% 
-  filter(LSOA21CD %in% west_midlands_lsoas$LSOA11CD) %>% 
+  filter(LSOA11CD %in% west_midlands_lsoas$LSOA11CD) %>% 
   select(1,2) %>% 
   st_join(all_practice_locations %>% 
             select(1,3,4,5), 
@@ -301,59 +259,69 @@ lsoa_shp %>%
 # LSOA's with no practice associated 
 lsoa_outside_buffer <-
   lsoa_shp %>% 
-  filter(LSOA21CD %in% west_midlands_lsoas$LSOA11CD) %>% #3,396
-  #select(1,2) %>% 
-  left_join(all_intersected_lsoas %>% #10,037
-              as_data_frame() %>%
-              select(LSOA21CD, contract_information, intersection_proportion)
-            ,
-            by = "LSOA21CD"
-            ) %>% #10,180
-  mutate(fill_case = case_when(is.na(contract_information) ~ "no", TRUE ~ "yes")) 
+  filter(LSOA11CD %in% west_midlands_lsoas$LSOA11CD) %>% #3,487
+  left_join(all_intersected_lsoas %>% #11,713
+              as_data_frame(),
+            by = "LSOA11CD"
+            ) %>% #12,170
+  mutate(fill_case = case_when(is.na(code) ~ "no", TRUE ~ "yes")) #12,170
 
 lsoa_outside_buffer %>%
   ggplot() +
   geom_sf(aes(fill = fill_case), colour = NA) +
   geom_sf(data = all_practice_locations)
 
+# Import lsoa population estimates 
+lsoa_pop_20 <- 
+  read_excel("1_strategic_data_review/data/reference/sape23dt2mid2020lsoasyoaestimatesunformatted.xlsx", 
+                          sheet = "Mid-2020 Persons", skip = 4) %>% 
+  select(1,7) %>% 
+  clean_names() %>% 
+  rename(pop_20 = all_ages)
 
-
-# Isolate lsoa's with no practices
+# Isolate lsoa's with no practices (469 lsoa's)
 a <-
   lsoa_shp %>% 
-  filter(LSOA21CD %in% lsoa_outside_buffer$LSOA21CD[lsoa_outside_buffer$fill_case == "no"]) %>% #725 lsoa's
+  filter(LSOA11CD %in% lsoa_outside_buffer$LSOA11CD[lsoa_outside_buffer$fill_case == "no"]) %>% 
   #select(1,2) %>% 
   st_join(all_practice_locations %>% 
-            select(1,3,4,5), 
+            select(1,3,4,5) %>% 
+            filter(type != "Dental Access Centre"), 
           join = st_nearest_feature
           ) %>% 
-  left_join(lsoa_imd, by = c("LSOA21CD" = "lsoa11cd"))
-
+  left_join(lsoa_imd, by = c("LSOA11CD" = "lsoa11cd"))
 
 # Join to buffers 
 b <-
   all_intersected_lsoas %>% 
   as_data_frame() %>%
-  left_join(lsoa_imd, by = c("LSOA21CD" = "lsoa11cd")) 
+  left_join(lsoa_imd, by = c("LSOA11CD" = "lsoa11cd")) 
 
-
-# Link to IMD - group and summarise
+# Calculate the number of registrations at each practice by deprivation decile
 c <-
   a %>% 
   union_all(b) %>% 
   as_data_frame() %>%
-  select(LSOA21CD, contract_information, IMDDecil, intersection_proportion) %>% 
+  select(LSOA11CD, code, type, icb_name, nhs_private, IMDDecil, intersection_proportion) %>% 
+  left_join(lsoa_pop_20, by = c("LSOA11CD" = "lsoa_code")) %>% 
   mutate(intersection_proportion = as.numeric(intersection_proportion)) %>% 
   mutate(intersection_proportion = 
            case_when(is.na(intersection_proportion) ~ 1, 
                      TRUE ~ intersection_proportion
                      )
          ) %>% # where intersection is na (i.e. not in any buffer) - weight = 1, all population go to closest dental practice
-  mutate(imd_decile_weighted = IMDDecil * intersection_proportion) %>%  
-  group_by(contract_information) %>% 
-  mutate(n = n()) %>% 
-  summarise(imd_decile = sum(imd_decile_weighted, na.rm = T)/n) %>% 
-  distinct()  
+  mutate(weighted_pop = pop_20 * intersection_proportion) %>% 
+  group_by(code, IMDDecil) %>% 
+  summarise(practice_pop = sum(weighted_pop)) %>% 
+  ungroup()
+
+# Calculate average deprivation by weighted population for each practice
+d <-
+  c %>% 
+  group_by(code) %>% 
+  mutate(pop_proportion = practice_pop / sum(practice_pop)) %>%
+  mutate(weighted_deprivation = IMDDecil * pop_proportion) %>%
+  summarise(avg_deprivation = sum(weighted_deprivation)) #905 practices 
 
 
 # Visualise practices weighted-deprivation scores 
@@ -361,18 +329,47 @@ library(patchwork)
 (practice_weighted_imd %>%
     ggplot(aes(x = imd_2, after_stat(count))) +
     geom_density() +
-    ylim(0,300) +
-    xlim(0,7) +
+    ylim(0,400) +
+    xlim(0,10) +
     labs(title = "")
   ) +
-  (c %>%
-     ggplot(aes(x = imd_decile, after_stat(count))) +
+  (d %>%
+     ggplot(aes(x = avg_deprivation, after_stat(count))) +
      geom_density() +
-     ylim(0,300) +
-     xlim(0,7)
+     ylim(0,400) +
+     xlim(0,10) +
+     labs(title = "")
   )
 
 
+# Write csv listing dental practices with weighted deprivation ----
+write_csv(dental_services %>%
+            left_join(d, by = "code"),
+          "1_strategic_data_review/data/reference/dental_services_202303_weighted_deprivation.csv"
+          )
+
+
+# Plot position of practices by nhs vs private - for reference
+lsoa_shp %>% 
+  filter(LSOA11CD %in% west_midlands_lsoas$LSOA11CD) %>% 
+ 
+  ggplot() +
+  geom_sf(fill = NA, colour = "grey") +
+  geom_sf(data = all_practice_locations %>% 
+            filter(nhs_private != "#N/A") %>% 
+            mutate(nhs_private = case_when(nhs_private == "D" ~ "1. NHS Dentist",
+                                           nhs_private == "P" ~ "2. Private Dentist",
+                                           nhs_private == "DAC" ~ "3. DAC")), 
+          aes(colour = nhs_private, size = nhs_private)) +
+  theme_minimal() +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank()
+        ) +
+  labs(title = "Geographic distribution of dental practice by type", 
+       subtitle = "West Midlands | 2023",
+       caption = "Note: DAC refers to Dental Access Centre",
+       color = "Practice type", 
+       size = "Practice type")
 
 
 

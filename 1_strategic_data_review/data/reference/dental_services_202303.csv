@@ -1,0 +1,906 @@
+Code,Name,Address 1,Address 2,Address 3,Address 4,Address 5,Postcode,Type,Parent Organisation Code,Parent Organisation Name,ICB_name,easting,northing,nhs_private
+V82510,Birmingham Dental Specialists,9 Waterfront Walk,,,Birmingham,,B1 1TX,Dental service,,,Birmingham and Solihull,406320,286333,P
+V04832,Dental Surgery,103a Golden Hillock Road,Small Heath,,Birmingham,West Midlands,B10 0DP,Dental service,,,Birmingham and Solihull,409678,285369,D
+V04913,Dental Surgery,410 Coventry Road,Small Heath,,Birmingham,West Midlands,B10 0UF,Dental service,,,Birmingham and Solihull,409473,285943,D
+V04896,Dental Surgery,628 Coventry Road,Small Heath,,Birmingham,West Midlands,B10 0UT,Dental service,,,Birmingham and Solihull,410177,285527,D
+V28583,Grantham Road (Dental Surgery),34 Grantham Road,,,Sparkbrook,West Midlands,B11 1LU,Dental service,,,Birmingham and Solihull,408840,284968,D
+V04866,Dental Surgery,1 Poplar Road,Sparkhill,,Birmingham,West Midlands,B11 1UH,Dental service,,,Birmingham and Solihull,409080,284450,D
+V04874,Dental Surgery,576 Warwick Road,Tyseley,,Birmingham,West Midlands,B11 2HR,Dental service,,,Birmingham and Solihull,410360,283952,D
+V04361,Stratford Road (Dental Surgery),604 Stratford Road,Sparkhill,,Birmingham,West Midlands,B11 4AP,Dental service,,,Birmingham and Solihull,409402,283574,D
+V28584,Stratford Road (Dental Surgery),856 Stratford Road,,,Birmingham,West Midlands,B11 4BW,Dental service,,,Birmingham and Solihull,409720,282958,D
+V04838,Dental Surgery,835 Stratford Road,Sparkhill,,Birmingham,West Midlands,B11 4DA,Dental service,,,Birmingham and Solihull,409713,282898,D
+V04894,Prime Dental Surgery,543 Stratford Road,Sparkhill,,Birmingham,West Midlands,B11 4LP,Dental service,,,Birmingham and Solihull,409182,283942,D
+V04817,Dental Surgery,286 Ladypool Road,,,Birmingham,West Midlands,B12 8JU,Dental service,,,Birmingham and Solihull,408460,284152,D
+V04909,Dental Surgery,115 Ladypool Road,,,Birmingham,West Midlands,B12 8LH,Dental service,,,Birmingham and Solihull,408463,284475,D
+V08191,S. Birmingham Community Health,Balsall Heath Health Centre,43 Edward Road,,Birmingham,West Midlands,B12 9LP,Dental service,,,Birmingham and Solihull,407711,284387,D
+V04898,Dental Surgery,3 Cromer Road,,,Birmingham,West Midlands,B12 9QP,Dental service,,,Birmingham and Solihull,407742,284140,D
+V01334,Dental Surgery,208 Swanshurst Lane,,,Birmingham,West Midlands,B13 0AW,Dental service,,,Birmingham and Solihull,409644,281767,D
+V01185,Dental Surgery,9 Salisbury Road,Moseley,,Birmingham,West Midlands,B13 8JS,Dental service,,,Birmingham and Solihull,407588,283172,D
+V85778,Mango Tree Dental,11 Wake Green Road,,,Birmingham,,B13 9HB,Dental service,,,Birmingham and Solihull,408095,283085,P
+V01193,Dental Surgery,159 Prince of Wales Lane,,,Birmingham,West Midlands,B14 4LR,Dental service,,,Birmingham and Solihull,409003,279103,D
+V01200,Dental Surgery,1032 Alcester Road South,,,Birmingham,West Midlands,B14 5NG,Dental service,,,Birmingham and Solihull,407736,278606,D
+V01202,Dental Surgery,145 Bells Lane,,,Birmingham,West Midlands,B14 5QJ,Dental service,,,Birmingham and Solihull,406089,278803,D
+V07264,Dental Surgery,31 Livingstone Road,Kings Heath,,Birmingham,West Midlands,B14 6DJ,Dental service,,,Birmingham and Solihull,407149,280635,D
+V01183,Dental Surgery,262 Alcester Road South,,,Birmingham,West Midlands,B14 6DR,Dental service,,,Birmingham and Solihull,407402,280527,D
+V01217,James Hull Dental Care,108 High Street,Kings Heath,,Birmingham,West Midlands,B14 7LG,Dental service,,,Birmingham and Solihull,407359,281787,D
+V01204,Midlands Smile Centres,306 Vicarage Road,Kings Heath,,Birmingham,,B14 7NH,Dental service,,,Birmingham and Solihull,406426,281068,D
+V01186,Dental Surgery,18 Islington Row Middleway,,,Birmingham,West Midlands,B15 1LD,Dental service,,,Birmingham and Solihull,405719,286029,D
+V28579,Attwood Green Health Centre,30 Bath Row,,,Birmingham,West Midlands,B15 1LZ,Dental service,,,Birmingham and Solihull,406317,286062,D
+V83108,Mycol Ltd,18 Elvetham Road,,,Birmingham,,B15 2LY,Dental service,,,Birmingham and Solihull,406201,285707,P
+V10129,Pritchatts Road (Dental Surgery),5 Pritchatts Road,,,Birmingham,West Midlands,B15 2QU,Dental service,,,Birmingham and Solihull,404311,284212,D
+V83225,Highfield Dental Clinic,2 Highfield Road,Edgbaston,,Birmingham,,B15 3ED,Dental service,,,Birmingham and Solihull,405080,285895,P
+V83317,Signature Orthodontics Ltd,38 Harborne Road,,,Birmingham,,B15 3HE,Dental service,,,Birmingham and Solihull,405070,285753,P
+V01208,Dental Surgery,78 Harborne Road,,,Birmingham,West Midlands,B15 3HN,Dental service,,,Birmingham and Solihull,404770,285640,D
+V82612,Nursery Road Dental Practice,1 Nursery Road,Edgbaston,,Birmingham,West Midlands,B15 3JX,Dental service,,,Birmingham and Solihull,403928,284887,P
+V83128,Liberty Place,Unit 4-5,Liberty Place,Sheepcote Street,Birmingham,,B16 8AE,Dental service,,,Birmingham and Solihull,405696,286826,P
+V04828,Dental Surgery,280 Monument Road,,,Birmingham,West Midlands,B16 8XP,Dental service,,,Birmingham and Solihull,404939,286534,D
+V01223,Dental Surgery,17 Portland Road,,,Birmingham,West Midlands,B16 9HN,Dental service,,,Birmingham and Solihull,404274,286127,D
+V80404,Edgbaston Orthodontics,17 Portland Road,,,Birmingham,West Midlands,B16 9HN,Dental service,,,Birmingham and Solihull,404274,286127,P
+V01195,Dental Surgery,1 St. Peters Road,Harborne,,Birmingham,West Midlands,B17 0AT,Dental service,,,Birmingham and Solihull,403038,284227,D
+V08239,Dental Surgery,23 Metchley Lane,,,Birmingham,West Midlands,B17 0HP,Dental service,,,Birmingham and Solihull,403936,284650,D
+V01444,Rooprai-Rooprai & Associates,68 Northfield Road,Harborne,,Birmingham,West Midlands,B17 0SU,Dental service,,,Birmingham and Solihull,402391,284019,D
+V01209,Knightlow Road (Dental Surgery),177 Knightlow Road,,,Birmingham,West Midlands,B17 8PY,Dental service,,,Birmingham and Solihull,403082,285541,D
+V01226,Dental Surgery,1 Court Oak Road,,,Birmingham,West Midlands,B17 9TH,Dental service,,,Birmingham and Solihull,402608,284673,D
+V08190,Dental Dept.,H M Prison,Winson Green Road,,Birmingham,West Midlands,B18 4AS,Dental service,,,Birmingham and Solihull,404272,288288,D
+V04912,Dental Surgery,364 Dudley Road,,,Birmingham,West Midlands,B18 4HJ,Dental service,,,Birmingham and Solihull,403885,287642,D
+V13874,Synergy Dental Practice Limited,Summerfield Primary Health Care,134 Heath Street,,Birmingham,West Midlands,B18 7AL,Dental service,,,Birmingham and Solihull,404357,287751,D
+V05354,Broadway Dental Suite,Cope Street,,,Birmingham,West Midlands,B18 7BA,Dental service,,,Birmingham and Solihull,405252,287211,D
+V05873,Heathfield Road Dental Practice,191 Heathfield Road,Handsworth,,Birmingham,West Midlands,B19 1JD,Dental service,,,Birmingham and Solihull,406375,289958,D
+V05876,Birchfield Dental Practice,195 Birchfield Road,,,Birmingham,West Midlands,B19 1LL,Dental service,,,Birmingham and Solihull,406708,289959,D
+V14946,Birchfield Road (Dental Surgery),191-193 Birchfield Road,,,Birmingham,West Midlands,B19 1LL,Dental service,,,Birmingham and Solihull,406708,289959,D
+V04825,Dental Surgery,19 Birchfield Road,,,Birmingham,West Midlands,B19 1SU,Dental service,,,Birmingham and Solihull,406924,289505,D
+V04840,Dental Surgery,15 Shopping Centre,Wheeler Street,,Birmingham,West Midlands,B19 2ER,Dental service,,,Birmingham and Solihull,406606,288866,D
+V04871,Dental Surgery,176 Lozells Road,,,Birmingham,West Midlands,B19 2SX,Dental service,,,Birmingham and Solihull,406243,289437,D
+V04914,Lozells Road (Dental Surgery),54b Lozells Road,,,Birmingham,West Midlands,B19 2TJ,Dental service,,,Birmingham and Solihull,406646,289404,D
+V04810,Farm Street (Dental Surgery),357 Farm Street,,,Birmingham,West Midlands,B19 2TZ,Dental service,,,Birmingham and Solihull,406090,288667,D
+V82835,Mismile Birmingham,Unit A-B,Burlington Court,18 Lower Temple Street,Birmingham,,B2 4JD,Dental service,,,Birmingham and Solihull,406950,286776,P
+V04835,Dental Surgery,Grenville Building,12 Cherry Street,,Birmingham,West Midlands,B2 5AR,Dental service,,,Birmingham and Solihull,407098,286929,D
+V05051,Dental Surgery,32-36 Englestede Close,,,Birmingham,West Midlands,B20 1BJ,Dental service,,,Birmingham and Solihull,404963,291433,D
+V04839,Dental Surgery,94 Church Lane,Handsworth,,Birmingham,West Midlands,B20 2ES,Dental service,,,Birmingham and Solihull,404970,290574,D
+V04863,Handsworth Dental Care,119 Holyhead Road,,,Birmingham,West Midlands,B21 0HH,Dental service,,,Birmingham and Solihull,403489,289879,D
+V13853,78 Soho Road (Dental Practice),78 Soho Road,,,Birmingham,West Midlands,B21 9BN,Dental service,,,Birmingham and Solihull,404996,289364,D
+V04897,Grove Lane Dental Surgery,105 Grove Lane,Handsworth,,Birmingham,West Midlands,B21 9HF,Dental service,,,Birmingham and Solihull,404710,289925,D
+V04830,Dental Surgery,276 Rookery Road,Handsworth,,Birmingham,West Midlands,B21 9QG,Dental service,,,Birmingham and Solihull,404234,290599,D
+V04902,Dental Surgery,220 Rookery Road,Handsworth,,Birmingham,West Midlands,B21 9QG,Dental service,,,Birmingham and Solihull,404234,290599,D
+V28582,247-251,Soho Road,,,Birmingham,West Midlands,B21 9RY,Dental service,,,Birmingham and Solihull,404515,289464,D
+V04904,Dental Surgery,271 Soho Road,,,Birmingham,West Midlands,B21 9SA,Dental service,,,Birmingham and Solihull,404399,289517,D
+V02364,Dental Surgery,Denbigh House,117 Sutton Road,,Birmingham,West Midlands,B23 5XB,Dental service,,,Birmingham and Solihull,411656,292733,D
+V02329,Dental Surgery,129 Gravelly Hill North,Erdington,,Birmingham,West Midlands,B23 6BJ,Dental service,,,Birmingham and Solihull,410542,291441,D
+V81636,Stockland Green Health Centre,192 Reservoir Road,Erdington,,Birmingham,,B23 6DJ,Dental service,,,Birmingham and Solihull,409777,291788,D
+V02366,Dental Surgery,32 Summer Road,Erdington,,Birmingham,West Midlands,B23 6XA,Dental service,,,Birmingham and Solihull,410667,291675,D
+V02331,Smiles 4 U,62 Gravelly Hill,,,Birmingham,West Midlands,B23 7PF,Dental service,,,Birmingham and Solihull,410016,290373,D
+V02386,Dental Surgery,1A Henry Road,,,Birmingham,West Midlands,B25 8AH,Dental service,,,Birmingham and Solihull,412353,285039,D
+V02356,Yew Tree Dental Surgery,529 Hob Moor Road,Yardley,,Birmingham,West Midlands,B25 8TH,Dental service,,,Birmingham and Solihull,412829,285474,D
+V02318,Bhandal Dental Practice,1746 Coventry Road,Yardley,,Birmingham,West Midlands,B26 1BG,Dental service,,,Birmingham and Solihull,413235,284871,D
+V02304,Dental Surgery,22 Manor House Lane,,,Birmingham,West Midlands,B26 1PG,Dental service,,,Birmingham and Solihull,413557,284941,D
+V02382,Dental Surgery,151 New Coventry Road,,,Birmingham,West Midlands,B26 3DX,Dental service,,,Birmingham and Solihull,414180,284043,D
+V02360,Dental Surgery,26 Sheaf Lane,,,Birmingham,West Midlands,B26 3HD,Dental service,,,Birmingham and Solihull,414893,283925,D
+V02374,Coventry Road (Dental Surgery),2236a Coventry Road,Sheldon,,Birmingham,West Midlands,B26 3JH,Dental service,,,Birmingham and Solihull,415012,283795,D
+V02334,Whitecross Dental Practice,Unit 2,1078 Warwick Road,Acocks Green,Birmingham,West Midlands,B27 6BH,Dental service,,,Birmingham and Solihull,412146,283192,D
+V02706,Dental Surgery,28 Station Road,Acocks Green,,Birmingham,West Midlands,B27 6DN,Dental service,,,Birmingham and Solihull,412225,283325,D
+V80163,Village Dental Surgery,28 Station Road,Acocks Green,,Birmingham,West Midlands,B27 6DN,Dental service,,,Birmingham and Solihull,412225,283325,P
+V01474,Dental Surgery,63 Westley Road,,,Birmingham,West Midlands,B27 7UQ,Dental service,,,Birmingham and Solihull,411917,283131,D
+V01196,Orthodontist Surgery,20 Summer Road,Acocks Green,,Birmingham,West Midlands,B27 7UT,Dental service,,,Birmingham and Solihull,411400,282996,D
+V01436,Dental Surgery,109 Westley Road,,,Birmingham,West Midlands,B27 7UW,Dental service,,,Birmingham and Solihull,411762,283111,D
+V01462,Dental Surgery,58 Shirley Road,Acocks Green,,Birmingham,West Midlands,B27 7XH,Dental service,,,Birmingham and Solihull,412049,283023,D
+V01438,Victoria Road (Dental Surgery),3 Victoria Road,Acocks Green,,Birmingham,West Midlands,B27 7XZ,Dental service,,,Birmingham and Solihull,412356,282958,D
+V211879,Stratford Orthodontics,1025 Stratford Road,Hall Green,,Birmingham,,B28 8BG,Dental service,,,Birmingham and Solihull,410311,282522,D
+V01477,Dental Surgery,214 Reddings Lane,Hall Green,,Birmingham,West Midlands,B28 8TD,Dental service,,,Birmingham and Solihull,410361,282719,D
+V08202,Dental Surgery,1381 Stratford Road,Hall Green,,Birmingham,West Midlands,B28 9HS,Dental service,,,Birmingham and Solihull,410913,280827,D
+V01430,Dental Surgery,1491 Stratford Road,Hall Green,,Birmingham,West Midlands,B28 9HT,Dental service,,,Birmingham and Solihull,411053,280575,D
+V01180,Sherwood Dental Practice,633 Shirley Road,Hall Green,,Birmingham,West Midlands,B28 9JU,Dental service,,,Birmingham and Solihull,411305,281396,D
+V01189,Dental Surgery,267 Barnes Hill,,,Birmingham,West Midlands,B29 5TX,Dental service,,,Birmingham and Solihull,401689,282140,D
+V11748,476 - 478 Bristol Road (Dental Practice),476-478 Bristol Road,Selly Oak,,Birmingham,West Midlands,B29 6BD,Dental service,,,Birmingham and Solihull,404785,283138,D
+V01198,JD Dental Surgery,110 Raddlebarn Road,Selly Oak,,Birmingham,West Midlands,B29 6HH,Dental service,,,Birmingham and Solihull,404938,282130,D
+V01211,Oakville Dental Centre,968 Bristol Road,Selly Oak,,Birmingham,West Midlands,B29 6NB,Dental service,,,Birmingham and Solihull,403921,282067,D
+V01222,Dental Surgery,213 Harborne Lane,Selly Oak,,Birmingham,West Midlands,B29 6SS,Dental service,,,Birmingham and Solihull,403914,282959,D
+V83214,Selly Park Dental Centre,631 Pershore Road,Selly Park,,Birmingham,,B29 7HB,Dental service,,,Birmingham and Solihull,405884,283117,P
+V01464,South Birmingham Orthodontics,681 Pershore Road,Selly Park,,Birmingham,West Midlands,B29 7NY,Dental service,,,Birmingham and Solihull,405831,282858,D
+V45089,Cadbury Dental Practice (29 Sycamore Road),Bournville,,,Birmingham,West Midlands,B30 2AB,Dental service,,,Birmingham and Solihull,404555,281342,D
+V01192,Dental Surgery,1493 Pershore Road,Stirchley,,Birmingham,West Midlands,B30 2JL,Dental service,,,Birmingham and Solihull,405389,280855,D
+V01194,Station Dental Practice,61 Pershore Road South,,,Birmingham,West Midlands,B30 3EL,Dental service,,,Birmingham and Solihull,404768,279506,D
+V08178,Northfield Health Centre,15 St Heliers Road,,,Birmingham,West Midlands,B31 1QT,Dental service,,,Birmingham and Solihull,401744,279418,D
+V01191,Dental Surgery,58 Bunbury Road,,,Birmingham,West Midlands,B31 2DW,Dental service,,,Birmingham and Solihull,403220,279683,D
+V01212,Dental Surgery,990 Bristol Road South,Northfield,,Birmingham,West Midlands,B31 2PE,Dental service,,,Birmingham and Solihull,401937,279172,D
+V01225,Hilltop Dental Spa,1007 Bristol Road South,Northfield,,Birmingham,,B31 2QT,Dental service,,,Birmingham and Solihull,401870,279182,D
+V01123,Dental Surgery,31 Redhill Road,Northfield,,Birmingham,West Midlands,B31 3JS,Dental service,,,Birmingham and Solihull,402813,277820,D
+V01478,Dental Surgery,225 Longbridge Lane,,,Birmingham,West Midlands,B31 4RE,Dental service,,,Birmingham and Solihull,401915,277309,D
+V07263,Hollymoor Tower Dental Surgery,Manor Park Grove,Northfield,,Birmingham,West Midlands,B31 5ER,Dental service,,,Birmingham and Solihull,400177,278441,D
+V01190,Dental Surgery,735 Hagley Road West,,,Birmingham,West Midlands,B32 1DJ,Dental service,,,Birmingham and Solihull,399716,284889,D
+V07262,Euro Dental Care,368 Court Oak Road,Harborne,,Birmingham,West Midlands,B32 2DY,Dental service,,,Birmingham and Solihull,401334,284715,D
+V01479,Jiggins Lane (Dental Surgery),17 Jiggins Lane,,,Birmingham,West Midlands,B32 3LE,Dental service,,,Birmingham and Solihull,400409,282092,D
+V01187,Dental Surgery,12 Curdale Road,,,Birmingham,West Midlands,B32 4HB,Dental service,,,Birmingham and Solihull,399704,281750,D
+V02370,21-21a Bell Lane (Dental Surgery),21-21a Bell Lane,Kitts Green,,Birmingham,West Midlands,B33 0HS,Dental service,,,Birmingham and Solihull,416289,286163,D
+V02295,Sheldon Dental Surgery,197 Meadway,,,Birmingham,West Midlands,B33 8NB,Dental service,,,Birmingham and Solihull,414393,286563,D
+V12804,Richmond Primary Care Centre,299 Bordesley Green East,Stechford,,Birmingham,West Midlands,B33 8TA,Dental service,,,Birmingham and Solihull,412491,286693,D
+V02291,Glebe Farm Dental Care,21 Glebe Farm Road,Stechford,,Birmingham,West Midlands,B33 9LY,Dental service,,,Birmingham and Solihull,414146,287828,D
+V02327,Dental Surgery,104 Lea Village,,,Birmingham,West Midlands,B33 9SD,Dental service,,,Birmingham and Solihull,415016,287160,D
+V02380,Dental Surgery,221 Heath Way,,,Birmingham,West Midlands,B34 6QU,Dental service,,,Birmingham and Solihull,414338,288962,D
+V02325,Castle Dental Care,Tangmere Square,Castle Vale,,Birmingham,West Midlands,B35 6DL,Dental service,,,Birmingham and Solihull,413991,291108,D
+V06779,Dental Surgery,11 Green Lane,Castle Bromwich,,Birmingham,West Midlands,B36 0AY,Dental service,,,Birmingham and Solihull,415832,289949,D
+V06784,Dental Surgery,261 Chester Road,Castle Bromwich,,Birmingham,West Midlands,B36 0ET,Dental service,,,Birmingham and Solihull,415911,289353,D
+V07890,Lansdown Dental Practice,711 Chester Road,Kingshurst,,Birmingham,West Midlands,B36 0LN,Dental service,,,Birmingham and Solihull,417677,288296,D
+V196059,Smith's Wood Medical Centre,Burtons Way,,,Birmingham,,B36 0SZ,Dental service,,,Birmingham and Solihull,417234,289494,D
+V28581,Roughlea Avenue (Dental Surgery),Roughlea Avenue,,,Birmingham,West Midlands,B36 8GH,Dental service,,,Birmingham and Solihull,413595,289456,D
+V06444,266 Bradford Road (Dental Practice),266 Bradford Road,,,Birmingham,West Midlands,B36 9AB,Dental service,,,Birmingham and Solihull,415229,289328,D
+V07102,Dental Surgery,Crabtree Drive,,,Birmingham,West Midlands,B37 5BU,Dental service,,,Birmingham and Solihull,416829,286989,D
+V06772,Kingshurst Dental Surgery,16 The Parade,Kingshurst,,Birmingham,West Midlands,B37 6BA,Dental service,,,Birmingham and Solihull,417022,288476,D
+V06790,Wilkinson Dental Care,21 Station Road,Marston Green,,Birmingham,West Midlands,B37 7AB,Dental service,,,Birmingham and Solihull,416891,285516,D
+V32506,Hedingham Grove Dental Surgery,5 Hedingham Grove,Chelmsley Wood,,Birmingham,West Midlands,B37 7TP,Dental service,,,Birmingham and Solihull,418555,286639,D
+V01221,Mydentist,183 Redditch Road,Kings Norton,,Birmingham,West Midlands,B38 8RH,Dental service,,,Birmingham and Solihull,404590,278355,D
+V01199,Dental Surgery,30 The Green,Kings Norton,,Birmingham,West Midlands,B38 8SD,Dental service,,,Birmingham and Solihull,404900,278769,D
+V01203,Dental Surgery,38 The Fold,,,Birmingham,,B38 9BL,Dental service,,,Birmingham and Solihull,405133,278217,D
+V08177,Hawkesley Health Centre,375 Shannon Road,,,Birmingham,West Midlands,B38 9TJ,Dental service,,,Birmingham and Solihull,404350,277493,D
+V04849,Dental Surgery,The Aston Triangle,,,Birmingham,West Midlands,B4 7ET,Dental service,,,Birmingham and Solihull,407502,287641,D
+V03318,Walsall Road (Dental Surgery),862 Walsall Road,Great Barr,,Birmingham,West Midlands,B42 1ES,Dental service,,,Birmingham and Solihull,404944,293747,D
+V12300,Walsall Road (Dental Surgery),289 Walsall Road,Perry Barr,,Birmingham,West Midlands,B42 1TY,Dental service,,,Birmingham and Solihull,406586,291983,D
+V02401,Dental Surgery,354-356 College Road,,,Birmingham,West Midlands,B44 0HH,Dental service,,,Birmingham and Solihull,408286,292938,D
+V28530,402-404 Kingstanding Road (Dental Practice),Kingstanding Road,,,Birmingham,West Midlands,B44 8LD,Dental service,,,Birmingham and Solihull,407800,293680,D
+V13852,Dyas Road (Dental Surgery),352 Dyas Road,Great Barr,,Birmingham,West Midlands,B44 8TB,Dental service,,,Birmingham and Solihull,406732,293947,D
+V02439,Dental Health Centre,643 Kingstanding Road,,,Birmingham,West Midlands,B44 9SU,Dental service,,,Birmingham and Solihull,407975,294945,D
+V01188,Dental Surgery,22 Arden Road,Rubery,Rednal,Birmingham,West Midlands,B45 0JA,Dental service,,,Birmingham and Solihull,399003,278334,D
+V01210,17 Edgewood Road,Rednal,,,Birmingham,West Midlands,B45 8SB,Dental service,,,Birmingham and Solihull,400098,276787,D
+V08189,Dental Dept.,Reaside Clinic,Bristol Road South Rednal,,Birmingham,West Midlands,B45 9BE,Dental service,,,Birmingham and Solihull,399530,278019,D
+V01465,Dental Surgery,127 Pershore Road,,,Birmingham,West Midlands,B5 7NX,Dental service,,,Birmingham and Solihull,406809,285064,D
+V08170,Trinity Road (Dental Surgery),175 Trinity Road,,,Birmingham,West Midlands,B6 6JA,Dental service,,,Birmingham and Solihull,407531,290059,D
+V24833,Community Dental Services,Bchc 3 Priestley Wharf,Holt Street,Aston,Birmingham,West Midlands,B7 4BN,Dental service,,,Birmingham and Solihull,407851,287718,D
+V04843,Rupert Street (Dental Surgery),66 Rupert Street,,,Birmingham,West Midlands,B7 5DT,Dental service,,,Birmingham and Solihull,408464,288414,D
+V02436,Midland Orthodontists,7 Penns Lane,Wylde Green,,Sutton Coldfield,West Midlands,B72 1AY,Dental service,,,Birmingham and Solihull,412070,293205,D
+V80067,JM Dental Care,3 While Road,,,Sutton Coldfield,West Midlands,B72 1ND,Dental service,,,Birmingham and Solihull,411978,295579,P
+V80065,Dental Care Partnership,60 Birmingham Road,,,Sutton Coldfield,West Midlands,B72 1QP,Dental service,,,Birmingham and Solihull,411840,295404,P
+V82613,Sutton Aesthetic Dentistry,4 South Parade,,,Sutton Coldfield,West Midlands,B72 1QY,Dental service,,,Birmingham and Solihull,412254,295887,P
+V02388,Coleshill Street (Dental Surgery),29 Coleshill Street,,,Sutton Coldfield,West Midlands,B72 1SD,Dental service,,,Birmingham and Solihull,412210,296319,D
+V09095,Dental Surgery,27 Coleshill Street,,,Sutton Coldfield,West Midlands,B72 1SD,Dental service,,,Birmingham and Solihull,412210,296319,D
+V02431,Sharma,7 Coleshill Street,,,Sutton Coldfield,West Midlands,B72 1SD,Dental service,,,Birmingham and Solihull,412210,296319,D
+V02396,Noble Dental Practice,9 Mill Street,,,Sutton Coldfield,West Midlands,B72 1TJ,Dental service,,,Birmingham and Solihull,412101,296325,D
+V11341,Oasis Dental Care Limited,8 Mill Street,,,Sutton Coldfield,West Midlands,B72 1TJ,Dental service,,,Birmingham and Solihull,412101,296325,D
+V02422,Dental Surgery,6 Chester Road,,,Sutton Coldfield,West Midlands,B73 5DA,Dental service,,,Birmingham and Solihull,409682,294405,D
+V14813,M.C. Reece & Associates,22a Chester Road,,,Sutton Coldfield,West Midlands,B73 5DA,Dental service,,,Birmingham and Solihull,409682,294405,D
+V82676,Reece Associates Llp,22a Chester Road,,,Sutton Coldfield,,B73 5DA,Dental service,,,Birmingham and Solihull,409682,294405,P
+V02418,Antrobus Dental Surgery,144 Boldmere Road,,,Sutton Coldfield,West Midlands,B73 5UD,Dental service,,,Birmingham and Solihull,410895,294263,D
+V82558,Boldmere Dental Practice,251 Jockey Road,,,Sutton Coldfield,West Midlands,B73 5XE,Dental service,,,Birmingham and Solihull,410667,294688,P
+V82981,Birmingham Orthodontics,35 Reay Nadin Drive,,,Sutton Coldfield,West Midlands,B73 6UR,Dental service,,,Birmingham and Solihull,408522,295735,P
+V02438,Belwell Dental,14 Belwell Lane,,,Sutton Coldfield,West Midlands,B74 4AL,Dental service,,,Birmingham and Solihull,411322,298789,D
+V80041,Browne's Dental Surgery,299 Lichfield Road,,,Sutton Coldfield,West Midlands,B74 4BZ,Dental service,,,Birmingham and Solihull,411517,298994,P
+V83098,Crown House Dental Practice,89 Walsall Road,,,Sutton Coldfield,,B74 4NH,Dental service,,,Birmingham and Solihull,410415,299085,P
+V02412,Dental Surgery,2 Four Oaks Common Road,,,Sutton Coldfield,West Midlands,B74 4NJ,Dental service,,,Birmingham and Solihull,410470,299217,D
+V03317,Arthur House Dental Practice,Arthur House,21 Mere Green Road,,Sutton Coldfield,West Midlands,B75 5BL,Dental service,,,Birmingham and Solihull,411705,298890,D
+V02385,Dental Surgery,5A Mere Green Road,,,Sutton Coldfield,West Midlands,B75 5BL,Dental service,,,Birmingham and Solihull,411705,298890,D
+V83255,Smile Solutions,140 Mere Green Road,,,Sutton Coldfield,,B75 5DB,Dental service,,,Birmingham and Solihull,412191,298761,P
+V02467,Walmley Dental Surgery,1-2 Walmley Chambers,3 Walmley Close,,Sutton Coldfield,West Midlands,B76 1NQ,Dental service,,,Birmingham and Solihull,413606,293611,D
+V02392,Dental Surgery,462 Walmley Road,,,Sutton Coldfield,West Midlands,B76 1PA,Dental service,,,Birmingham and Solihull,413452,295747,D
+V02409,Dental Surgery,321 Wylde Green Road,,,Sutton Coldfield,West Midlands,B76 1RF,Dental service,,,Birmingham and Solihull,413560,293855,D
+V04895,Dental Surgery,2A Bowyer Road,,,Birmingham,West Midlands,B8 1ET,Dental service,,,Birmingham and Solihull,410133,287765,D
+V02314,Dental Surgery,5 Stechford Lane,,,Birmingham,West Midlands,B8 2AW,Dental service,,,Birmingham and Solihull,412446,288246,D
+V00181,Dental Surgery,554 Washwood Heath Road,,,Birmingham,West Midlands,B8 2HF,Dental service,,,Birmingham and Solihull,411276,288556,D
+V02368,Dental Surgery,820 Washwood Heath Road,,,Birmingham,West Midlands,B8 2NW,Dental service,,,Birmingham and Solihull,412009,288358,D
+V02376,Dental Surgery,711 Alum Rock Road,,,Birmingham,West Midlands,B8 3JA,Dental service,,,Birmingham and Solihull,411469,287661,D
+V02313,Dental Surgery,694 Alum Rock Road,,,Birmingham,West Midlands,B8 3NU,Dental service,,,Birmingham and Solihull,411467,287716,D
+V55675,Night Dental Limited,8 Bromley Street,,,Birmingham,,B9 4AN,Dental service,,,Birmingham and Solihull,408175,286457,D
+V04870,Bordesley Village,14 Towpath Close,,,Birmingham,West Midlands,B9 4QA,Dental service,,,Birmingham and Solihull,408876,286736,D
+V04900,Keep Smiling Dental Practice,306-308 Green Lane,Small Heath,,Birmingham,West Midlands,B9 5DN,Dental service,,,Birmingham and Solihull,410074,286236,D
+V04910,Dental Surgery,488 Bordesley Green,,,Birmingham,West Midlands,B9 5PA,Dental service,,,Birmingham and Solihull,410833,286756,D
+V04889,Dental Surgery,408 Green Lane,Small Heath,,Birmingham,West Midlands,B9 5QJ,Dental service,,,Birmingham and Solihull,410447,286342,D
+V08146,Heath Dental,32 Main Street,Dickens Heath,Shirley,Solihull,West Midlands,B90 1UA,Dental service,,,Birmingham and Solihull,411202,276348,D
+V14065,Shirley Dental Care,383 Stratford Road,,Shirley,Solihull,West Midlands,B90 3BW,Dental service,,,Birmingham and Solihull,412121,278704,D
+V06787,Dental Surgery,37 Stratford Road,Shirley,,Solihull,West Midlands,B90 3LU,Dental service,,,Birmingham and Solihull,411517,280158,D
+V80054,Great Smiles Dental Spa,31 Farmhouse Way,Shirley,,Solihull,West Midlands,B90 4EH,Dental service,,,Birmingham and Solihull,414739,277058,P
+V80350,Central England Specialist Centre,11 The Pavilions,Cranmore Drive,,Solihull,West Midlands,B90 4SB,Dental service,,,Birmingham and Solihull,413359,278085,P
+V08428,Dental Surgery,606 Warwick Road,,,Solihull,West Midlands,B91 1AA,Dental service,,,Birmingham and Solihull,414939,279875,D
+V82642,Solihull Dental Practice,391 Warwick Road,,,Solihull,,B91 1BJ,Dental service,,,Birmingham and Solihull,413879,281075,P
+V06775,Dental Surgery,345 Warwick Road,,,Solihull,West Midlands,B91 1BQ,Dental service,,,Birmingham and Solihull,413843,281265,D
+V06742,Mr A Coley-Smith,85 Sharmans Cross Road,,,Solihull,West Midlands,B91 1PH,Dental service,,,Birmingham and Solihull,413263,279583,D
+V08419,Dental Surgery,532 Streetsbrook Road,,,Solihull,West Midlands,B91 1RD,Dental service,,,Birmingham and Solihull,414033,279971,D
+V11190,Blossomfield House,284 286 Blossomfield Road,,,Solihull,West Midlands,B91 1TH,Dental service,,,Birmingham and Solihull,413359,278567,D
+V83292,Smile Concepts Limited,91 Lode Lane,,,Solihull,,B91 2HH,Dental service,,,Birmingham and Solihull,415232,280515,P
+V28732,Ground Floor Netherwood Building,Solihull Hospital,Lode Lane,,Solihull,West Midlands,B91 2JL,Dental service,,,Birmingham and Solihull,415443,279927,D
+V82637,Dental Practice Manor Square,4-6 Manor Square,,,Solihull,,B91 3PX,Dental service,,,Birmingham and Solihull,415267,279327,P
+V06740,Eternal Smiles,18 Station Road,,,Solihull,,B91 3SB,Dental service,,,Birmingham and Solihull,415022,279632,D
+V08418,Dental Surgery,Double Day House,29 High Street,,Solihull,West Midlands,B91 3SJ,Dental service,,,Birmingham and Solihull,415148,279552,D
+V80237,Same Day Teeth West Midlands Ltd,51 Station Road,Knowle,,Solihull,West Midlands,B93 0HN,Dental service,,,Birmingham and Solihull,417996,276496,P
+V06754,Dental Surgery,4 Wilsons Road,Knowle,,Solihull,West Midlands,B93 0HZ,Dental service,,,Birmingham and Solihull,418290,276644,D
+V08579,The Dental Practice,1 Downing Close,Knowle,,Solihull,West Midlands,B93 0QA,Dental service,,,Birmingham and Solihull,417471,275782,D
+V06759,Dental Surgery,474 Station Road,Dorridge,,Solihull,West Midlands,B93 8HE,Dental service,,,Birmingham and Solihull,416823,275097,D
+V06471,Dental Surgery,76 Widney Road,Bentley Heath,,Solihull,West Midlands,B93 9AW,Dental service,,,Birmingham and Solihull,416848,276108,D
+V06773,Dental Surgery,1473b Warwick Road,Knowle,,Solihull,West Midlands,B93 9LU,Dental service,,,Birmingham and Solihull,417685,277557,D
+V06757,Hockley Heath Dental Care,2358 Stratford Road,Hockley Heath,,Solihull,West Midlands,B94 6QS,Dental service,,,Birmingham and Solihull,415242,272689,D
+V10226,Stoneton Crescent (Dental Surgery),25 Stoneton Crescent,Balsall Common,,Coventry,West Midlands,CV7 7QG,Dental service,,,Birmingham and Solihull,423549,276779,D
+V08553,Dental Surgery,914-916 Walsall Road,Great Barr,,Birmingham,West Midlands,B42 1TG,Dental service,,,Black Country,404733,294031,D
+V08164,Dental Surgery,145a Hamstead Road,Great Barr,,Birmingham,West Midlands,B43 5BB,Dental service,,,Black Country,403487,293442,D
+V06942,Dental Surgery,41 Collingwood Drive,,,Birmingham,West Midlands,B43 7NY,Dental service,,,Black Country,406627,295484,D
+V04955,Dental Surgery,32 Halesowen Road,,,Halesowen,West Midlands,B62 9AB,Dental service,,,Black Country,398505,284963,D
+V04148,Dental Surgery,72 Halesowen Road,,,Halesowen,West Midlands,B62 9BB,Dental service,,,Black Country,398341,284864,D
+V04048,Oakleigh Dental Practice,103 Spies Lane,,,Halesowen,West Midlands,B62 9SS,Dental service,,,Black Country,398625,284231,D
+V45129,20 Windmill Hill,Colley Gate,,,Halesowen,West Midlands,B63 2DB,Dental service,,,Black Country,394514,284424,D
+V04096,Bhandal Dental Practice,24-26 Windmill Hill,Colley Gate,,Halesowen,West Midlands,B63 2DB,Dental service,,,Black Country,394514,284424,D
+V04017,Williams Dental Surgery,20 Hagley Street,,,Halesowen,West Midlands,B63 3AU,Dental service,,,Black Country,396632,283351,D
+V04248,Morgan Dental Practice,Rumbow House,Rumbow,,Halesowen,West Midlands,B63 3HU,Dental service,,,Black Country,396775,283643,D
+V80389,Halesowen Dental,36 Haden Hill Road,,,Halesowen,West Midlands,B63 3NQ,Dental service,,,Black Country,396606,284773,P
+V04098,Bhandal Dental Practice,114 Alexandra Road,,,Halesowen,West Midlands,B63 4BL,Dental service,,,Black Country,395734,283441,D
+V08388,Dental Surgery,19 Sydney Road,,,Cradley Heath,West Midlands,B64 5BA,Dental service,,,Black Country,394035,285971,D
+V06030,Dental Surgery,148 High Street,,,Cradley Heath,West Midlands,B64 5HJ,Dental service,,,Black Country,394459,285998,D
+V08923,Dental Surgery,83 Halesowen Road,,,Cradley Heath,West Midlands,B64 5LT,Dental service,,,Black Country,395480,286760,D
+V08386,Mr S Merali,393 Halesowen Road,,,Cradley Heath,West Midlands,B64 7HU,Dental service,,,Black Country,395926,285851,D
+V08194,Dental Surgery,12b High Street,,,Rowley Regis,West Midlands,B65 0DT,Dental service,,,Black Country,397367,286388,D
+V08384,Dental Surgery,32 John Street,,,Rowley Regis,West Midlands,B65 0EP,Dental service,,,Black Country,397099,286223,D
+V08893,Dental Surgery,74 Birmingham Road,,,Rowley Regis,West Midlands,B65 9BA,Dental service,,,Black Country,397429,286490,D
+V08387,Dental Surgery,231 Throne Road,,,Rowley Regis,West Midlands,B65 9JU,Dental service,,,Black Country,397698,288061,D
+V08158,Dental Surgery,88 High Street,,,Smethwick,West Midlands,B66 1AQ,Dental service,,,Black Country,401895,288776,D
+V17415,Suffrage Street (Dental Surgery),5 Suffrage Street,,,Smethwick,West Midlands,B66 3PZ,Dental service,,,Black Country,402812,287974,D
+V08168,T Moodley,80 Sandon Road,,,Smethwick,West Midlands,B66 4AG,Dental service,,,Black Country,402312,286455,D
+V08166,Dental Surgery,621-623 Bearwood Road,,,Smethwick,West Midlands,B66 4BL,Dental service,,,Black Country,402236,286158,D
+V08148,Central Orthodontics,341 Bearwood Road,,,Smethwick,West Midlands,B66 4DB,Dental service,,,Black Country,402174,286947,D
+V80197,Dhillions Dental Surgery,35-37 Waterloo Road,,,Smethwick,West Midlands,B66 4JU,Dental service,,,Black Country,402702,287583,P
+V08138,Dental Surgery,13 Waterloo Road,,,Smethwick,West Midlands,B66 4JX,Dental service,,,Black Country,402742,287609,D
+V288022,Cape Hill (Dental Surgery),170 Cape Hill,,,Smethwick,,B66 4SJ,Dental service,,,Black Country,403252,287678,D
+V08155,Shire Dentist,45 Three Shires Oak Road,,,Smethwick,West Midlands,B67 5BS,Dental service,,,Black Country,401839,286598,D
+V00192,Dental Surgery,59 West Park Road,,,Smethwick,West Midlands,B67 7JH,Dental service,,,Black Country,400884,288777,D
+V08171,Stanley Road (Dental Surgery),8 Stanley Road,,,Oldbury,West Midlands,B68 0DY,Dental service,,,Black Country,400528,285229,D
+V00179,Brandhall Dental Surgery,4 Brandhall Road,,,Oldbury,West Midlands,B68 8DP,Dental service,,,Black Country,399777,286782,D
+V08026,Dental Surgery,3 Dog Kennel Lane,,,Oldbury,West Midlands,B68 9LU,Dental service,,,Black Country,400111,288007,D
+V08169,Londonderry Road (Dental Surgery),340 Londonderry Road,,,Oldbury,West Midlands,B68 9NB,Dental service,,,Black Country,400591,287803,D
+V08160,Cosmo Dent Dental Surgery,2A Halesowen Street,,,Oldbury,West Midlands,B69 2AJ,Dental service,,,Black Country,398996,289517,D
+V11171,Oldbury Health Centre,Albert Street,,,Oldbury,West Midlands,B69 4DE,Dental service,,,Black Country,399157,289539,D
+V08162,Dental Surgery,10a Church Square,,,Oldbury,West Midlands,B69 4DX,Dental service,,,Black Country,399066,289422,D
+V08317,Dental Department,Solvay Solutions UK Ltd,P O Box 80,Trinity Street,Oldbury,West Midlands,B69 4LA,Dental service,,,Black Country,399286,288949,D
+V08370,Dental Surgery,91 Hill Top,,,West Bromwich,West Midlands,B70 0PX,Dental service,,,Black Country,399378,293111,D
+V08329,Dental Surgery,25 High Street,,,West Bromwich,West Midlands,B70 6PJ,Dental service,,,Black Country,401119,290634,D
+V09581,Primary Care Centre,Frank Fisher Way,,,West Bromwich,West Midlands,B70 7AW,Dental service,,,Black Country,400210,290865,D
+V08367,Asden House Dental Clinic,1-5 Victoria Street,,,West Bromwich,,B70 8ET,Dental service,,,Black Country,400364,291213,D
+V08361,Kainth Dental Surgery,394 High Street,,,West Bromwich,West Midlands,B70 9LB,Dental service,,,Black Country,400028,291602,D
+V83727,Stella Maris Practice Limited,84 Walsall Road,,,West Bromwich,,B71 3HN,Dental service,,,Black Country,401154,293932,P
+V17417,Lyndon (Dental Surgery),Lyndon,,,West Bromwich,West Midlands,B71 4HJ,Dental service,,,Black Country,400919,292165,D
+V03367,Briars Dental Practice,2 Trinity Road,,,Dudley,West Midlands,DY1 1JB,Dental service,,,Black Country,394095,290448,D
+V03347,The Gables Dental Practice,9 St James Road,,,Dudley,West Midlands,DY1 1JG,Dental service,,,Black Country,394172,290450,D
+V04107,Castle View Dental Practice,269 Castle Street,,,Dudley,West Midlands,DY1 1LQ,Dental service,,,Black Country,394590,290441,D
+V03425,Bhandal Dental Practice,191 High Street,,,Dudley,West Midlands,DY1 1QE,Dental service,,,Black Country,394273,290154,D
+V17385,Pensnett Road (Dental Surgery),Pensnett Road,,,Dudley,West Midlands,DY1 2HQ,Dental service,,,Black Country,392104,289385,D
+V17379,Maple Green (Dental Surgery),100 Maple Green,,,Dudley,West Midlands,DY1 3QZ,Dental service,,,Black Country,393362,292369,D
+V03438,Bhandal Dental Practice,1 Marriott Road,,,Dudley,West Midlands,DY2 0LN,Dental service,,,Black Country,394195,287911,D
+V17384,Hall Street (Dental Surgery),Hall Street,,,Dudley,West Midlands,DY2 7BX,Dental service,,,Black Country,394958,290010,D
+V00045,Purity,74 Dixons Green Road,,,Dudley,West Midlands,DY2 7DJ,Dental service,,,Black Country,395023,289777,D
+V83076,North Street Dental and Implant Clinic,5 North Street,,,Dudley,,DY2 7DT,Dental service,,,Black Country,394873,290121,P
+V17381,Halesowen Road (Dental Surgery),Halesowen Road,,,Dudley,West Midlands,DY2 9PU,Dental service,,,Black Country,394753,287766,D
+V03324,Dental Surgery,31a Bilston Street,,,Dudley,West Midlands,DY3 1JA,Dental service,,,Black Country,391992,293886,D
+V12929,High View Dental Practice,1 High Holborn,Sedgley,,Dudley,West Midlands,DY3 1SR,Dental service,,,Black Country,391997,293438,D
+V03431,Bhandal Dental Practice,11 The Arcade,Upper Gornal,,Dudley,West Midlands,DY3 2DA,Dental service,,,Black Country,392282,292077,D
+V04106,Kemberton Dental Practice,Summer Lane,Lower Gornal,,Dudley,West Midlands,DY3 2HA,Dental service,,,Black Country,391398,291310,D
+V03437,Bhandal Dental Practice,45 Zoar Street,,,Dudley,West Midlands,DY3 2PA,Dental service,,,Black Country,391425,291126,D
+V03293,Langland Dental Practice,Sedgley Hall Avenue,,,Dudley,West Midlands,DY3 3TA,Dental service,,,Black Country,391409,293794,D
+V17383,Ladies Walk Centre,Ladies Walk,,,Dudley,West Midlands,DY3 3UA,Dental service,,,Black Country,391779,293535,D
+V10855,Glebefields Health Centre,St. Marks Road,,,Tipton,West Midlands,DY4 0SU,Dental service,,,Black Country,396597,293725,D
+V100550,Great Bridge Dental Practice,9-11 Market Place,Great Bridge,,Tipton,West Midlands,DY4 7AR,Dental service,,,Black Country,397703,292527,D
+V08385,Dental Surgery,108 Dudley Road,,,Tipton,West Midlands,DY4 8DJ,Dental service,,,Black Country,394890,292306,D
+V14059,Oasis Dental Care Tipton,1 Owen Street,,,Tipton,West Midlands,DY4 8HB,Dental service,,,Black Country,395388,292315,D
+V21942,2 Unity Walk Dental Practice,2 Unity Walk,,,Tipton,West Midlands,DY4 8QL,Dental service,,,Black Country,395518,292352,D
+V08389,Dental Surgery,73 Victoria Road,,,Tipton,West Midlands,DY4 8SW,Dental service,,,Black Country,396133,291889,D
+V04095,Bhandal Dental Practice,20 Dudley Road,,,Brierley Hill,West Midlands,DY5 1LH,Dental service,,,Black Country,391923,287439,D
+V17382,Venture Way (Dental Surgery),Venture Way,,,Brierley Hill,West Midlands,DY5 1RU,Dental service,,,Black Country,392092,287093,D
+V04101,Bhandal Dental Practice,179-180 High Street,Quarry Bank,,Brierley Hill,West Midlands,DY5 2AB,Dental service,,,Black Country,393067,286023,D
+V03412,Amblecote Dental Practice,181 Amblecote Road,,,Brierley Hill,West Midlands,DY5 2PR,Dental service,,,Black Country,391564,285518,D
+V04103,Bhandal Dental Practice,125 High Street,,,Brierley Hill,West Midlands,DY5 3AU,Dental service,,,Black Country,391844,287116,D
+V04104,Bhandal Dental Practice,Talbot House,Talbot Street,,Brierley Hill,West Midlands,DY5 3DL,Dental service,,,Black Country,391738,287320,D
+V04092,Dental Surgery,7 High Street,Wall Heath,,Kingswinford,West Midlands,DY6 0HA,Dental service,,,Black Country,388009,289654,D
+V28586,Building 5,First Avenue,,,Kingswinford,West Midlands,DY6 7TE,Dental service,,,Black Country,390124,289880,D
+V04082,Kingswinford Health Centre (Dental Surg),Kingswinford Health Centre,Standhills Road,,Kingswinford,West Midlands,DY6 8DN,Dental service,,,Black Country,389212,288928,D
+V04932,Worcester Street (Dental Surgery),68 Worcester Street,West Midlands,,Stourbridge,,DY8 1AY,Dental service,,,Black Country,389964,283721,D
+V03984,Dental Surgery,1 St. Johns Road,,,Stourbridge,West Midlands,DY8 1EJ,Dental service,,,Black Country,390346,284177,D
+V04055,Red Hill Dental Practice,14 Redhill,,,Stourbridge,West Midlands,DY8 1ND,Dental service,,,Black Country,390540,283826,D
+V82509,Oldswinford Cross Dental Practice,123 Hagley Road,,,Stourbridge,West Midlands,DY8 1RD,Dental service,,,Black Country,390549,283476,P
+V04170,Bhandal Dental Practice,13 Heath Lane,Old Swinford,,Stourbridge,West Midlands,DY8 1RF,Dental service,,,Black Country,390446,283398,D
+V09976,Stourcote Dental Practice,160 Lower High Street,,,Stourbridge,West Midlands,DY8 1TS,Dental service,,,Black Country,390031,284472,D
+V04040,Norton Dental Practice,39 Norton Road,,,Stourbridge,West Midlands,DY8 2AG,Dental service,,,Black Country,389527,283237,D
+V12744,Bridgnorth Road (Dental Practice),78 Bridgnorth Road,Wollaston,,Stourbridge,West Midlands,DY8 3PA,Dental service,,,Black Country,388886,284725,D
+V04058,Dental Surgery,15 South Road,,,Stourbridge,West Midlands,DY8 3XZ,Dental service,,,Black Country,389684,283652,D
+V17169,135 High Street (Dental Surgery),135 High Street,Amblecote,,Stourbridge,West Midlands,DY8 4BU,Dental service,,,Black Country,389579,285768,D
+V83159,Pabari Dental Clinics Limited,6 High Street,Amblecote,,Stourbridge,,DY8 4BX,Dental service,,,Black Country,389603,285830,P
+V11146,Stourbridge Health and Social Care Centre,John Corbett Drive,,,Stourbridge,West Midlands,DY8 4HZ,Dental service,,,Black Country,389933,285239,D
+V80292,Black Country Orthodontics,Stourbridge Health & Social Care CT,John Corbett Drive,,Stourbridge,West Midlands,DY8 4JB,Dental service,,,Black Country,390151,285284,P
+V03995,Dental Surgery,110a High Street,Wordsley,,Stourbridge,West Midlands,DY8 5RT,Dental service,,,Black Country,389112,286969,D
+V04474,Dental Surgery,84 High Street,Wordsley,,Stourbridge,West Midlands,DY8 5SB,Dental service,,,Black Country,389124,286893,D
+V80929,Holcroft Dental Practice,Holcroft Road,,,Stourbridge,,DY9 7LL,Dental service,,,Black Country,391374,283710,D
+V44614,Mr A Kapnisis,Holcroft Dental Practice,Holcroft Road,,Stourbridge,West Midlands,DY9 7LL,Dental service,,,Black Country,391374,283710,D
+V04465,Dental Surgery,66 Chapel Street,Lye,,Stourbridge,West Midlands,DY9 8BX,Dental service,,,Black Country,392168,284199,D
+V04105,Bhandal Dental Practice,6 High Street,Lye,,Stourbridge,West Midlands,DY9 8JT,Dental service,,,Black Country,392151,284518,D
+V06931,Dental Surgery,26 Bridge Street,,,Walsall,West Midlands,WS1 1HR,Dental service,,,Black Country,401534,298553,D
+V06949,The Bridge Dental Centre,1-4 Arcade Balcony,Bradford Street,,Walsall,West Midlands,WS1 1PQ,Dental service,,,Black Country,401278,298402,D
+V06945,Dental Surgery,45 Goodall Street,,,Walsall,West Midlands,WS1 1QJ,Dental service,,,Black Country,401566,298385,D
+V83361,Springhill Dental Practice (Walsall ) Ltd,6 Springhill Road,,,Walsall,,WS1 2LN,Dental service,,,Black Country,401826,298109,P
+V06951,Dental Surgery,Six Ways Medical Centre,74 Lysways Street,,Walsall,West Midlands,WS1 3AB,Dental service,,,Black Country,401888,297934,D
+V24099,Brace Street Health Centre,Brace Street,,,Walsall,West Midlands,WS1 3PS,Dental service,,,Black Country,401228,297753,D
+V06971,Dental Surgery,150-152 Caldmore Road,,,Walsall,West Midlands,WS1 3RF,Dental service,,,Black Country,401309,297740,D
+V08355,Crankhall Lane Dental Practice,136 Crankhall Lane,,,Wednesbury,West Midlands,WS10 0ED,Dental service,,,Black Country,400405,294794,D
+V13436,Russell Medical Centre,Upper Russell Street,,,Wednesbury,West Midlands,WS10 7AR,Dental service,,,Black Country,398766,294869,D
+V08331,Dental Surgery,64 Union Street,,,Wednesbury,West Midlands,WS10 7HB,Dental service,,,Black Country,398649,294982,D
+V08157,Dental Practice,11 Upper High Street,,,Wednesbury,West Midlands,WS10 7HQ,Dental service,,,Black Country,398670,295061,D
+V10167,Darlaston Health Centre,Pinfold Street,,,Wednesbury,West Midlands,WS10 8SY,Dental service,,,Black Country,397636,296480,D
+V08335,Dental Surgery,122-123 Walsall Street,,,Wednesbury,West Midlands,WS10 9BY,Dental service,,,Black Country,398851,295055,D
+V06952,Walsall Road Dental Surgery,Ground Floor,1 - 3 Walsall Road,,Wednesbury,West Midlands,WS10 9JL,Dental service,,,Black Country,397791,296551,D
+V06934,Bhandal Dental Surgery,61 Walsall Road,,,Wednesbury,West Midlands,WS10 9JS,Dental service,,,Black Country,397996,296680,D
+V06956,Dental Surgery,3 Bloxwich Lane,,,Walsall,West Midlands,WS2 7JS,Dental service,,,Black Country,399197,300851,D
+V06960,Dental Surgery,1 Hillary Street,,,Walsall,West Midlands,WS2 9BP,Dental service,,,Black Country,400254,297173,D
+V28587,Manor Hospital,Moat Road,,,Walsall,West Midlands,WS2 9PS,Dental service,,,Black Country,400152,298264,D
+V06984,Dental Surgery,168 Walker Road,,,Walsall,West Midlands,WS3 1BZ,Dental service,,,Black Country,401084,301365,D
+V82849,Ortho Keep Smiling Ltd,28 New Forest Road,,,Walsall,West Midlands,WS3 1TR,Dental service,,,Black Country,401526,300542,P
+V06978,Ashleigh Dental Practice,652 Bloxwich Road,,,Walsall,West Midlands,WS3 2BA,Dental service,,,Black Country,400391,301260,D
+V06968,First Dental,124 High Street,Bloxwich,,Walsall,West Midlands,WS3 2DG,Dental service,,,Black Country,399908,301714,D
+V10168,Pinfold Health Centre,The Pinfold,,,Walsall,West Midlands,WS3 3JP,Dental service,,,Black Country,400184,301687,D
+V06966,Dental Surgery,166-168 High Street,Bloxwich,,Walsall,West Midlands,WS3 3JT,Dental service,,,Black Country,399831,301865,D
+V06979,Dental Surgery,55 Norton Road,Pelsall,,Walsall,West Midlands,WS3 4AX,Dental service,,,Black Country,402362,303641,D
+V235915,Dental Surgery,53-55 Norton Road,Pelsall,,Walsall,,WS3 4AX,Dental service,,,Black Country,402362,303641,D
+V06957,Dental Surgery,33b Pelsall Lane,Rushall,,Walsall,West Midlands,WS4 1NA,Dental service,,,Black Country,402725,301182,D
+V83025,Ws4 Dental Care,67 Lichfield Street,,,Walsall,,WS4 2BY,Dental service,,,Black Country,401900,299282,P
+V08326,Dental Surgery,24 Maple Drive,,,Walsall,West Midlands,WS5 4JJ,Dental service,,,Black Country,402635,295916,D
+V11677,24 High Street (Dental Practice),24 High Street,Brownhills,,Walsall,West Midlands,WS8 6EQ,Dental service,,,Black Country,404571,305526,D
+V06941,Dental Surgery,131 High Street,Brownhills,,Walsall,West Midlands,WS8 6HG,Dental service,,,Black Country,404848,305280,D
+V10225,Park View Centre,Chester Road North,Brownhills,,Walsall,West Midlands,WS8 7JB,Dental service,,,Black Country,404503,305780,D
+V13616,Dental Surgery,26-26a Pelsall Road,Brownhills,,Walsall,West Midlands,WS8 7JE,Dental service,,,Black Country,404305,305590,D
+V06988,Aldridge Dental Practice,Northgate Medical Centre,Anchor Meadow,Aldridge,Walsall,West Midlands,WS9 8AJ,Dental service,,,Black Country,405435,300524,D
+V12974,Rodericks Dental Ltd,31 High Street,Aldridge,,Walsall,West Midlands,WS9 8LX,Dental service,,,Black Country,405707,300805,D
+V06964,Dental Surgery,21 Portland Road,,,Walsall,West Midlands,WS9 8NS,Dental service,,,Black Country,405682,300585,D
+V06959,Dental Surgery,11 Anchor Road,,,Walsall,West Midlands,WS9 8PT,Dental service,,,Black Country,405562,300705,D
+V83558,Kkhh Ltd T/A Walsall Wood Dentistry,75 Lichfield Road,Walsall Wood,,Walsall,,WS9 9NP,Dental service,,,Black Country,404988,303565,P
+V06351,Dental Surgery,47-48 Dudley Street,,,Wolverhampton,West Midlands,WV1 3ER,Dental service,,,Black Country,391503,298549,D
+V28182,Oasis Dental Care,Victoria Street,,,Wolverhampton,West Midlands,WV1 3NX,Dental service,,,Black Country,391289,298543,D
+V06355,Victoria Street (Dental Surgery),38 Victoria Street,,,Wolverhampton,West Midlands,WV1 3PJ,Dental service,,,Black Country,391252,298447,D
+V06391,Parkside Dental Surgery,7 Park Road West,,,Wolverhampton,West Midlands,WV1 4PS,Dental service,,,Black Country,390765,298776,D
+V14137,Mobile Dental Unit,West Park Hospital,Park Road West,,Wolverhampton,West Midlands,WV1 4PW,Dental service,,,Black Country,390532,298892,D
+V83444,Parkdale Dental & Implant Clinic,82 Tettenhall Road,,,Wolverhampton,,WV1 4TF,Dental service,,,Black Country,390009,299124,P
+V06354,Aesthetics Dental and Implant,498 Stafford Road,,,Wolverhampton,West Midlands,WV10 6AN,Dental service,,,Black Country,391301,302363,D
+V06358,Dental Health Stop,472 Stafford Road,,,Wolverhampton,West Midlands,WV10 6AN,Dental service,,,Black Country,391301,302363,D
+V06392,Dental Health Stop (Three Tuns Parade),9-10 Three Tuns Parade,Stafford Road,,Wolverhampton,West Midlands,WV10 6BA,Dental service,,,Black Country,391348,302552,D
+V06350,Dental Surgery,88 Old Fallings Lane,,,Wolverhampton,West Midlands,WV10 8BN,Dental service,,,Black Country,392925,301562,D
+V06393,Cannock Road Dental Practice,108 Cannock Road,Wednesfield,,Wolverhampton,West Midlands,WV10 8PW,Dental service,,,Black Country,393370,301622,D
+V09985,Wolverhampton P C T,Primrose Lane,,,Wolverhampton,West Midlands,WV10 8RN,Dental service,,,Black Country,393240,301643,D
+V09371,Raynor Road (Dental Surgery),21 Raynor Road,,,Wolverhampton,West Midlands,WV10 9QU,Dental service,,,Black Country,392889,300901,D
+V06405,Dental Surgery,74 Lichfield Road,,,Wolverhampton,West Midlands,WV11 1TP,Dental service,,,Black Country,394780,300623,D
+V09986,Health Centre,Alfred Squire Road,,,Wolverhampton,West Midlands,WV11 1XU,Dental service,,,Black Country,394628,300189,D
+V06441,Blue Cross Dental Surgery,46 Griffiths Drive,,,Wolverhampton,West Midlands,WV11 2JW,Dental service,,,Black Country,395925,301849,D
+V09983,Ashmore Park Clinic,Griffiths Drive,,,Wolverhampton,West Midlands,WV11 2LH,Dental service,,,Black Country,396182,301765,D
+V06359,Dene Hollow Dental Surgery,Neachells Lane,,,Wolverhampton,West Midlands,WV11 3RF,Dental service,,,Black Country,394704,300297,D
+V01522,Dental Surgery,26 The Square,Lichfield Road,,Willenhall,West Midlands,WV12 5EA,Dental service,,,Black Country,397591,301667,D
+V06976,Dental Surgery,2A Oaken Drive,,,Willenhall,West Midlands,WV12 5NU,Dental service,,,Black Country,398041,301093,D
+V06954,Dental Surgery,61 New Road,,,Willenhall,West Midlands,WV13 2DA,Dental service,,,Black Country,396049,298364,D
+V06990,Dental Surgery,71 New Road,,,Willenhall,West Midlands,WV13 2DA,Dental service,,,Black Country,396049,298364,D
+V14580,Church Street Dental Practice,27-29 Lichfield Street,,,Bilston,West Midlands,WV14 0AP,Dental service,,,Black Country,395047,296523,D
+V205448,Church Street Dental Surgery,75-77 Church Street,,,Bilston,West Midlands,WV14 0BJ,Dental service,,,Black Country,394806,296368,D
+V06346,Dental Surgery,7 Wellington Road,,,Bilston,West Midlands,WV14 6AA,Dental service,,,Black Country,394987,296616,D
+V06409,Bilston Health Centre,Prouds Lane,,,Bilston,West Midlands,WV14 6PW,Dental service,,,Black Country,394867,296739,D
+,Dental Access Centre,Proud's Lane,,,Bilston,West Midlands,WV14 6PW,Dental Access Centre,,,Black Country,394867,296739,#N/A
+V06452,Bilston Dental Practice,218 Wellington Road,,,Bilston,West Midlands,WV14 6RL,Dental service,,,Black Country,393783,297080,D
+V06352,Dental Surgery,Woodcross Lane,,,Bilston,West Midlands,WV14 9BX,Dental service,,,Black Country,393320,294836,D
+V03361,Roseville Dental,14-15 Roseville Precinct,Castle Street,,Bilston,West Midlands,WV14 9EP,Dental service,,,Black Country,394122,293619,D
+V06442,Dental Surgery,158 Dudley Road,,,Wolverhampton,West Midlands,WV2 3DN,Dental service,,,Black Country,391620,297154,D
+V06395,Goldthorn Hill (Dental Surgery),140 Goldthorn Hill,,,Wolverhampton,West Midlands,WV2 3JE,Dental service,,,Black Country,391145,296680,D
+V06365,Dental Surgery,142 Penn Road,,,Wolverhampton,West Midlands,WV3 0DZ,Dental service,,,Black Country,390738,297356,D
+V06407,Pennfields Health Centre,Upper Zoar Street,,,Wolverhampton,West Midlands,WV3 0JH,Dental service,,,Black Country,390801,297825,D
+V06402,Dental Surgery,20 Stubbs Road,,,Wolverhampton,West Midlands,WV3 7DF,Dental service,,,Black Country,390356,296995,D
+V06399,Dental Surgery,57 Coalway Road,,,Wolverhampton,West Midlands,WV3 7LY,Dental service,,,Black Country,389800,296793,D
+V06366,Brij Dhody Dental Practice,2 Bhylls Lane,,,Wolverhampton,West Midlands,WV3 8DH,Dental service,,,Black Country,388330,297114,D
+V06357,Colosseum Dental (Wolverhampton),3 Bhylls Lane,,,Wolverhampton,,WV3 8DH,Dental service,,,Black Country,388330,297114,D
+V06360,C J Gibson Dental Surgeon,39 Tettenhall Road,,,Wolverhampton,West Midlands,WV3 9NB,Dental service,,,Black Country,390455,298718,D
+V82928,Halfway House Dental,151 Tettenhall Road,,,Wolverhampton,,WV3 9NJ,Dental service,,,Black Country,389966,299078,P
+V83360,Larcholme Dental Practice,89 Tettenhall Road,,,Wolverhampton,,WV3 9NQ,Dental service,,,Black Country,390149,298931,P
+V06394,Dental Surgery,428 Penn Road,,,Wolverhampton,West Midlands,WV4 4DQ,Dental service,,,Black Country,389440,295808,D
+V10029,The Phoenix Centre,Dental Access Centre,Parkfield Road,,Wolverhampton,West Midlands,WV4 6ED,Dental Access Centre,,,Black Country,391879,296629,D
+V06390,Dental Surgery,90 Dovedale Road,,,Wolverhampton,West Midlands,WV4 6RA,Dental service,,,Black Country,392193,295303,D
+V06403,Mark Webb Dental Practice,100 Tettenhall Road,,,Wolverhampton,West Midlands,WV6 0BN,Dental service,,,Black Country,389739,299420,D
+V09987,Whitmore Reans Health Centre,Lowe Street,,,Wolverhampton,Staffordshire,WV6 0QL,Dental service,,,Black Country,390440,299779,D
+V83095,Rock House Dental Practice,Old Hill,,,Wolverhampton,,WV6 8QB,Dental service,,,Black Country,388930,300050,P
+V06404,Dental Surgery,65 Pendeford Avenue,,,Wolverhampton,West Midlands,WV6 9EH,Dental service,,,Black Country,389168,301499,D
+V09984,Pendeford Health Centre,Whitburn Close,,,Wolverhampton,West Midlands,WV9 5NJ,Dental service,,,Black Country,390306,302877,D
+V43880,76dental,112 Coleshill Road,Water Orton,,Birmingham,,B46 1RD,Dental service,,,Coventry and Warwickshire,417954,290933,D
+V06099,Dental Surgery,5 Station Buildings,Birmingham Road,Water Orton,Birmingham,West Midlands,B46 1SR,Dental service,,,Coventry and Warwickshire,417591,291185,D
+V06081,Dental Surgery,118-120 High Street,Coleshill,,Birmingham,West Midlands,B46 3BJ,Dental service,,,Coventry and Warwickshire,420046,288915,D
+V06107,Dental Practice,Old Tile House Market Place,High Street,,Alcester,Warwickshire,B49 5AE,Dental service,,,Coventry and Warwickshire,408974,257424,D
+V06108,Dental Surgery,19 Priory Road,,,Alcester,Warwickshire,B49 5DX,Dental service,,,Coventry and Warwickshire,408802,257363,D
+V06109,Bidford Dental Practice,11 Church Street,Bidford-on-Avon,,Alcester,Warwickshire,B50 4DA,Dental service,,,Coventry and Warwickshire,410118,251897,D
+V06094,Polesworth Dental Centre,11 Bridge Street,Polesworth,,Tamworth,Staffordshire,B78 1DR,Dental service,,,Coventry and Warwickshire,426128,302441,D
+V06082,Kingsbury Dental Surgery,5 Jubilee Court,Kingsbury,,Tamworth,Staffordshire,B78 2LL,Dental service,,,Coventry and Warwickshire,421744,296405,D
+V06159,Station Road (Dental Surgery),19b Station Road,,,Studley,Warwickshire,B80 7HR,Dental service,,,Coventry and Warwickshire,406933,263743,D
+V06160,Dental Surgery,12 Marble Alley,,,Studley,Warwickshire,B80 7LD,Dental service,,,Coventry and Warwickshire,407226,263897,D
+V12556,Ivory Bespoke Dentistry,215 High Street,,,Henley in Arden,West Midlands,B95 5BG,Dental service,,,Coventry and Warwickshire,415101,265676,D
+V06236,Complete Dental,106 High Street,,,Henley-in-Arden,West Midlands,B95 5BY,Dental service,,,Coventry and Warwickshire,415067,266067,D
+V14939,Park Road Dental Care,Park House,Station Square,,Coventry,West Midlands,CV1 2FL,Dental service,,,Coventry and Warwickshire,433181,278346,D
+V07077,Pinnacle Orthodontics,13 Park Road,,,Coventry,West Midlands,CV1 2LE,Dental service,,,Coventry and Warwickshire,433439,278397,D
+V07130,Dental Surgery,117 Holyhead Road,,,Coventry,West Midlands,CV1 3AD,Dental service,,,Coventry and Warwickshire,432519,279318,D
+V07083,Dental Perfection,7 Grosvenor House,Grosvenor Road,,Coventry,West Midlands,CV1 3FE,Dental service,,,Coventry and Warwickshire,432956,278492,D
+V07074,Dental Surgery,1 Light Lane,,,Coventry,West Midlands,CV1 4BQ,Dental service,,,Coventry and Warwickshire,433126,279757,D
+V16840,Dental Department,City of Coventry Health Centre,2nd Floor,2 Stoney Stanton Road,Coventry,West Midlands,CV1 4FL,Dental service,,,Coventry and Warwickshire,433822,279789,D
+V07136,Hillfields Dental Surgery,21 Berry Street,,,Coventry,West Midlands,CV1 5JT,Dental service,,,Coventry and Warwickshire,434454,279569,D
+V06087,Camphill Dental Practice,206 Camp Hill Road,,,Nuneaton,Warwickshire,CV10 0JL,Dental service,,,Coventry and Warwickshire,433432,293290,D
+V09670,The George Eliot Hospital N H S,Lewes House,College Street,,Nuneaton,Warwickshire,CV10 7DJ,Dental service,,,Coventry and Warwickshire,435718,290586,D
+V06086,Oasis Dental Care Ltd,19 Bond Street,,,Nuneaton,Warwickshire,CV11 4BX,Dental service,,,Coventry and Warwickshire,436386,292086,D
+V12378,Back Street (Dental Practice),1 Back Street,,,Nuneaton,Warwickshire,CV11 4DG,Dental service,,,Coventry and Warwickshire,436425,291981,D
+V08475,Attleborough Dental Surgery,3 Wembrook House,The Green,Attleborough,Nuneaton,Warwickshire,CV11 4FJ,Dental service,,,Coventry and Warwickshire,437101,290712,D
+V83534,Whitestone Dental Practice,41 Lutterworth Road,,,Nuneaton,,CV11 4LE,Dental service,,,Coventry and Warwickshire,437270,290588,P
+V41373,Whitestone Family Dental,Practice 41 Lutterworth Rd,,,Nuneaton,Warwickshire,CV11 4LE,Dental service,,,Coventry and Warwickshire,437270,290588,D
+V06091,Dental Surgery,115 Manor Court Road,,,Nuneaton,Warwickshire,CV11 5HQ,Dental service,,,Coventry and Warwickshire,435410,291948,D
+V06106,B S Rai Dental Surgery,35 Manor Court Road,,,Nuneaton,Warwickshire,CV11 5HU,Dental service,,,Coventry and Warwickshire,435556,292194,D
+V06085,Dental Practice,25 Hinckley Road,,,Nuneaton,Warwickshire,CV11 6LG,Dental service,,,Coventry and Warwickshire,437102,292342,D
+V91097,Bramcote Dental Centre,Bramcote,,,Nuneaton,Warwickshire,CV11 6QN,Dental service,,,Coventry and Warwickshire,440890,288545,D
+V199907,19-21,19-21 Congreve Walk,,,Bedworth,,CV12 8LX,Dental service,,,Coventry and Warwickshire,435858,286987,D
+V06076,Prestige Dental Care,1-5 Church Way,,,Bedworth,Warwickshire,CV12 8NA,Dental service,,,Coventry and Warwickshire,435826,286941,D
+V00189,Coventry Road Dentalcare Team,94 Coventry Road,,,Bedworth,Warwickshire,CV12 8NW,Dental service,,,Coventry and Warwickshire,435725,286451,D
+V06084,R J Monks Dental Surgeon,4A Leicester Street,Bulkington,,Bedworth,Warwickshire,CV12 9NG,Dental service,,,Coventry and Warwickshire,439172,286608,D
+V12603,67b Deedmore Road [Dental Practice],67b Deedmore Road,Woodend,,Coventry,West Midlands,CV2 1EG,Dental service,,,Coventry and Warwickshire,436458,281885,D
+V07093,Bell Green Dental Surgery,Roseberry Avenue,,,Coventry,West Midlands,CV2 1NB,Dental service,,,Coventry and Warwickshire,436037,282204,D
+V07120,Torcross Dental Practice,41 Torcross Avenue,,,Coventry,West Midlands,CV2 3NE,Dental service,,,Coventry and Warwickshire,436119,280324,D
+V07118,The Smile Centre,90 Walsgrave Road,,,Coventry,West Midlands,CV2 4ED,Dental service,,,Coventry and Warwickshire,435260,279298,D
+V07127,Dental Surgery,106 Marlborough Road,,,Coventry,West Midlands,CV2 4ER,Dental service,,,Coventry and Warwickshire,435170,278952,D
+V31048,Longfellow Road (Dental Surgery),2-4 Longfellow Road,,,Coventry,West Midlands,CV2 5HB,Dental service,,,Coventry and Warwickshire,436091,279346,D
+V07124,Shergills Dental Surgery,2-4 Longfellow Road,,,Coventry,West Midlands,CV2 5HB,Dental service,,,Coventry and Warwickshire,436091,279346,D
+V11566,8 Regent Place (Dental Practice),8 Regent Place,,,Rugby,Warwickshire,CV21 2PN,Dental service,,,Coventry and Warwickshire,450481,275501,D
+V28213,Regent Place (Dental Surgery),44 Regent Place,,,Rugby,Warwickshire,CV21 2PN,Dental service,,,Coventry and Warwickshire,450481,275501,D
+V14063,42 Regent Street (Dental Practice),Uptown,40 Regent Street,,Rugby,Warwickshire,CV21 2PS,Dental service,,,Coventry and Warwickshire,450460,275423,D
+V06051,One Dental,51-53 Albert Street,,,Rugby,Warwickshire,CV21 2SG,Dental service,,,Coventry and Warwickshire,450504,275415,D
+V06050,Dental Surgery,9 Whitehall Road,,,Rugby,Warwickshire,CV21 3AE,Dental service,,,Coventry and Warwickshire,450884,274988,D
+V83070,Jones Dental Clinic & Implant Centre,7A Moultrie Road,,,Rugby,,CV21 3BD,Dental service,,,Coventry and Warwickshire,450691,275033,P
+V06037,High Street Dental Practice,21-22 High Street,,,Rugby,Warwickshire,CV21 3BG,Dental service,,,Coventry and Warwickshire,450308,275063,D
+V06046,Clifton Road Dental Practice,12 Clifton Road,,,Rugby,Warwickshire,CV21 3QF,Dental service,,,Coventry and Warwickshire,451002,275123,D
+V06045,Dental Surgery,97 Clifton Road,,,Rugby,Warwickshire,CV21 3QH,Dental service,,,Coventry and Warwickshire,451088,275196,D
+V10935,Clifton Road (Dental Surgery),135 Clifton Road,,,Rugby,Warwickshire,CV21 3QN,Dental service,,,Coventry and Warwickshire,451310,275219,D
+V06049,Paddox Dental,320 Hillmorton Road,,,Rugby,Warwickshire,CV22 5BP,Dental service,,,Coventry and Warwickshire,452507,273920,D
+V80221,Courtyard Dental Practice,4 Daventry Road,Dunchurch,,Rugby,Warwickshire,CV22 6NS,Dental service,,,Coventry and Warwickshire,448611,271133,P
+V82633,Bilton Dental Clinic,322 Bilton Road,,,Rugby,,CV22 7LU,Dental service,,,Coventry and Warwickshire,448491,273832,P
+V82914,Grey Gables Dental Practice,The Green,Bilton,,Rugby,,CV22 7LZ,Dental service,,,Coventry and Warwickshire,448394,273671,P
+V06059,Revel Dental Surgery,33 Coventry Road,Pailton,,Rugby,Warwickshire,CV23 0QD,Dental service,,,Coventry and Warwickshire,447162,281938,D
+V80116,Space Health Care,The Elms,Hayway Lane,Broadwell,Rugby,Warwickshire,CV23 8HH,Dental service,,,Coventry and Warwickshire,445588,265919,P
+V10298,Stoke Aldermoor Clinic,Aldermoor Lane,,,Coventry,West Midlands,CV3 1BN,Dental service,,,Coventry and Warwickshire,435505,278364,D
+V07071,BUPA Dental Care Coventry,Gosford Lodge Dental Surgery,Binley Road,,Coventry,West Midlands,CV3 1JD,Dental service,,,Coventry and Warwickshire,434625,278996,D
+V82789,Binley Woods Dentistry,128 Rugby Road,Binley Woods,,Coventry,,CV3 2AX,Dental service,,,Coventry and Warwickshire,439279,277549,D
+V07072,Willenhall Primary Care Centre,Remembrance Road,,,Coventry,West Midlands,CV3 3DG,Dental service,,,Coventry and Warwickshire,436842,276771,D
+V07117,R Osman and Associates,Cheylesmore Dental Practice,76 Quinton Road,,Coventry,West Midlands,CV3 5FD,Dental service,,,Coventry and Warwickshire,433567,277639,D
+V82895,Murray Dental Limited,282 Daventry Road,,,Coventry,,CV3 5HL,Dental service,,,Coventry and Warwickshire,434301,277317,P
+V83314,Leamington Road Dental Practice,92 Leamington Road,,,Coventry,,CV3 6GS,Dental service,,,Coventry and Warwickshire,433005,276717,P
+V06121,Dental Surgery,17 Priory Terrace,,,Leamington Spa,Warwickshire,CV31 1BA,Dental service,,,Coventry and Warwickshire,432072,265489,D
+V06131,The Priory Dental Centre,4 Priory Terrace,,,Leamington Spa,Warwickshire,CV31 1BA,Dental service,,,Coventry and Warwickshire,432072,265489,D
+V06137,Dental Surgery,1 Radford Road,,,Leamington Spa,Warwickshire,CV31 1NG,Dental service,,,Coventry and Warwickshire,432222,265212,D
+V06133,Dental Surgery,4 Stanleys Court,,,Leamington Spa,Warwickshire,CV31 1NL,Dental service,,,Coventry and Warwickshire,433072,265075,D
+V06127,Bridge Dental Practice,Court Street,,,Leamington Spa,Warwickshire,CV31 2BB,Dental service,,,Coventry and Warwickshire,432127,265072,D
+V27231,Court Street (Dental Surgery),Court Street,,,Leamington Spa,Warwickshire,CV31 2BB,Dental service,,,Coventry and Warwickshire,432127,265072,D
+V06134,Whitnash Dental Surgery,80 Heathcote Road,Whitnash,,Leamington Spa,Warwickshire,CV31 2NF,Dental service,,,Coventry and Warwickshire,432436,263457,D
+V06132,Dental Surgery,13 Euston Place,,,Leamington Spa,Warwickshire,CV32 4LJ,Dental service,,,Coventry and Warwickshire,431855,265697,D
+V29441,Dental Spa Solutions,28-30 Hamilton Terrace,Holly Walk,,Leamington Spa,Warwickshire,CV32 4LY,Dental service,,,Coventry and Warwickshire,431959,265772,D
+V06125,Dental Surgery,29 Leicester Street,,,Leamington Spa,Warwickshire,CV32 4TD,Dental service,,,Coventry and Warwickshire,432337,266355,D
+V80351,Orthoral Leamington Spa,9 Augusta Place,,,Leamington Spa,Warwickshire,CV32 5EL,Dental service,,,Coventry and Warwickshire,431613,265782,P
+V06116,Leamington Spa Orthodontics,21 Waterloo Place,Warwick Street,,Leamington Spa,Warwickshire,CV32 5LA,Dental service,,,Coventry and Warwickshire,431505,266095,D
+V82508,The Grove Practice,6 Beauchamp Hill,,,Leamington Spa,Warwickshire,CV32 5NS,Dental service,,,Coventry and Warwickshire,431382,266214,P
+V06136,Dental Surgery,Connaught House,4 Morrell Street,,Leamington Spa,Warwickshire,CV32 5SZ,Dental service,,,Coventry and Warwickshire,431872,266333,D
+V41673,Crown Way Clinic,7 Crown Way,,,Leamington Spa,,CV32 7SF,Dental service,,,Coventry and Warwickshire,432822,267320,D
+V06124,Dental Surgery,7 Crown Way,,,Leamington Spa,Warwickshire,CV32 7SF,Dental service,,,Coventry and Warwickshire,432822,267320,D
+V06168,Dental Surgery,9 Cape Road,,,Warwick,Warwickshire,CV34 4JP,Dental service,,,Coventry and Warwickshire,428022,265316,D
+V06162,Old Square Dental Practice,2 Old Square,,,Warwick,Warwickshire,CV34 4RA,Dental service,,,Coventry and Warwickshire,428133,264966,D
+V06166,Westgate Dental Practice,13 West Street,,,Warwick,Warwickshire,CV34 6AB,Dental service,,,Coventry and Warwickshire,427983,264611,D
+V06138,Brook House (Dental Surgery),Brook House,Moreton Morrell,,Warwick,Warwickshire,CV35 9AR,Dental service,,,Coventry and Warwickshire,431120,255915,D
+V06172,Dental Surgery,2 Willow Drive,Wellesbourne,,Warwick,Warwickshire,CV35 9SB,Dental service,,,Coventry and Warwickshire,427956,255236,D
+V82917,Shipston Dental Practice,19 Sheep Street,,,Shipston-on-Stour,,CV36 4AE,Dental service,,,Coventry and Warwickshire,425720,240575,P
+V10046,10 Sheep Street (Dental Surgery),10 Sheep Street,,,Shipston on Stour,Warwickshire,CV36 4AF,Dental service,,,Coventry and Warwickshire,425807,240642,D
+V179526,Elta House,Birmingham Road,,,Stratford-Upon-Avon,,CV37 0AQ,Dental service,,,Coventry and Warwickshire,419848,255386,D
+V83506,Pennington Dental,Suite A,Elta House,Birmingham Road,Stratford-Upon-Avon,,CV37 0AQ,Dental service,,,Coventry and Warwickshire,419848,255386,D
+V83113,Principal Dentistry,The Surgery,Church Road,Snitterfield,Stratford-Upon-Avon,,CV37 0LF,Dental service,,,Coventry and Warwickshire,421751,259980,P
+V13470,Trinity Court Surgery,Arden Street,,,Stratford Upon Avon,Warwickshire,CV37 6HJ,Dental service,,,Coventry and Warwickshire,419734,255230,#N/A
+V81393,Evesham Place Limited,14 Evesham Place,Stratford Upon Avon,,Stratford-Upon-Avon,Warwickshire,CV37 6HT,Dental service,,,Coventry and Warwickshire,419729,254619,D
+V81764,Mr AJ Browne,14 Evesham Place,Stratford Upon Avon,,Stratford-Upon-Avon,Warwickshire,CV37 6HT,Dental service,,,Coventry and Warwickshire,419729,254619,D
+V06154,Rother Street (Dental Surgery),6 Rother Street,,,Stratford-Upon-Avon,Warwickshire,CV37 6LU,Dental service,,,Coventry and Warwickshire,419887,254946,D
+V20786,Dental Practice (Ely Place),Ely Place,28 Ely Street,,Stratford-Upon-Avon,Warwickshire,CV37 6LW,Dental service,,,Coventry and Warwickshire,420007,254849,D
+V06150,Dental Surgery,7 John Street,,,Stratford-Upon-Avon,Warwickshire,CV37 6UB,Dental service,,,Coventry and Warwickshire,420240,255132,D
+V06157,Tiddington Road (Dental Surgery),9 Tiddington Road,,,Stratford-Upon-Avon,Warwickshire,CV37 7AE,Dental service,,,Coventry and Warwickshire,420792,254858,D
+V14046,Meon Dental Centre,Goose Lane,Lower Quinton,,Stratford-Upon-Avon,Warwickshire,CV37 8TA,Dental service,,,Coventry and Warwickshire,417692,246940,D
+V83334,Stratford Dental,Trinity House,Aintree Road,,Stratford-Upon-Avon,,CV37 9FL,Dental service,,,Coventry and Warwickshire,418916,254099,P
+V06915,J H Dental Surgery,279 Mitchell Avenue,,,Coventry,West Midlands,CV4 8DU,Dental service,,,Coventry and Warwickshire,429354,277375,D
+V07089,Dental Surgery,5 Mayors Croft,,,Coventry,West Midlands,CV4 8FF,Dental service,,,Coventry and Warwickshire,429826,277398,D
+V83106,Modus Advanced Dental Clinic,5 Station Avenue,,,Coventry,,CV4 9HR,Dental service,,,Coventry and Warwickshire,427659,278002,P
+V12602,Tile Hill Health Centre,Jardine Crescent,,,Coventry,West Midlands,CV4 9PN,Dental service,,,Coventry and Warwickshire,428767,278842,D
+V12631,21 Market Hill [Dental Practice,21 Market Hill,,,Southam,Warwickshire,CV47 0HF,Dental service,,,Coventry and Warwickshire,441829,261766,D
+V06144,Cedarlea Dental Care,12 Warwick Road,,,Southam,Warwickshire,CV47 0HN,Dental service,,,Coventry and Warwickshire,441503,261547,D
+V06143,Dental Surgery,2 Daventry Street,,,Southam,Warwickshire,CV47 1PH,Dental service,,,Coventry and Warwickshire,441930,261834,D
+V91099,Kineton Dental Centre,Marlborough,Temple Herdewyke,,Southam,Warwickshire,CV47 2UL,Dental service,,,Coventry and Warwickshire,437957,251839,D
+V07076,Kingston Road Dental Care,2 Kingston Road,,,Coventry,West Midlands,CV5 6LN,Dental service,,,Coventry and Warwickshire,431831,278586,D
+V07123,Dental Surgery,276 Broad Lane,,,Coventry,West Midlands,CV5 7AT,Dental service,,,Coventry and Warwickshire,429499,279032,D
+V07073,Balkrishna Dental Practice,2 Sir Thomas Whites Road,,,Coventry,West Midlands,CV5 8DQ,Dental service,,,Coventry and Warwickshire,431677,278913,D
+V07121,D G S Price Dentist,122 Winsford Avenue,,,Coventry,West Midlands,CV5 9JB,Dental service,,,Coventry and Warwickshire,430193,279623,D
+V19384,Winsford Avenue (Dental Surgery),122 Winsford Avenue,,,Coventry,West Midlands,CV5 9JB,Dental service,,,Coventry and Warwickshire,430193,279623,D
+V07112,Dental Surgery,107 Moseley Avenue,,,Coventry,West Midlands,CV6 1HR,Dental service,,,Coventry and Warwickshire,432320,280079,D
+V07119,Jubilee Dental Practice,Jubilee Crescent,,,Coventry,West Midlands,CV6 3EX,Dental service,,,Coventry and Warwickshire,432890,281623,D
+V07114,Holbrooks Dental Surgery,4 Rotherham Road,,,Coventry,West Midlands,CV6 4FE,Dental service,,,Coventry and Warwickshire,433254,282885,D
+V07084,Holbrooks Health Team,75-77 Wheelwright Lane,,,Coventry,West Midlands,CV6 4HN,Dental service,,,Coventry and Warwickshire,433306,283543,D
+V07075,Bhandal Dental Practice,298 A-C,Foleshill Road,,Coventry,West Midlands,CV6 5AH,Dental service,,,Coventry and Warwickshire,433994,280928,D
+V07105,Foleshill Dental Practice,549a Foleshill Road,,,Coventry,West Midlands,CV6 5AU,Dental service,,,Coventry and Warwickshire,434139,281327,D
+V07110,Densmile Dental Care,197 Broad Street,,,Coventry,West Midlands,CV6 5BN,Dental service,,,Coventry and Warwickshire,434417,281147,D
+V07109,Longford Road (Dental Surgery),177 Longford Road,Longford,,Coventry,West Midlands,CV6 6EE,Dental service,,,Coventry and Warwickshire,435014,283657,D
+V00735,Windmill Road Dental Surgery,108 Windmill Road,,,Coventry,West Midlands,CV6 7BG,Dental service,,,Coventry and Warwickshire,435266,283049,D
+V07107,Gentle Dental Centre,318-320 Bell Green Road,,,Coventry,West Midlands,CV6 7HB,Dental service,,,Coventry and Warwickshire,435807,282129,D
+V06115,Kenilworth Dental Practice,26 Station Road,,,Kenilworth,Warwickshire,CV8 1JJ,Dental service,,,Coventry and Warwickshire,429057,271728,D
+V83193,Priory Dental Clinic,68 Priory Road,,,Kenilworth,,CV8 1LQ,Dental service,,,Coventry and Warwickshire,429125,271783,P
+V06112,Dental Practice,93 Abbey End,,,Kenilworth,Warwickshire,CV8 1LS,Dental service,,,Coventry and Warwickshire,428630,271949,D
+V06113,Dental Surgery,37 High Street,,,Kenilworth,Warwickshire,CV8 1LY,Dental service,,,Coventry and Warwickshire,428475,272479,D
+V06074,Dental Surgery,165 Long Street,,,Atherstone,Warwickshire,CV9 1AD,Dental service,,,Coventry and Warwickshire,431017,297706,D
+V06075,Atherstone Dental Practice,60 Long Street,,,Atherstone,Warwickshire,CV9 1AU,Dental service,,,Coventry and Warwickshire,430712,297890,D
+V07318,Dental Surgery,111 Hewell Road,Barnt Green,,Birmingham,West Midlands,B45 8NW,Dental service,,,Herefordshire and Worcestershire,400735,273509,D
+V07329,Dental Surgery,14 Eachway,Rubery,Rednal,Birmingham,West Midlands,B45 9DQ,Dental service,,,Herefordshire and Worcestershire,398844,276920,D
+V07320,Dental Surgery,67 Callowbrook Lane,Rubery,Rednal,Birmingham,West Midlands,B45 9HP,Dental service,,,Herefordshire and Worcestershire,398601,277297,D
+V07338,Rubery Dental Surgery,119 New Road,Rubery,Rednal,Birmingham,West Midlands,B45 9JR,Dental service,,,Herefordshire and Worcestershire,398664,277216,D
+V82886,Omnia Dental Spa,243 Station Road,Wythall,,Birmingham,,B47 6ET,Dental service,,,Herefordshire and Worcestershire,409011,275557,P
+V07340,Dental Surgery,1 The Square,Alvechurch,,Birmingham,West Midlands,B48 7LA,Dental service,,,Herefordshire and Worcestershire,402864,272645,D
+V07332,Dental Surgery,15 Chapel Street,,,Bromsgrove,Worcestershire,B60 2BQ,Dental service,,,Herefordshire and Worcestershire,396117,270706,D
+V07327,Dental Surgery,68 New Road,,,Bromsgrove,Worcestershire,B60 2LA,Dental service,,,Herefordshire and Worcestershire,396600,270007,D
+V07326,Dental Surgery,2 College Road,,,Bromsgrove,Worcestershire,B60 2NE,Dental service,,,Herefordshire and Worcestershire,396155,270649,D
+V07328,Damani Dental Practice,5 Trinity Court,Stoke Road,,Bromsgrove,Worcestershire,B60 3EQ,Dental service,,,Herefordshire and Worcestershire,396742,269419,D
+V14691,Parkside Dental,Stourbridge Road,,,Bromsgrove,Worcestershire,B61 0AZ,Dental service,,,Herefordshire and Worcestershire,395996,271057,D
+V09456,Princess of Wales Hospital (Dental Surgery),Princess of Wales Hospital,Stourbridge Road,,Bromsgrove,Worcestershire,B61 0BB,Dental service,,,Herefordshire and Worcestershire,396196,271740,D
+V00937,Dental Surgery,119 Golden Cross Lane,Catshill,,Bromsgrove,Worcestershire,B61 0LA,Dental service,,,Herefordshire and Worcestershire,396226,273984,D
+V83323,Bromsgrove Dental Clinic,1A Highfield Road,,,Bromsgrove,,B61 7BD,Dental service,,,Herefordshire and Worcestershire,395174,269888,P
+V07325,Orthodontics for You,15 Churchfields,,,Bromsgrove,Worcestershire,B61 8DS,Dental service,,,Herefordshire and Worcestershire,395769,271049,D
+V07330,Anne Christina Haddon,334 Stourbridge Road,Catshill,,Bromsgrove,Worcestershire,B61 9LJ,Dental service,,,Herefordshire and Worcestershire,395474,274405,D
+V09461,Smallwood Dental Clinic,Smallwood House,Church Green West,,Redditch,Worcestershire,B97 4BD,Dental service,,,Herefordshire and Worcestershire,404116,267796,D
+V07337,Red House Dental Clinic,The Red House,Prospect Hill,,Redditch,Worcestershire,B97 4BG,Dental service,,,Herefordshire and Worcestershire,404129,267838,D
+V07334,Headless Cross Dental Practice,3-5 Birchfield Road,,,Redditch,Worcestershire,B97 4LB,Dental service,,,Herefordshire and Worcestershire,403671,266041,D
+V07321,Pinnacle Orthodontics,343 Birchfield Road,,,Redditch,Worcestershire,B97 4NE,Dental service,,,Herefordshire and Worcestershire,402375,266766,D
+V07335,Oasis Dental Care,53 Bromsgrove Road,,,Redditch,Worcestershire,B97 4RH,Dental service,,,Herefordshire and Worcestershire,403581,267472,D
+V07331,Kingfisher Dental Surgery,272 Evesham Road,,,Redditch,Worcestershire,B97 5EP,Dental service,,,Herefordshire and Worcestershire,403854,265458,D
+V07892,Crabbs Cross Dental Surgery,Evesham Road,,,Redditch,Worcestershire,B97 5JB,Dental service,,,Herefordshire and Worcestershire,403936,265052,D
+V07341,Tynsall Avenue (Dental Surgery),11 Tynsall Avenue,,,Redditch,Worcestershire,B97 5SF,Dental service,,,Herefordshire and Worcestershire,402026,266966,D
+V09459,Time for Teeth HMP Hewell,Hewell Lane,,,Redditch,Worcestershire,B97 6QS,Dental service,,,Herefordshire and Worcestershire,400669,269722,D
+V09460,Community Dental Department,Brockhill Lane,,,Redditch,Worcestershire,B97 6RB,Dental service,,,Herefordshire and Worcestershire,401921,269268,D
+V07333,Matchborough Dental Practice,Matchborough Centre,Matchborough Way,,Redditch,Worcestershire,B98 0EP,Dental service,,,Herefordshire and Worcestershire,407161,266413,D
+V07317,Dental Surgery,107 Archer Road,,,Redditch,Worcestershire,B98 8DJ,Dental service,,,Herefordshire and Worcestershire,404413,267679,D
+V25213,Dental Centre of Excellence,no 5 Tanhouse Lane,,,Redditch,Worcestershire,B98 9AA,Dental service,,,Herefordshire and Worcestershire,406538,268719,D
+V07866,Wyre Forest PCT,Kidderminster Health Centre,Bromsgrove Street,,Kidderminster,Worcestershire,DY10 1PG,Dental service,,,Herefordshire and Worcestershire,383426,276668,D
+,Kidderminster Dental Access Centre,,Bromsgrove Street,,Kidderminster,West Midlands,DY10 1PG,Dental Access Centre,,,Herefordshire and Worcestershire,383426,276668,#N/A
+V07747,Oasis Dental Care Ltd,8 Church Street,,,Kidderminster,Worcestershire,DY10 2AD,Dental service,,,Herefordshire and Worcestershire,383097,276785,D
+V08604,Dental Surgery,25 Church Street,,,Kidderminster,Worcestershire,DY10 2AW,Dental service,,,Herefordshire and Worcestershire,383088,276871,D
+V08173,Dental Surgery,23 Church Street,,,Kidderminster,Worcestershire,DY10 2AW,Dental service,,,Herefordshire and Worcestershire,383088,276871,D
+V08961,Worcs Dental Access Centre,Crown House,High Street,,Kidderminster,Worcestershire,DY10 2DH,Dental Access Centre,,,Herefordshire and Worcestershire,383083,276714,D
+V09220,Dental Surgery,29 Comberton Road,,,Kidderminster,Worcestershire,DY10 3DL,Dental service,,,Herefordshire and Worcestershire,384236,276256,D
+V09893,Sutton Park Dental Centre,43 Sutton Park Road,,,Kidderminster,Worcestershire,DY11 6LD,Dental service,,,Herefordshire and Worcestershire,382108,275294,D
+V08001,Foley Park Dental Practice,54 Connaught Avenue,,,Kidderminster,Worcestershire,DY11 6LS,Dental service,,,Herefordshire and Worcestershire,382278,275467,D
+V07885,Denora Healthcare Ltd,100 Stourport Road,,,Kidderminster,Worcestershire,DY11 7BQ,Dental service,,,Herefordshire and Worcestershire,382401,275272,D
+V14572,Stourport Road Dental Surgery,124 Stourport Road,,,Kidderminster,Worcestershire,DY11 7BW,Dental service,,,Herefordshire and Worcestershire,382134,274620,D
+V07871,Bewdley Dental Practice,51-52 Load Street,,,Bewdley,Worcestershire,DY12 2AP,Dental service,,,Herefordshire and Worcestershire,378564,275332,D
+V07860,Dental Surgery,110 Bewdley Road,,,Stourport-on-Severn,Worcestershire,DY13 8XH,Dental service,,,Herefordshire and Worcestershire,380787,272293,D
+V07999,Dental Surgery,26a-26b Mitton Gardens,,,Stourport-on-Severn,Worcestershire,DY13 9AE,Dental service,,,Herefordshire and Worcestershire,381324,271467,D
+V195319,Mitton Gardens Dental Surgery,26a-26b Mitton Gardens,,,Stourport-on-Severn,,DY13 9AE,Dental service,,,Herefordshire and Worcestershire,381324,271467,D
+V08939,Salmon and Light Dental Surgery,26a-26b Mitton Gardens,,,Stourport-on-Severn,Worcestershire,DY13 9AE,Dental service,,,Herefordshire and Worcestershire,381324,271467,D
+V07872,Dental Surgery,Mercian House,York Street,,Stourport-on-Severn,Worcestershire,DY13 9EE,Dental service,,,Herefordshire and Worcestershire,381101,271248,D
+V08011,Dental Surgery,157a Worcester Road,Hagley,,Stourbridge,West Midlands,DY9 0NW,Dental service,,,Herefordshire and Worcestershire,390342,280331,D
+V88996,Tupsley Dental Practice,60 Aylestone Hill,,,Hereford,,HR1 1HX,Dental service,,,Herefordshire and Worcestershire,352262,240931,P
+V83481,The Dentist@tupsley,133 Quarry Road,,,Hereford,,HR1 1SX,Dental service,,,Herefordshire and Worcestershire,352501,239994,P
+V07342,The Orchards (Dental Practice),8 Commercial Street,,,Hereford,Herefordshire,HR1 2DB,Dental service,,,Herefordshire and Worcestershire,351127,240103,D
+V06919,Dental Surgery,15a Commercial Street,,,Hereford,Herefordshire,HR1 2DE,Dental service,,,Herefordshire and Worcestershire,351180,240139,D
+V07069,Kyrle Street Dental Practice,18 Kyrle Street,,,Hereford,,HR1 2ES,Dental service,,,Herefordshire and Worcestershire,351498,240146,D
+V06916,Brighton Villa Dental Surgery,7 Wyecliffe Terrace,Bath Street,,Hereford,Herefordshire,HR1 2HG,Dental service,,,Herefordshire and Worcestershire,351381,240020,D
+V83434,Hereford Dental and Implant Clinic,Florida House,,,Hereford,,HR1 2HG,Dental service,,,Herefordshire and Worcestershire,351381,240020,D
+V07270,Wye Valley NHS Trust,Dental Access Centre,Gaol Street,,Hereford,Herefordshire,HR1 2HU,Dental Access Centre,,,Herefordshire and Worcestershire,351314,239968,D
+V07062,Collins House Dental Surgery,19 St. Owen Street,,,Hereford,Herefordshire,HR1 2JB,Dental service,,,Herefordshire and Worcestershire,351265,239916,D
+V07068,34 Castle Street Dental Practice,34 Castle Street,,,Hereford,Herefordshire,HR1 2NW,Dental service,,,Herefordshire and Worcestershire,351208,239718,D
+V07061,Marden House Dental Surgery,4 St. Owen Street,,,Hereford,Herefordshire,HR1 2PH,Dental service,,,Herefordshire and Worcestershire,351175,239944,D
+V153975,St. Owen Street (Dental Surgery),4 St Owen Street,,,Hereford,,HR1 2PH,Dental service,,,Herefordshire and Worcestershire,351175,239944,D
+V82640,Chapel House Dentistry,74a St. Owen Street,,,Hereford,,HR1 2QD,Dental service,,,Herefordshire and Worcestershire,351515,239655,P
+V07269,Dental Access Centre (Wye Valley NHS Tru,The Old Bakery,Ewyas Harold,,Hereford,Herefordshire,HR2 0EX,Dental Access Centre,,,Herefordshire and Worcestershire,338727,228682,D
+V11048,Wye Valley NHS Trust,Asda Stores Ltd,Belmont Road,,Hereford,Herefordshire,HR2 7JE,Dental Access Centre,,,Herefordshire and Worcestershire,350561,239247,D
+V11138,1 Pool Farm Cottages,Belmont Road,,,Hereford,Herefordshire,HR2 7JZ,Dental service,,,Herefordshire and Worcestershire,350691,239175,D
+V83435,St Martins Dental Practice,75 St. Martins Street,,,Hereford,,HR2 7RG,Dental service,,,Herefordshire and Worcestershire,350811,239244,P
+V91098,Dental Centre,Credenhill,,,Hereford,Herefordshire,HR4 7DD,Dental service,,,Herefordshire and Worcestershire,345928,243399,D
+V07067,The Dental Surgery,Gadbridge Road,Weobley,,Hereford,Herefordshire,HR4 8SN,Dental service,,,Herefordshire and Worcestershire,340480,251577,D
+V82983,Broad Street Dental Surgery,32-35 Broad Street,,,Hereford,,HR4 9AR,Dental service,,,Herefordshire and Worcestershire,350893,239898,P
+V07273,Dental Access Centre,Victoria Road,Kington Court Community Care,,Kington,Herefordshire,HR5 3BX,Dental Access Centre,,,Herefordshire and Worcestershire,330099,256814,D
+V07063,Morton Hudson and Mileson,16 Church Street,,,Leominster,Herefordshire,HR6 8NQ,Dental service,,,Herefordshire and Worcestershire,349726,259144,D
+V10712,Dental Access Centre,Leominster Dental Centre,Dishley Street,,Leominster,Herefordshire,HR6 8NY,Dental Access Centre,,,Herefordshire and Worcestershire,349453,258889,D
+V10865,Leominster Dental Centre,Dishley Street,,,Leominster,,HR6 8NY,Dental service,,,Herefordshire and Worcestershire,349453,258889,D
+V06342,High Street (Dental Surgery),32 High Street,,,Bromyard,Herefordshire,HR7 4AE,Dental service,,,Herefordshire and Worcestershire,365390,254727,D
+V28968,Hatton Park (Dental Surgery),1 Hatton Park,,,Bromyard,Herefordshire,HR7 4EY,Dental service,,,Herefordshire and Worcestershire,364682,254298,D
+V07271,Dental Access Centre,Market Street,Community Health,,Ledbury,Herefordshire,HR8 2AQ,Dental Access Centre,,,Herefordshire and Worcestershire,370893,237629,D
+V82950,Ledbury Dental Care Ltd,21 The Southend,,,Ledbury,,HR8 2EY,Dental service,,,Herefordshire and Worcestershire,371125,237463,P
+V83147,Spadental Ledbury,8 The Southend,,,Ledbury,,HR8 2EY,Dental service,,,Herefordshire and Worcestershire,371125,237463,P
+V07275,Herefordshire Community,Ross-on-Wye Community Hospital,Alton Street,,Ross-on-Wye,Herefordshire,HR9 5AD,Dental service,,,Herefordshire and Worcestershire,359967,223940,D
+,Dental Access Centre,Alton Street,,,Ross-on-Wye,Herefordshire,HR9 5AD,Dental Access Centre,,,Herefordshire and Worcestershire,359967,223940,#N/A
+V07065,Oasis Dental Care Ltd,Old Maids Walk,,,Ross-on-Wye,Herefordshire,HR9 5HB,Dental service,,,Herefordshire and Worcestershire,359842,223966,D
+V07064,Warrendale Dental Surgery,Chase Road,,,Ross-on-Wye,Herefordshire,HR9 5JQ,Dental service,,,Herefordshire and Worcestershire,360182,223997,D
+V07066,The Dental Surgery,Symonds Yat,,,Ross-on-Wye,Herefordshire,HR9 6BJ,Dental service,,,Herefordshire and Worcestershire,355362,217037,D
+V83146,Spadental Ross on Wye,Berkeley House,New Street,,Ross-on-Wye,,HR9 7DA,Dental service,,,Herefordshire and Worcestershire,359895,224263,P
+V10845,St Marys Dental Practice,5 St. Marys Street,,,Worcester,Worcestershire,WR1 1HA,Dental service,,,Herefordshire and Worcestershire,384900,255505,D
+V08102,Epworth House Dental Surgery,15 Shrubbery Avenue,,,Worcester,Worcestershire,WR1 1QN,Dental service,,,Herefordshire and Worcestershire,384774,256114,D
+V09417,Dental Surgery,Trinity Gate Mews,39 St. Nicholas Street,,Worcester,Worcestershire,WR1 1UW,Dental service,,,Herefordshire and Worcestershire,385061,255108,D
+V08952,Lowesmoor Dental Practice,91 Lowesmoor,,,Worcester,Worcestershire,WR1 2RS,Dental service,,,Herefordshire and Worcestershire,385250,255238,D
+,Dental Access Centre,92 Lowesmoor,,,Worcester,Worcestershire,WR1 2RS,Dental Access Centre,,,Herefordshire and Worcestershire,385250,255238,#N/A
+V09453,Moor Street Clinic,7 Moor Street,,,Worcester,Worcestershire,WR1 3DB,Dental service,,,Herefordshire and Worcestershire,384630,255525,D
+V83011,Lincoln House Dental Practice,35 High Street,,,Pershore,,WR10 1AA,Dental service,,,Herefordshire and Worcestershire,394981,245807,P
+V82734,Abbey Dental Practice,70 High Street,,,Pershore,,WR10 1DU,Dental service,,,Herefordshire and Worcestershire,394868,245989,P
+V10569,133 High Street (Dental Surgery),133 High Street,,,Pershore,Worcestershire,WR10 1EQ,Dental service,,,Herefordshire and Worcestershire,394736,246151,D
+V45446,44-46,Port Street,,,Evesham,Worcestershire,WR11 1AW,Dental service,,,Herefordshire and Worcestershire,404197,243596,D
+V08962,Evesham Dental Health Team,16 Broadway Road,,,Evesham,Worcestershire,WR11 1BG,Dental service,,,Herefordshire and Worcestershire,404714,243299,D
+V08958,Worcs Dental Access Centre,Waterside,,,Evesham,Worcestershire,WR11 1JT,Dental Access Centre,,,Herefordshire and Worcestershire,403613,243102,D
+V08607,Gentle Dental,47c Port Street,,,Evesham,Worcestershire,WR11 3LF,Dental service,,,Herefordshire and Worcestershire,404314,243598,D
+V08956,The Dental Practice,63 Port Street,,,Evesham,Worcestershire,WR11 3LF,Dental service,,,Herefordshire and Worcestershire,404314,243598,D
+V08942,Evesham Health Centre,Evesham Medical Centre,Abbey Lane,,Evesham,Worcestershire,WR11 4BS,Dental service,,,Herefordshire and Worcestershire,403458,243639,D
+V83284,Albert Road Dental Practice,1 Albert Road,,,Evesham,,WR11 4JX,Dental service,,,Herefordshire and Worcestershire,403652,244189,P
+V07187,Grafton House Dental Surgery,11 Vine Street,,,Evesham,Worcestershire,WR11 4RE,Dental service,,,Herefordshire and Worcestershire,403609,243737,D
+V09458,Time for Teeth HMP Long Lartin,South Littleton,,,Evesham,Worcestershire,WR11 8TZ,Dental service,,,Herefordshire and Worcestershire,410028,245712,D
+V83050,Broadway Dental Care,64 High Street,,,Broadway,,WR12 7DT,Dental service,,,Herefordshire and Worcestershire,409734,237552,P
+V08935,Malvern Hills Dental Care,172 Worcester Road,,,Malvern,,WR14 1AA,Dental service,,,Herefordshire and Worcestershire,378606,247805,D
+V09395,58 Spring Lane (Dental Surgery),58 Spring Lane,Malvern Link,,Malvern,Worcestershire,WR14 1AJ,Dental service,,,Herefordshire and Worcestershire,378843,247677,D
+V72492,Somers Road (Dental Surgery),Somers Road,,,Malvern,,WR14 1JB,Dental service,,,Herefordshire and Worcestershire,378050,247540,D
+V08959,Dental Access Centre,Osborne Road,,,Malvern,Worcestershire,WR14 1JE,Dental Access Centre,,,Herefordshire and Worcestershire,378151,247563,D
+V07183,Richmond Dental Practice,Richmond Court,12 Richmond Road,Malvern Link,Malvern,Worcestershire,WR14 1NE,Dental service,,,Herefordshire and Worcestershire,378508,247848,D
+V83005,Buckingham House Dental Llp,Buckingham House,35 Graham Road,,Malvern,,WR14 2HU,Dental service,,,Herefordshire and Worcestershire,377667,246278,P
+V82622,Gensmile Beacon Dental Care,Beacon Dental Care,5 Pickersleigh Road,,Malvern,Worcestershire,WR14 2RP,Dental service,,,Herefordshire and Worcestershire,378469,247421,P
+V08427,St Margarets,Imperial Road,,,Malvern,Worcestershire,WR14 3AT,Dental service,,,Herefordshire and Worcestershire,378222,245689,D
+V08045,Tenbury Dental Centre,32 Teme Street,,,Tenbury Wells,Worcestershire,WR15 8AA,Dental service,,,Herefordshire and Worcestershire,359604,268438,D
+V24513,Teme Street Dental Surgery,12 Teme Street,,,Tenbury Wells,Worcestershire,WR15 8BA,Dental service,,,Herefordshire and Worcestershire,359636,268310,D
+V17224,The St. Johns Dental Practice,11 Malvern Road,,,Worcester,Worcestershire,WR2 4LE,Dental service,,,Herefordshire and Worcestershire,383980,254213,D
+V08137,The Bull Ring Dental Surgery,1 Bull Ring,,,Worcester,Worcestershire,WR2 5AA,Dental service,,,Herefordshire and Worcestershire,384173,254505,D
+V08429,Oasis Dental Care Ltd,25a St. Johns,,,Worcester,Worcestershire,WR2 5AG,Dental service,,,Herefordshire and Worcestershire,384044,254394,D
+V08090,Dental Surgery,127 Ombersley Road,,,Worcester,Worcestershire,WR3 7BT,Dental service,,,Herefordshire and Worcestershire,384593,257116,D
+V08163,The Beeches Dental Centre,2 Beech Avenue,,,Worcester,Worcestershire,WR3 8PZ,Dental service,,,Herefordshire and Worcestershire,385019,257088,D
+V08606,Lyppard Dental Centre,Ankerage Green,,,Worcester,Worcestershire,WR4 0DZ,Dental service,,,Herefordshire and Worcestershire,387936,255768,D
+V14082,London Road (Dental Surgery),26 London Road,,,Worcester,Worcestershire,WR5 2DL,Dental service,,,Herefordshire and Worcestershire,385387,254238,D
+V08126,Redcliffe Orthodontics,Redcliffe,Battenhall Avenue,,Worcester,Worcestershire,WR5 2HN,Dental service,,,Herefordshire and Worcestershire,386133,253612,D
+V80258,Bath Road Dental Surgery,17 Bath Road,,,Worcester,Worcestershire,WR5 3AA,Dental service,,,Herefordshire and Worcestershire,385303,254267,P
+V83026,St Peters Dental Practice,2 Norton Close,,,Worcester,,WR5 3EY,Dental service,,,Herefordshire and Worcestershire,385405,252590,P
+V08511,Abbotsbury Court Dental Practice,2 Abbotsbury Court,,,Worcester,Worcestershire,WR5 3TY,Dental service,,,Herefordshire and Worcestershire,386077,252651,D
+V11241,Upton-Upon-Severn Dental Surgery,Tunnel Hill,Upton-Upon-Severn,,Worcester,,WR8 0QL,Dental service,,,Herefordshire and Worcestershire,384459,240022,D
+V09396,91 Worcester Road (Dental Surgery),91 Worcester Road,,,Droitwich,Worcestershire,WR9 8AQ,Dental service,,,Herefordshire and Worcestershire,389735,262713,D
+V16302,62 Friar Street (Dental Practice),62 Friar Street,,,Droitwich,Worcestershire,WR9 8EF,Dental service,,,Herefordshire and Worcestershire,389915,263397,D
+V86406,Droitwich Dental Studio,2 Old Market Court,High Street,,Droitwich,,WR9 8ES,Dental service,,,Herefordshire and Worcestershire,390081,263337,P
+V80282,Roy Morris Dental Practice,67 Ombersley Street East,,,Droitwich,Worcestershire,WR9 8QS,Dental service,,,Herefordshire and Worcestershire,389675,263251,P
+V01073,Droitwich Spa Dental Practice,47 Blackfriars Avenue,,,Droitwich,Worcestershire,WR9 8RT,Dental service,,,Herefordshire and Worcestershire,389643,262897,D
+V06424,Dental Surgery,6 Talbot Square,Cleobury Mortimer,,Kidderminster,Worcestershire,DY14 8BQ,Dental service,,,Shropshire and Telford & Wrekin,367284,275781,D
+V12220,Shrewsbury Orthodontic Centre,9 St Marys Place,,,Shrewsbury,Shropshire,SY1 1DZ,Dental service,,,Shropshire and Telford & Wrekin,349340,312558,D
+V07033,Bellstone Dental Practice,3 Bellstone Court,Bellstone,,Shrewsbury,Shropshire,SY1 1JB,Dental service,,,Shropshire and Telford & Wrekin,348939,312475,D
+V07034,St Johns Hill Dental Practice,30 St. Johns Hill,,,Shrewsbury,Shropshire,SY1 1JJ,Dental service,,,Shropshire and Telford & Wrekin,348905,312407,D
+V06688,David E Barker's Dental Surgery,Courtyard House,39 St. Johns Hill,,Shrewsbury,Shropshire,SY1 1JQ,Dental service,,,Shropshire and Telford & Wrekin,348954,312442,D
+V06713,Mydentist,2 Claremont Buildings,Claremont Bank,,Shrewsbury,Shropshire,SY1 1RJ,Dental service,,,Shropshire and Telford & Wrekin,348792,312549,D
+V80445,Exclusive Orthodontics Ltd,Belmont Dental Clinic,5A Belmont,,Shrewsbury,,SY1 1TE,Dental service,,,Shropshire and Telford & Wrekin,349117,312263,D
+V06724,Bowdlers House Dental Practice,Bowdlers House,Town Walls,,Shrewsbury,,SY1 1TP,Dental service,,,Shropshire and Telford & Wrekin,349351,312303,D
+V81890,Mr YM Tso,Butcher Row Chambers,Butcher Row,,Shrewsbury,Powys,SY1 1UW,Dental service,,,Shropshire and Telford & Wrekin,349220,312540,D
+V80751,Sandeep Kaur Dhanda,Butcher Row Chambers,Butcher Row,,Shrewsbury,Powys,SY1 1UW,Dental service,,,Shropshire and Telford & Wrekin,349220,312540,D
+V06818,Winchester House Dental Practice,76 Coton Hill,,,Shrewsbury,Shropshire,SY1 2DP,Dental service,,,Shropshire and Telford & Wrekin,349265,313292,D
+V26831,Castle Foregate Dental Practice,71 Castle Foregate,,,Shrewsbury,Shropshire,SY1 2EJ,Dental service,,,Shropshire and Telford & Wrekin,349492,313163,D
+V08953,Dental Matters,71 Castle Foregate,,,Shrewsbury,Shropshire,SY1 2EJ,Dental service,,,Shropshire and Telford & Wrekin,349492,313163,D
+,Dental Access Centre,71 Castle Foregate,,,Shrewsbury,Shropshire,SY1 2EJ,Dental Access Centre,,,Shropshire and Telford & Wrekin,349492,313163,#N/A
+V09171,H M Prison,H M Prison,The Dana,,Shrewsbury,Shropshire,SY1 2HR,Dental service,,,Shropshire and Telford & Wrekin,349546,312943,#N/A
+V06727,Dental Surgery,114 Ellesmere Road,,,Shrewsbury,Shropshire,SY1 2QT,Dental service,,,Shropshire and Telford & Wrekin,349331,314127,D
+V80214,Oracle Dental Limited,10 Longbow Close,,,Shrewsbury,Shropshire,SY1 3GZ,Dental service,,,Shropshire and Telford & Wrekin,350640,316118,P
+V07101,Dental Surgery,73 Whitchurch Road,,,Shrewsbury,Shropshire,SY1 4EE,Dental service,,,Shropshire and Telford & Wrekin,350717,315054,D
+V06734,Ambleside Dental Practice,1 Ambleside,,,Shrewsbury,Shropshire,SY1 4ET,Dental service,,,Shropshire and Telford & Wrekin,350886,315515,D
+V06808,Dental Surgery,64 Willow Street,,,Oswestry,Shropshire,SY11 1AD,Dental service,,,Shropshire and Telford & Wrekin,328918,329759,D
+V14879,Oswestry Dental,Primary Health Care Centre,Thomas Savin Road,,Oswestry,Powys,SY11 1GA,Dental service,,,Shropshire and Telford & Wrekin,329573,329979,D
+V06682,Dental Surgery,Oswyn House,20 Oswald Road,,Oswestry,Shropshire,SY11 1RE,Dental service,,,Shropshire and Telford & Wrekin,329300,329726,D
+V06812,Thomas Dental Practice,Dental Surgery,3 Lower Brook Street,,Oswestry,,SY11 2HG,Dental service,,,Shropshire and Telford & Wrekin,328917,329293,D
+V06645,Dental Surgery,36 Church Street,,,Oswestry,Shropshire,SY11 2SP,Dental service,,,Shropshire and Telford & Wrekin,328964,329526,D
+V14329,3 Brook Buildings (Dental Surgery),3 Brook Buildings,Gobowen,,Oswestry,Shropshire,SY11 3JP,Dental service,,,Shropshire and Telford & Wrekin,330301,333546,D
+V06571,Dental Surgery,18 High Street,,,Ellesmere,Shropshire,SY12 0EP,Dental service,,,Shropshire and Telford & Wrekin,340028,334785,D
+V11895,Corser House Dental Practice,17 Green End,,,Whitchurch,Shropshire,SY13 1AD,Dental service,,,Shropshire and Telford & Wrekin,354308,341547,D
+V07227,Green End Dental Practice,43 Green End,,,Whitchurch,Shropshire,SY13 1AD,Dental service,,,Shropshire and Telford & Wrekin,354308,341547,D
+V83008,Whitchurch Dental Studio Ltd,The Old Fire Station,Brownlow Street,,Whitchurch,,SY13 1QS,Dental service,,,Shropshire and Telford & Wrekin,354418,341739,P
+V07185,Dental Surgery,54 Monkmoor Road,,,Shrewsbury,Shropshire,SY2 5AU,Dental service,,,Shropshire and Telford & Wrekin,350350,312820,D
+V80151,Emstrey Dental Practice,Suite B Mutual House,Sitka Drive,Shrewsbury Business Park,Shrewsbury,Shropshire,SY2 6LG,Dental service,,,Shropshire and Telford & Wrekin,351733,310699,P
+V02905,Bayston Hill Dental Surgery,3A Lansdowne Road,Bayston Hill,,Shrewsbury,Shropshire,SY3 0HT,Dental service,,,Shropshire and Telford & Wrekin,347856,308835,D
+V07031,Oxon Dental Care,Roselyn,Welshpool Road,Bicton Heath,Shrewsbury,Shropshire,SY3 5AH,Dental service,,,Shropshire and Telford & Wrekin,345664,313229,D
+V07028,Radbrook Green Dental Practice,Unit 2,Bank Farm Road,,Shrewsbury,Shropshire,SY3 6DU,Dental service,,,Shropshire and Telford & Wrekin,347716,311239,D
+V07094,Greyfriars Dental Practice,129a Longden Coleham,,,Shrewsbury,Shropshire,SY3 7DN,Dental service,,,Shropshire and Telford & Wrekin,349566,312119,D
+V12930,New Park House Dental Centre,New Park House,Brassey Road,,Shrewsbury,Shropshire,SY3 7FA,Dental service,,,Shropshire and Telford & Wrekin,349948,311954,D
+V82570,Esthetique Dental Limited,Unit 11-12 The Stables,Sansaw Business Park,Hadnall,Shrewsbury,Shropshire,SY4 4AS,Dental service,,,Shropshire and Telford & Wrekin,351979,321624,P
+V91100,Shawbury Dental Centre,Shawbury,,,Shrewsbury,Shropshire,SY4 4DZ,Dental service,,,Shropshire and Telford & Wrekin,355395,322389,D
+V12664,Drawwell House Dental Surgery,3 Drawwell House,Noble Street,Wem,Shrewsbury,Shropshire,SY4 5DZ,Dental service,,,Shropshire and Telford & Wrekin,351260,328975,D
+V07210,Dental Surgery,16 Chapel Street,Wem,,Shrewsbury,Shropshire,SY4 5ER,Dental service,,,Shropshire and Telford & Wrekin,351340,328834,D
+V28008,Minsterley Road Dental Practice,Minsterley Road,,,Shrewsbury,Shropshire,SY5 0QJ,Dental service,,,Shropshire and Telford & Wrekin,339449,306068,D
+V06783,Dental Surgery,15 Burway Road,,,Church Stretton,Shropshire,SY6 6DL,Dental service,,,Shropshire and Telford & Wrekin,345276,293758,D
+V06801,Redcote Surgery,2 Central Avenue,,,Church Stretton,Shropshire,SY6 6EE,Dental service,,,Shropshire and Telford & Wrekin,345510,293607,D
+V13790,Suite 2B (Dental Surgery),Palmers House,7 Corve Street,,Ludlow,Shropshire,SY8 1DB,Dental service,,,Shropshire and Telford & Wrekin,351176,274823,D
+V83103,Alliance Dentistry Ltd,Unit 2,Alliance Court,Eco Park Road,Ludlow,,SY8 1FB,Dental service,,,Shropshire and Telford & Wrekin,352861,274304,P
+V01027,Castle View House (Dental Surgery),Castle View House,New Road,,Ludlow,Shropshire,SY8 2LS,Dental service,,,Shropshire and Telford & Wrekin,351229,275380,D
+V06761,Butler and Finnigan,Dental Surgery,2 Market Square,,Bishops Castle,Shropshire,SY9 5BN,Dental service,,,Shropshire and Telford & Wrekin,332355,288996,D
+V07250,Oasis Dental Care Ltd,22 Church Street,Wellington,,Telford,Shropshire,TF1 1DG,Dental service,,,Shropshire and Telford & Wrekin,365057,311772,D
+V07249,Dental Surgery,Tyrone House,Church Street,Wellington,Telford,Shropshire,TF1 1DR,Dental service,,,Shropshire and Telford & Wrekin,365056,311821,D
+V07248,Manor Orthodontic Clinic,9A Queen Street,Wellington,,Telford,Shropshire,TF1 1EH,Dental service,,,Shropshire and Telford & Wrekin,364896,311766,D
+V07247,Dental Surgery,Carlton Chambers,Queen Street,Wellington,Telford,Shropshire,TF1 1EW,Dental service,,,Shropshire and Telford & Wrekin,364924,311766,D
+V07253,45 Tan Bank,Tan Bank,Wellington,,Telford,Shropshire,TF1 1HW,Dental service,,,Shropshire and Telford & Wrekin,365157,311321,D
+V26355,Dental Surgery Hadley Centre,Unit 3 Hadley Centre,High Street,Hadley,Telford,Shropshire,TF1 5GQ,Dental service,,,Shropshire and Telford & Wrekin,367324,312118,D
+V09525,Loft House Unit,Apley Castle,Grainger Drive,,Telford,Shropshire,TF1 6TF,Dental service,,,Shropshire and Telford & Wrekin,365606,312873,D
+V17327,High Street (Dental Surgery),41 High Street,,,Newport,Shropshire,TF10 7AT,Dental service,,,Shropshire and Telford & Wrekin,374581,319031,D
+V02992,Dental Surgery,Britannia House,2B New Street,,Newport,Shropshire,TF10 7AX,Dental service,,,Shropshire and Telford & Wrekin,374474,319116,D
+V10515,BUPA Dental Care,1 Avenue Road,,,Newport,,TF10 7EA,Dental service,,,Shropshire and Telford & Wrekin,374763,318824,D
+V07182,Newport Dental Practice,2 Stafford Street,,,Newport,Shropshire,TF10 7LT,Dental service,,,Shropshire and Telford & Wrekin,374649,319117,D
+V06815,Shifnal Dental Practice,Park Street,,,Shifnal,Shropshire,TF11 9BG,Dental service,,,Shropshire and Telford & Wrekin,374887,307501,D
+V80400,Broseley Dental Practice,79 High Street,,,Broseley,,TF12 5ET,Dental service,,,Shropshire and Telford & Wrekin,367497,301728,P
+V06371,Broseleydental Practice Ltd,79 High Street,,,Broseley,Shropshire,TF12 5ET,Dental service,,,Shropshire and Telford & Wrekin,367497,301728,D
+V11676,Twickel Dental Limited,Barrow Street,,,Much Wenlock,Shropshire,TF13 6EN,Dental service,,,Shropshire and Telford & Wrekin,362414,299911,D
+V07229,Station House Dental Practice,Station Road,Oakengates,,Telford,Shropshire,TF2 6AG,Dental service,,,Shropshire and Telford & Wrekin,369662,310729,D
+V07232,Bridge Dental Centre,2 Bridge Street,Oakengates,,Telford,Shropshire,TF2 6AH,Dental service,,,Shropshire and Telford & Wrekin,369443,310924,D
+V07221,Dental Surgery,2-3 Albert Place,Donnington,,Telford,Shropshire,TF2 8AF,Dental service,,,Shropshire and Telford & Wrekin,370321,313645,D
+V07220,D N Woodhouse Dental Surgeon,The Dental Surgery,1 Wrekin Drive,Donnington,Telford,Shropshire,TF2 8DN,Dental service,,,Shropshire and Telford & Wrekin,370269,313583,D
+V187756,Wrekin Drive (Dental Surgery),8 Wrekin Drive,Donnington,,Telford,,TF2 8DP,Dental service,,,Shropshire and Telford & Wrekin,370343,313530,D
+V07246,Dental Surgery,Stirchley Health Centre,Stirchley,,Telford,Shropshire,TF3 1FB,Dental service,,,Shropshire and Telford & Wrekin,370751,306466,D
+V29840,The Smileworks Ltd,Church Road,Malinslee,,Telford,Shropshire,TF3 2JZ,Dental service,,,Shropshire and Telford & Wrekin,369334,308381,D
+V07252,Integrated Dental Holdings,Unit 2,Hollinswood Court,Stafford Park 1,Telford,Shropshire,TF3 3DE,Dental service,,,Shropshire and Telford & Wrekin,370691,309209,D
+V07188,Dawley Dental Practice,82 King Street,Dawley,,Telford,Shropshire,TF4 2AH,Dental service,,,Shropshire and Telford & Wrekin,368671,307924,D
+V07192,Dawley Family Dental Centre,60a High Street,Dawley,,Telford,Shropshire,TF4 2EX,Dental service,,,Shropshire and Telford & Wrekin,368445,307450,D
+V07211,Lawley Dental Practice,Birchfield House,Farriers Green,Lawley Bank,Telford,Shropshire,TF4 2LL,Dental service,,,Shropshire and Telford & Wrekin,367628,308680,D
+V09169,Dental Surgery,Doseley Road North,Dawley,,Telford,Shropshire,TF4 3AL,Dental service,,,Shropshire and Telford & Wrekin,368261,307420,D
+V07239,Dental Surgery,4 Acorn Way,,,Telford,Shropshire,TF5 0LW,Dental service,,,Shropshire and Telford & Wrekin,364171,313518,D
+V07225,Madeley Dental Practice,68-69 High Street,Madeley,,Telford,Shropshire,TF7 5AU,Dental service,,,Shropshire and Telford & Wrekin,369914,304477,D
+V09179,Woodside Dental Clinic,Park Lane,Woodside,,Telford,Shropshire,TF7 5QZ,Dental service,,,Shropshire and Telford & Wrekin,368489,304589,D
+,Dental Access Centre,Park Lane Centre,Park Lane,,Telford,Shropshire,TF7 5QZ,Dental Access Centre,,,Shropshire and Telford & Wrekin,368489,304589,#N/A
+V06598,St Marys Dental Practice,7A St. Marys Street,,,Market Drayton,,TF9 1AA,Dental service,,,Shropshire and Telford & Wrekin,367548,334108,D
+V09386,Time for Teeth HMP Stoke Heath,Stoke Heath,,,Market Drayton,Staffordshire,TF9 2JL,Dental service,,,Shropshire and Telford & Wrekin,364860,330349,D
+V06721,Drayton Primary Care Centre,Maer Lane,,,Market Drayton,Staffordshire,TF9 3AL,Dental service,,,Shropshire and Telford & Wrekin,367417,334701,D
+V06612,Dental Surgery,Poynton House,40 Shropshire Street,,Market Drayton,Shropshire,TF9 3DD,Dental service,,,Shropshire and Telford & Wrekin,367405,334062,D
+V06628,The Dental Practice,54 Shropshire Street,,,Market Drayton,Shropshire,TF9 3DD,Dental service,,,Shropshire and Telford & Wrekin,367405,334062,D
+V91101,Tern Hill Dental Centre,Tern Hill,,,Market Drayton,Shropshire,TF9 3QE,Dental service,,,Shropshire and Telford & Wrekin,363850,331452,D
+V08960,Dental Access Centre,Worcester Road,Burford,,Tenbury Wells,Worcestershire,WR15 8AP,Dental Access Centre,,,Shropshire and Telford & Wrekin,359908,268752,D
+V13330,39 Underhill Street [Dental Practice],39 Underhill Street,,,Bridgnorth,Shropshire,WV16 4BB,Dental service,,,Shropshire and Telford & Wrekin,371806,292834,D
+V06774,St Leonards House Dental Centre,St. Leonards Close,,,Bridgnorth,Shropshire,WV16 4EJ,Dental service,,,Shropshire and Telford & Wrekin,371659,293338,D
+V10814,Bridgnorth and South Shropshire,Northgate,,,Bridgnorth,Shropshire,WV16 4EU,Dental service,,,Shropshire and Telford & Wrekin,371508,293421,D
+V06763,High Town Dental Practice,Smithfield Centre,Whitburn Street,,Bridgnorth,Shropshire,WV16 4QT,Dental service,,,Shropshire and Telford & Wrekin,371359,293158,D
+V91012,Cosford Dental Centre,The Dental Centre,Cosford,Worcester Road,Wolverhampton,West Midlands,WV7 3EX,Dental service,,,Shropshire and Telford & Wrekin,379891,305425,D
+V02785,Mr G Shiravi,Albrighton Dental Surgery,20 Station Road,Albrighton,Wolverhampton,West Midlands,WV7 3QG,Dental service,,,Shropshire and Telford & Wrekin,381362,304229,D
+V83356,Little Aston Dental Care,12a Burnett Road,,,Sutton Coldfield,,B74 3EJ,Dental service,,,Staffordshire and Stoke-on-Trent,408699,298768,P
+V07638,Dental Surgery,Cadogan Road,Dosthill,,Tamworth,Staffordshire,B77 1PQ,Dental service,,,Staffordshire and Stoke-on-Trent,421702,300139,D
+V06597,Miss S Khan,26 Ellerbeck,Wilnecote,,Tamworth,Staffordshire,B77 4JA,Dental service,,,Staffordshire and Stoke-on-Trent,423733,302256,D
+V09407,Stonydelph Dental Clinic,Stonydelph Health Centre,Ellerbeck,,Tamworth,Staffordshire,B77 4JA,Dental service,,,Staffordshire and Stoke-on-Trent,423733,302256,D
+,Dental Access Centre,Stonydelph Health Centre,Ellerbeck,,Tamworth,Staffordshire,B77 4JA,Dental Access Centre,,,Staffordshire and Stoke-on-Trent,423733,302256,#N/A
+V19632,Tamworth House Dental Practice,21 Church Street,,,Tamworth,,B79 7BX,Dental service,,,Staffordshire and Stoke-on-Trent,420826,304084,D
+V13199,21 Church Street [Dental Practice],21 Church Street,,,Tamworth,Staffordshire,B79 7DH,Dental service,,,Staffordshire and Stoke-on-Trent,420639,304075,#N/A
+V05931,Dale House Dental Practice,15-16 Albert Road,,,Tamworth,Staffordshire,B79 7JN,Dental service,,,Staffordshire and Stoke-on-Trent,420885,304360,D
+V08916,Tamworth Dental Practice,The Hollies,25 Albert Road,,Tamworth,Staffordshire,B79 7JS,Dental service,,,Staffordshire and Stoke-on-Trent,421071,304327,D
+V06796,Central Ortho,Ankerside Shopping Centre,George Street,,Tamworth,Staffordshire,B79 7LQ,Dental service,,,Staffordshire and Stoke-on-Trent,420849,303922,D
+V06809,Riverside Dental Surgery,24a Lichfield Street,,,Tamworth,Staffordshire,B79 7QE,Dental service,,,Staffordshire and Stoke-on-Trent,420359,304029,D
+V05753,Dental Surgery,7-8 Greyhound Court,Madeley,,Crewe,Cheshire,CW3 9EA,Dental service,,,Staffordshire and Stoke-on-Trent,377315,344957,D
+V13182,Stop The Clock Dental Care Ltd,Unit 18,Eastgate Business Centre,Eastern Avenue,Burton on Trent,Staffordshire,DE13 0AT,Dental service,,,Staffordshire and Stoke-on-Trent,425709,325643,D
+V06260,Burton Family Dental Centre,1 Tutbury Road,,,Burton-on-Trent,Staffordshire,DE13 0NU,Dental service,,,Staffordshire and Stoke-on-Trent,423797,325372,D
+V80360,Alrewas Dental Practice,63a Main Street,Alrewas,,Burton-on-Trent,Staffordshire,DE13 7AE,Dental service,,,Staffordshire and Stoke-on-Trent,417182,315014,P
+V06254,Dental Surgery,59 Monk Street,Tutbury,,Burton-on-Trent,Staffordshire,DE13 9NA,Dental service,,,Staffordshire and Stoke-on-Trent,421221,329026,D
+V06276,Oasis Dental Care Ltd.,3 Station Street,,,Burton-on-Trent,Staffordshire,DE14 1AN,Dental service,,,Staffordshire and Stoke-on-Trent,424997,322901,D
+V09405,Cross Street Clinic,Cross Street,Burton on Trent,,Burton-on-Trent,Staffordshire,DE14 1EG,Dental service,,,Staffordshire and Stoke-on-Trent,424473,323006,D
+,Dental Access Centre,Cross Street,Burton on Trent,,Burton-on-Trent,Staffordshire,DE14 1EG,Dental Access Centre,,,Staffordshire and Stoke-on-Trent,424473,323006,#N/A
+V12289,Modwena Orthodontics,Modwena House,13 Market Place,,Burton-on-Trent,Staffordshire,DE14 1HA,Dental service,,,Staffordshire and Stoke-on-Trent,425031,322745,D
+V46588,33 High Street,Burton Upon Trent,,,Burton-on-Trent,Staffordshire,DE14 1JN,Dental service,,,Staffordshire and Stoke-on-Trent,425049,322889,D
+V82583,Mike Allens Dental Practice,Unit 4,Barberry Court Parkway,Centrum One Hundred,Burton-on-Trent,Staffordshire,DE14 2UE,Dental service,,,Staffordshire and Stoke-on-Trent,423089,322984,P
+V14205,Dental Perfection @ Branston,Unit 4 87 Burton Road,Branston,,Burton-on-Trent,Staffordshire,DE14 3DW,Dental service,,,Staffordshire and Stoke-on-Trent,423725,321243,D
+V06261,Dental Surgery,9 Lichfield Street,,,Burton-on-Trent,Staffordshire,DE14 3QZ,Dental service,,,Staffordshire and Stoke-on-Trent,424882,322590,D
+V06252,Dental Surgery,6 St. Peters Street,,,Burton-on-Trent,Staffordshire,DE15 9AW,Dental service,,,Staffordshire and Stoke-on-Trent,425630,322019,D
+V12137,Hill Street Dental Practice,Health and Wellbeing Centre,Hill Street,Stapenhill,Burton on Trent,Staffordshire,DE15 9LD,Dental service,,,Staffordshire and Stoke-on-Trent,425393,321561,D
+V10455,Rosliston Road (Dental Surgery),45b Rosliston Road,,,Burton-on-Trent,Staffordshire,DE15 9RQ,Dental service,,,Staffordshire and Stoke-on-Trent,425415,321140,D
+V06542,Keetons Dental Practice,15 Enville Road,Kinver,,Stourbridge,West Midlands,DY7 6AB,Dental service,,,Staffordshire and Stoke-on-Trent,384225,283909,D
+V06544,Dental Surgery,37 High Street,Kinver,,Stourbridge,West Midlands,DY7 6HF,Dental service,,,Staffordshire and Stoke-on-Trent,384575,283366,D
+V00198,Pall Mall (Dental Surgery),10 Pall Mall,,,Stoke-on-Trent,Staffordshire,ST1 1ER,Dental service,,,Staffordshire and Stoke-on-Trent,388260,347443,D
+V09913,Salaried Dental Service,Upper Huntbach Street,,,Stoke-on-Trent,Staffordshire,ST1 2BN,Dental service,,,Staffordshire and Stoke-on-Trent,388654,347786,D
+V07410,Stoke Orthodontic Services,Unit 7,Whittle Court,Town Road Business Quarter,Stoke-on-Trent,Staffordshire,ST1 2QE,Dental service,,,Staffordshire and Stoke-on-Trent,388560,348378,D
+V14158,679 Leek Road (Dental Practice),679 Leek Road,,,Stoke-on-Trent,Staffordshire,ST1 3NF,Dental service,,,Staffordshire and Stoke-on-Trent,389160,346947,D
+V07407,Dental Surgery,125 Hanley Road,,,Stoke-on-Trent,Staffordshire,ST1 6BG,Dental service,,,Staffordshire and Stoke-on-Trent,388724,349020,D
+V07620,The Avenue Dentistry,2 The Avenue,Cheadle,,Stoke-on-Trent,,ST10 1EG,Dental service,,,Staffordshire and Stoke-on-Trent,400875,342960,D
+V07621,Millennium Dentistry,40-42 Tape Street,Cheadle,,Stoke-on-Trent,Staffordshire,ST10 1EP,Dental service,,,Staffordshire and Stoke-on-Trent,401051,343135,D
+V07617,St Edward Street Dental Surgery,47 St. Edward Street,,,Leek,Staffordshire,ST13 5DN,Dental service,,,Staffordshire and Stoke-on-Trent,398352,356414,D
+V07614,Russell Street Dental Practice,7 Russell Street,,,Leek,Staffordshire,ST13 5JF,Dental service,,,Staffordshire and Stoke-on-Trent,398472,356418,D
+V14044,Park Dental Practice,16 Ball Haye Road,,,Leek,Staffordshire,ST13 6AF,Dental service,,,Staffordshire and Stoke-on-Trent,398701,356767,D
+V07625,Leek Dental Centre,133-135 Ball Haye Green,,,Leek,Staffordshire,ST13 6BH,Dental service,,,Staffordshire and Stoke-on-Trent,399023,357175,D
+V82815,Waterer Dental Care,31 Stockwell Street,,,Leek,,ST13 6DH,Dental service,,,Staffordshire and Stoke-on-Trent,398601,356668,P
+V07624,Dental Surgery,18 Stockwell Street,,,Leek,Staffordshire,ST13 6DS,Dental service,,,Staffordshire and Stoke-on-Trent,398573,356641,D
+V82037,The Staffordshire Dental Clinic,Church Street,,,Uttoxeter,,ST14 8AF,Dental service,,,Staffordshire and Stoke-on-Trent,409355,333641,D
+V80978,The Staffordshire Dental Clinic,Church Street,,,Uttoxeter,,ST14 8AF,Dental service,,,Staffordshire and Stoke-on-Trent,409355,333641,D
+V06256,The Staffordshire Dental Clinic,Church Street,,,Uttoxeter,Staffordshire,ST14 8AF,Dental service,,,Staffordshire and Stoke-on-Trent,409355,333641,D
+V14654,Uttoxeter Dental Practice,Meadows Way,,,Uttoxeter,Staffordshire,ST14 8AZ,Dental service,,,Staffordshire and Stoke-on-Trent,409516,333630,D
+V09413,Balance Street Dental Practice,Balance Street Health Centre,Balance Street,,Uttoxeter,Staffordshire,ST14 8JG,Dental service,,,Staffordshire and Stoke-on-Trent,409275,333308,D
+,Uttoxeter Dental Practice,Balance Street Health Centre,Balance Street,,Uttoxeter,Staffordshire,ST14 8JG,Dental Access Centre,,,Staffordshire and Stoke-on-Trent,409275,333308,#N/A
+V03033,Whitecross Dental Care Ltd,5-6 Trinity Square,,,Uttoxeter,Staffordshire,ST14 8TH,Dental service,,,Staffordshire and Stoke-on-Trent,409330,333328,D
+V31428,Time for Teeth HMP Dovegate,Dovegate,,,Uttoxeter,Staffordshire,ST14 8XR,Dental service,,,Staffordshire and Stoke-on-Trent,414753,330387,D
+V09414,Trentside Dental Clinic,Stafford Road,,,Stone,Staffordshire,ST15 0TT,Dental service,,,Staffordshire and Stoke-on-Trent,390032,333778,D
+V00066,Stone Dental Care,10 High Street,,,Stone,Staffordshire,ST15 8AW,Dental service,,,Staffordshire and Stoke-on-Trent,390229,333839,D
+V06635,Regency House Dental Practice,Station Road,,,Stone,Staffordshire,ST15 8JP,Dental service,,,Staffordshire and Stoke-on-Trent,390066,334027,D
+V06650,Dental Surgery,9 Abbey Street,,,Stone,Staffordshire,ST15 8PA,Dental service,,,Staffordshire and Stoke-on-Trent,390317,333739,D
+V11293,Castle Way Dental Care,Castle Way,,,Stafford,Staffordshire,ST16 1BS,Dental service,,,Staffordshire and Stoke-on-Trent,391358,322616,D
+V80120,Pure Dental Solutions,255 Eccleshall Road,,,Stafford,Staffordshire,ST16 1PE,Dental service,,,Staffordshire and Stoke-on-Trent,390797,324975,P
+V06583,Dental Surgery,5 St. Marys Place,,,Stafford,Staffordshire,ST16 2AR,Dental service,,,Staffordshire and Stoke-on-Trent,392098,323138,D
+V80648,Rajdeep Koner,9 Church Lane,,,Stafford,,ST16 2AW,Dental service,,,Staffordshire and Stoke-on-Trent,392134,323120,D
+V00057,Eastgate Street (Dental Surgery),24 Eastgate Street,,,Stafford,Staffordshire,ST16 2LZ,Dental service,,,Staffordshire and Stoke-on-Trent,392473,323237,D
+V13621,Oriel House (Dental Surgery),Oriel House,16 South Walls,,Stafford,Staffordshire,ST16 3AA,Dental service,,,Staffordshire and Stoke-on-Trent,392487,323144,D
+V06749,Staffs & Sot Ptnrship Trust,Central Clinic,North Walls,,Stafford,Staffordshire,ST16 3AE,Dental service,,,Staffordshire and Stoke-on-Trent,392277,323439,D
+,2nd Floor Central Clinic,Civic Centre,Stafford Road,,Stafford,Staffordshire,ST16 3AQ,Dental Access Centre,,,Staffordshire and Stoke-on-Trent,392360,323059,#N/A
+V06695,Time for Teeth HMP Stafford,54 Gaol Road,,,Stafford,,ST16 3AW,Dental service,,,Staffordshire and Stoke-on-Trent,392114,323781,D
+V06593,Stafford Dental Surgery,7-8 Friars Road,,,Stafford,Staffordshire,ST17 4AA,Dental service,,,Staffordshire and Stoke-on-Trent,392270,322813,D
+V06611,C N Grocott and D Vlok,Dental Surgery,18 Wolverhampton Road,,Stafford,Staffordshire,ST17 4BP,Dental service,,,Staffordshire and Stoke-on-Trent,392433,322677,D
+V06631,Oasis Dental Care,14 Wolverhampton Road,,,Stafford,Staffordshire,ST17 4BP,Dental service,,,Staffordshire and Stoke-on-Trent,392433,322677,D
+V83393,Smile Styles Dental Care,24 Lichfield Road,,,Stafford,,ST17 4LL,Dental service,,,Staffordshire and Stoke-on-Trent,392910,322535,P
+V06553,Hillcrest Dental Surgery,1 Hillcrest,,,Stafford,Staffordshire,ST17 9YA,Dental service,,,Staffordshire and Stoke-on-Trent,391379,321735,D
+V91013,Stafford Dental Centre,The Dental Centre,Beaconside,,Stafford,Staffordshire,ST18 0AQ,Dental service,,,Staffordshire and Stoke-on-Trent,393930,324260,D
+V06534,Dental Surgery,Rose Garth,Brewery Lane,Great Haywood,Stafford,Staffordshire,ST18 0SN,Dental service,,,Staffordshire and Stoke-on-Trent,399868,322782,D
+V297476,Oracle Dental Clinic,9 Parker Court,,,Stafford,,ST18 0WP,Dental service,,,Staffordshire and Stoke-on-Trent,394209,324398,D
+V29548,Clay Street Dental Surgery,Clay Street,,,Stafford,Staffordshire,ST19 5AF,Dental service,,,Staffordshire and Stoke-on-Trent,392285,314109,D
+V82597,The Priors Dental Practice Ltd,Pinfold Lane,Penkridge,,Stafford,Staffordshire,ST19 5AP,Dental service,,,Staffordshire and Stoke-on-Trent,392132,314258,P
+V06681,Dental Surgery,Sharlyn,Market Street,Penkridge,Stafford,Staffordshire,ST19 5DH,Dental service,,,Staffordshire and Stoke-on-Trent,392379,314179,D
+V07405,Bucknall Dental Practice,237 Dividy Road,,,Stoke-on-Trent,Staffordshire,ST2 0BJ,Dental service,,,Staffordshire and Stoke-on-Trent,390785,346646,D
+V07401,Dental Surgery,1441 Leek Road,,,Stoke-on-Trent,Staffordshire,ST2 8BY,Dental service,,,Staffordshire and Stoke-on-Trent,390451,348794,D
+V06659,Gnosall Dental Practice,15 High Street,Gnosall,,Stafford,Staffordshire,ST20 0EX,Dental service,,,Staffordshire and Stoke-on-Trent,382916,320817,D
+V13159,VIPs Dental,Brookhouse Road,Gnosall,,Stafford,Staffordshire,ST20 0GP,Dental service,,,Staffordshire and Stoke-on-Trent,382797,321424,D
+V82991,Castle View Dental Spa,5 Small Lane,Eccleshall,,Stafford,,ST21 6AD,Dental service,,,Staffordshire and Stoke-on-Trent,383086,329048,P
+V10033,Castle Street (Dental Surgery),6 Castle Street,Eccleshall,,Stafford,Staffordshire,ST21 6DF,Dental service,,,Staffordshire and Stoke-on-Trent,383142,329255,D
+V09312,Time for Teeth HMP Drake Hall,Drake Hall,Eccleshall,,Stafford,,ST21 6LQ,Dental service,,,Staffordshire and Stoke-on-Trent,383891,331294,D
+V06860,Longton Dental Centre,St. Johns Chambers,537 King Street,,Stoke-on-Trent,Staffordshire,ST3 1HD,Dental service,,,Staffordshire and Stoke-on-Trent,390910,343696,D
+V06854,Dental Centre,89 Blurton Road,,,Stoke-on-Trent,Staffordshire,ST3 2BS,Dental service,,,Staffordshire and Stoke-on-Trent,389311,343572,D
+V06805,Rosslyn House Dental Practice,Rosslyn House,26 Rosslyn Road,,Stoke-on-Trent,Staffordshire,ST3 4JD,Dental service,,,Staffordshire and Stoke-on-Trent,391171,342867,D
+V06865,Meir Dental Practice,1 Penfleet Avenue,,,Stoke-on-Trent,Staffordshire,ST3 6BP,Dental service,,,Staffordshire and Stoke-on-Trent,393366,342450,D
+V06677,Meir Health Dental Surgery,404 Sandon Road,,,Stoke-on-Trent,Staffordshire,ST3 7LH,Dental service,,,Staffordshire and Stoke-on-Trent,392882,340290,D
+V06810,Modwena Dental,1 Liverpool Road,,,Stoke-on-Trent,Staffordshire,ST4 1AR,Dental service,,,Staffordshire and Stoke-on-Trent,387596,345311,D
+V14500,Liverpool Road Dental Surgery,26 Liverpool Road,,,Stoke-on-Trent,,ST4 1AT,Dental service,,,Staffordshire and Stoke-on-Trent,387580,345365,D
+V06806,Middleton & Partners Dental,6 Stoke Road,,,Stoke-on-Trent,Staffordshire,ST4 2DP,Dental service,,,Staffordshire and Stoke-on-Trent,387712,346409,D
+V12195,Alchemy Dental Practice,Penton House,Queen Anne Street,Shelton,Stoke-on-Trent,Staffordshire,ST4 2EQ,Dental service,,,Staffordshire and Stoke-on-Trent,387871,345951,D
+V06803,Victoria Dental Practice,68 Victoria Road,,,Stoke-on-Trent,Staffordshire,ST4 2JX,Dental service,,,Staffordshire and Stoke-on-Trent,389243,344931,D
+V06834,Dental Surgery,26 Stoke Road,,,Stoke-on-Trent,Staffordshire,ST4 2QX,Dental service,,,Staffordshire and Stoke-on-Trent,387784,346139,D
+V06811,Dental Surgery,3 Campbell Road,,,Stoke-on-Trent,Staffordshire,ST4 4EA,Dental service,,,Staffordshire and Stoke-on-Trent,387770,344712,D
+V06780,Grosvenor Dental Practice,736 London Road,,,Stoke-on-Trent,Staffordshire,ST4 5NP,Dental service,,,Staffordshire and Stoke-on-Trent,386827,343724,D
+V06828,Ashlow Orthodontic Practice,Ashlow,Ashlands Avenue,,Stoke-on-Trent,Staffordshire,ST4 6BN,Dental service,,,Staffordshire and Stoke-on-Trent,386172,345692,D
+V06807,Hammonds,Stoneyfields Dental Practice,587 Etruria Road,,Stoke-on-Trent,Staffordshire,ST4 6HL,Dental service,,,Staffordshire and Stoke-on-Trent,385804,346537,D
+V06813,Dental Surgery,1A New Inn Lane,,,Stoke-on-Trent,Staffordshire,ST4 8HA,Dental service,,,Staffordshire and Stoke-on-Trent,386973,341966,D
+V05751,Wolstanton Dental Practice,Village Dental Practice,5 Ellison Street,Wolstanton,Newcastle,Staffordshire,ST5 0BJ,Dental service,,,Staffordshire and Stoke-on-Trent,385529,348320,D
+V05000,M N Devlin's Dental Surgery,Dental Surgery,1 High Street,Wolstanton,Newcastle,Staffordshire,ST5 0EY,Dental service,,,Staffordshire and Stoke-on-Trent,385213,348723,#N/A
+V80240,Newcastle Under Lyme Dental Practice,1 Mount Pleasant,,,Newcastle,Staffordshire,ST5 1DA,Dental service,,,Staffordshire and Stoke-on-Trent,385534,345994,P
+V04983,Dental Surgery,12 King Street,,,Newcastle,Staffordshire,ST5 1EL,Dental service,,,Staffordshire and Stoke-on-Trent,385166,346226,D
+V83012,Whittaker Dental Practice,86 King Street,,,Newcastle,,ST5 1JB,Dental service,,,Staffordshire and Stoke-on-Trent,385506,346373,P
+V297474,Newcastle Dental and Implant Clinic,65 George Street,,,Newcastle,Stoke on Trent,ST5 1JT,Dental service,,,Staffordshire and Stoke-on-Trent,385645,346135,D
+V04980,Dental Surgery,102 Liverpool Road,,,Newcastle,Staffordshire,ST5 2AX,Dental service,,,Staffordshire and Stoke-on-Trent,384685,346375,D
+V04979,Mr M E Neeld and Associates,Cherry Orchard Dental Surgery,1 Cherry Orchard,,Newcastle,Staffordshire,ST5 2UB,Dental service,,,Staffordshire and Stoke-on-Trent,385005,346297,D
+V04975,Westbury Park Dental Practice,10 The Westbury Centre,Westbury Road,,Newcastle,Staffordshire,ST5 4LY,Dental service,,,Staffordshire and Stoke-on-Trent,384992,342943,D
+V13055,Milehouse Dental Practice,Unit 8B,Brock Way,,Newcastle,Staffordshire,ST5 6AZ,Dental service,,,Staffordshire and Stoke-on-Trent,383048,346709,D
+V09831,Dental Surgery,121 Newcastle Street,,,Newcastle,Staffordshire,ST5 6PL,Dental service,,,Staffordshire and Stoke-on-Trent,382373,346614,D
+V04977,Elm Villa Dental Practice,193 London Road,Chesterton,,Newcastle,Staffordshire,ST5 7HZ,Dental service,,,Staffordshire and Stoke-on-Trent,383559,348739,D
+V82872,Moorland Dental Clinic,25-27 Moorland Road,,,Stoke-on-Trent,,ST6 1DS,Dental service,,,Staffordshire and Stoke-on-Trent,387028,349903,D
+V13339,Smallthorne Dental Practice,85-87 Ford Green Road,,,Stoke-on-Trent,,ST6 1NT,Dental service,,,Staffordshire and Stoke-on-Trent,388353,350426,D
+V07409,Waterloo Dental Practice,239 Waterloo Road,,,Stoke-on-Trent,Staffordshire,ST6 2JB,Dental service,,,Staffordshire and Stoke-on-Trent,387439,348896,D
+V07400,Synergy Dental Care,58 Newcastle Street,Stoke on Trent,,Stoke-on-Trent,Staffordshire,ST6 3QF,Dental service,,,Staffordshire and Stoke-on-Trent,386568,349654,D
+V07408,The Boulevard Dental Practice,Dental Surgery,73 The Boulevard,Ball Green,Stoke-on-Trent,Staffordshire,ST6 6BD,Dental service,,,Staffordshire and Stoke-on-Trent,386114,351325,D
+V07613,Butt Lane Dental Surgery,136 Congleton Road,Talke,,Stoke-on-Trent,Staffordshire,ST7 1LX,Dental service,,,Staffordshire and Stoke-on-Trent,382755,354407,D
+V07616,Kidsgrove Bank Dental Surgery,102 Liverpool Road,Kidsgrove,,Stoke-on-Trent,Staffordshire,ST7 4EH,Dental service,,,Staffordshire and Stoke-on-Trent,384090,354380,D
+V07619,Kidsgrove Dental Surgery,79 Liverpool Road,Kidsgrove,,Stoke-on-Trent,Staffordshire,ST7 4EW,Dental service,,,Staffordshire and Stoke-on-Trent,384195,354253,D
+V04962,Audley Dental Surgery,31 Church Street,Audley,,Stoke-on-Trent,Staffordshire,ST7 8DA,Dental service,,,Staffordshire and Stoke-on-Trent,379839,350739,D
+V07622,Horizons Dental Practice,67 High Street,Biddulph,,Stoke-on-Trent,Staffordshire,ST8 6AA,Dental service,,,Staffordshire and Stoke-on-Trent,388324,357648,D
+V12012,Keen Dental Care,Unit 2 Well Street,Biddulph,,Stoke on Trent,Staffordshire,ST8 6HS,Dental service,,,Staffordshire and Stoke-on-Trent,388385,357532,D
+V07618,Werrington Dental Practice,497 Ash Bank Road,Werrington,,Stoke-on-Trent,,ST9 0DT,Dental service,,,Staffordshire and Stoke-on-Trent,394459,347590,D
+V10535,Time for Teeth HMP Werrington,Werrington,,,Stoke-on-Trent,,ST9 0DX,Dental service,,,Staffordshire and Stoke-on-Trent,394158,347257,D
+V13435,107 109 Walsall Road [Dental Surgery],107-109 Walsall Road,,,Cannock,Staffordshire,WS11 0HP,Dental service,,,Staffordshire and Stoke-on-Trent,398370,309636,D
+V06079,Chase Dental Practice,11a Wolverhampton Road,,,Cannock,Staffordshire,WS11 1AP,Dental service,,,Staffordshire and Stoke-on-Trent,397965,309983,D
+V06065,The Cannock Dental Practice,15a Wolverhampton Road,,,Cannock,Staffordshire,WS11 1AP,Dental service,,,Staffordshire and Stoke-on-Trent,397965,309983,D
+V06057,Dental Surgery,1 Coniston Way,,,Cannock,Staffordshire,WS11 1DT,Dental service,,,Staffordshire and Stoke-on-Trent,398398,310352,D
+V279160,37 Queens Square,Queens Square,,,Cannock,,WS11 1EA,Dental service,,,Staffordshire and Stoke-on-Trent,398220,310286,D
+V09412,Dental Surgery,Cannock Chase Hospital,Brunswick Road,,Cannock,Staffordshire,WS11 5XY,Dental service,,,Staffordshire and Stoke-on-Trent,398028,310618,D
+,Dental Department,Cannock Chase Hospital,Brunswick Road,,Cannock,Staffordshire,WS11 5XY,Dental Access Centre,,,Staffordshire and Stoke-on-Trent,398028,310618,#N/A
+V06069,Dentaire,100a Market Street,Hednesford,,Cannock,Staffordshire,WS12 1AG,Dental service,,,Staffordshire and Stoke-on-Trent,400160,312402,D
+V06083,Dental Surgery,92a Eskrett Street,Hednesford,,Cannock,Staffordshire,WS12 1AP,Dental service,,,Staffordshire and Stoke-on-Trent,399965,312189,D
+V209633,Hednesford Road (Dental Surgery),36-38 Hednesford Road,Heath Hayes,,Cannock,,WS12 3EA,Dental service,,,Staffordshire and Stoke-on-Trent,401425,310124,D
+V06055,Dental Surgery,41 Station Road,Hednesford,,Cannock,Staffordshire,WS12 4DH,Dental service,,,Staffordshire and Stoke-on-Trent,400056,312747,D
+V07349,Dental Surgery,9 Dam Street,,,Lichfield,Staffordshire,WS13 6AE,Dental service,,,Staffordshire and Stoke-on-Trent,411708,309649,D
+V06802,Guys Dental Surgery,11 Church Street,,,Lichfield,Staffordshire,WS13 6DZ,Dental service,,,Staffordshire and Stoke-on-Trent,412148,309620,D
+V06557,Asquith House Dental Practice,5 Lion Court,Wade Street,,Lichfield,Staffordshire,WS13 6HL,Dental service,,,Staffordshire and Stoke-on-Trent,411752,309410,D
+V09406,Dental Surgery,Greenhill Health Centre,Church Street,,Lichfield,Staffordshire,WS13 6JL,Dental service,,,Staffordshire and Stoke-on-Trent,412189,309545,D
+V05875,Bore Street Dental Surgery,24 Bore Street,,,Lichfield,Staffordshire,WS13 6LL,Dental service,,,Staffordshire and Stoke-on-Trent,411719,309435,D
+V82791,Lichfield Family Dental Surgery,19 Beacon Street,,,Lichfield,,WS13 7AA,Dental service,,,Staffordshire and Stoke-on-Trent,411348,309752,P
+V06753,Lichfield Dental Care,67 Shortbutts Lane,,,Lichfield,Staffordshire,WS14 9BU,Dental service,,,Staffordshire and Stoke-on-Trent,411649,308280,D
+V10536,80 Upper St John Street (Dental Surgery),80 Upper St. John Street,,,Lichfield,Staffordshire,WS14 9DX,Dental service,,,Staffordshire and Stoke-on-Trent,411870,308952,D
+V06589,Pickering House Dental Practice,76 Upper St John Street,,,Lichfield,Staffordshire,WS14 9DX,Dental service,,,Staffordshire and Stoke-on-Trent,411870,308952,D
+V91014,Lichfield Dental Centre,The Dental Centre,Whittington,,Lichfield,Staffordshire,WS14 9PY,Dental service,,,Staffordshire and Stoke-on-Trent,415305,307082,D
+V06638,Time for Teeth HMP Swinfen Hall,Swinfen Hall,Swinfen,,Lichfield,,WS14 9QS,Dental service,,,Staffordshire and Stoke-on-Trent,413559,305890,D
+V06070,Avondale House Dental Practice,Avondale House,37 Anson Street,,Rugeley,Staffordshire,WS15 2BA,Dental service,,,Staffordshire and Stoke-on-Trent,404425,318355,D
+V42398,Mydentist,13-15 Lower Brook Street,,,Rugeley,,WS15 2BZ,Dental service,,,Staffordshire and Stoke-on-Trent,404447,318034,D
+V06058,K R Grundy Dental Surgeon,39 Heron Street,,,Rugeley,Staffordshire,WS15 2DZ,Dental service,,,Staffordshire and Stoke-on-Trent,404747,317889,D
+V14903,Sandy Lane Health Centre,Sandy Lane,,,Rugeley,Staffordshire,WS15 2LB,Dental service,,,Staffordshire and Stoke-on-Trent,404335,317669,D
+V06056,Dental Surgery,34 Rugeley Road,Armitage,,Rugeley,Staffordshire,WS15 4BD,Dental service,,,Staffordshire and Stoke-on-Trent,407840,316082,D
+V06063,Dental Surgery,2 Southfield Way,,,Walsall,West Midlands,WS6 6JZ,Dental service,,,Staffordshire and Stoke-on-Trent,398838,306736,D
+V06067,Dental Surgery,171 Walsall Road,Great Wyrley,,Walsall,West Midlands,WS6 6NL,Dental service,,,Staffordshire and Stoke-on-Trent,399150,307468,D
+V80193,Carolyn Jones Dental Practice,69-71 High Street,Cheslyn Hay,,Walsall,West Midlands,WS6 7AD,Dental service,,,Staffordshire and Stoke-on-Trent,397759,306924,P
+V80198,Cheslyn Hay Dental Practice,69-71 High Street,Cheslyn Hay,,Walsall,West Midlands,WS6 7AD,Dental service,,,Staffordshire and Stoke-on-Trent,397759,306924,P
+V209165,Inspire Dental and Implant Centre,Rugeley Road,Chase Terrace,,Burntwood,Staffordshire,WS7 1AQ,Dental service,,,Staffordshire and Stoke-on-Trent,404586,309393,D
+V05929,Dental Surgery,27 High Street,Chasetown,,Burntwood,Staffordshire,WS7 3XE,Dental service,,,Staffordshire and Stoke-on-Trent,404538,308196,D
+V19856,267 High Street Dental Practice,267 High Street,,,Burntwood,Staffordshire,WS7 3XJ,Dental service,,,Staffordshire and Stoke-on-Trent,404542,309223,D
+V06699,Dental Dept.,Featherstone,,,Wolverhampton,West Midlands,WV10 7PU,Dental service,,,Staffordshire and Stoke-on-Trent,392654,305458,D
+V06701,Dental Dept.,1 New Road,Featherstone,,Wolverhampton,West Midlands,WV10 7PY,Dental service,,,Staffordshire and Stoke-on-Trent,392638,305883,D
+V17438,Time for Teeth HMP Oakwood,Oaks Drive,Featherstone,,Wolverhampton,,WV10 7QD,Dental service,,,Staffordshire and Stoke-on-Trent,392451,305586,D
+V06661,Dental Surgery,High Street,Wombourne,,Wolverhampton,West Midlands,WV5 9DP,Dental service,,,Staffordshire and Stoke-on-Trent,387666,293030,D
+V06665,Willows Dental & Implant Centre,5 Ounsdale Road,Wombourne,,Wolverhampton,,WV5 9JE,Dental service,,,Staffordshire and Stoke-on-Trent,387266,293218,D
+V06548,Perton Dental Practice,Suite 2,21-24 Anders Square,Perton,Wolverhampton,West Midlands,WV6 7QH,Dental service,,,Staffordshire and Stoke-on-Trent,386360,299687,D
+V06683,Dental Surgery,Severn Drive,,,Wolverhampton,West Midlands,WV6 7QL,Dental service,,,Staffordshire and Stoke-on-Trent,386231,299508,D
+V28588,Wood Road (Dental Surgery),Wood Road,,,Wolverhampton,Staffordshire,WV6 8LE,Dental service,,,Staffordshire and Stoke-on-Trent,388490,299551,D
+V83358,Codsall Dental Practice (Wolves) Ltd,1 Bakers Way,Codsall,,Wolverhampton,,WV8 1HB,Dental service,,,Staffordshire and Stoke-on-Trent,386570,303736,P
+V06204,Treetops Surgery,52 Duck Lane,Codsall,,Wolverhampton,West Midlands,WV8 1HF,Dental service,,,Staffordshire and Stoke-on-Trent,387555,302997,D
+V06684,Coven Village Dental Surgery,137 Wolverhampton Road,Codsall,,Wolverhampton,West Midlands,WV8 1PF,Dental service,,,Staffordshire and Stoke-on-Trent,387260,303115,D
+V09408,Codsall Clinic,Elliotts Lane,Codsall,,Wolverhampton,Staffordshire,WV8 1PH,Dental service,,,Staffordshire and Stoke-on-Trent,387093,303314,D

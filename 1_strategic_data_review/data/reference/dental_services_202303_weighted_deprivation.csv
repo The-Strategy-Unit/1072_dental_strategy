@@ -1,0 +1,906 @@
+code,name,type,icb_name,easting,northing,nhs_private,avg_deprivation
+V82510,Birmingham Dental Specialists,Dental service,Birmingham and Solihull,406320,286333,P,3.677573204575156
+V04832,Dental Surgery,Dental service,Birmingham and Solihull,409678,285369,D,1
+V04913,Dental Surgery,Dental service,Birmingham and Solihull,409473,285943,D,1.0758115998095399
+V04896,Dental Surgery,Dental service,Birmingham and Solihull,410177,285527,D,1.099155026489719
+V28583,Grantham Road (Dental Surgery),Dental service,Birmingham and Solihull,408840,284968,D,1.0019273822691477
+V04866,Dental Surgery,Dental service,Birmingham and Solihull,409080,284450,D,1.0595784283064187
+V04874,Dental Surgery,Dental service,Birmingham and Solihull,410360,283952,D,1.620972466944705
+V04361,Stratford Road (Dental Surgery),Dental service,Birmingham and Solihull,409402,283574,D,1.6233616868620389
+V28584,Stratford Road (Dental Surgery),Dental service,Birmingham and Solihull,409720,282958,D,2.158933106498057
+V04838,Dental Surgery,Dental service,Birmingham and Solihull,409713,282898,D,2.2038834251567163
+V04894,Prime Dental Surgery,Dental service,Birmingham and Solihull,409182,283942,D,1.3154518166187896
+V04817,Dental Surgery,Dental service,Birmingham and Solihull,408460,284152,D,1.105626945206303
+V04909,Dental Surgery,Dental service,Birmingham and Solihull,408463,284475,D,1.014466605195072
+V08191,S. Birmingham Community Health,Dental service,Birmingham and Solihull,407711,284387,D,1.1010677163087024
+V04898,Dental Surgery,Dental service,Birmingham and Solihull,407742,284140,D,1.1885330265602525
+V01334,Dental Surgery,Dental service,Birmingham and Solihull,409644,281767,D,3.259405657320284
+V01185,Dental Surgery,Dental service,Birmingham and Solihull,407588,283172,D,2.428807132952152
+V85778,Mango Tree Dental,Dental service,Birmingham and Solihull,408095,283085,P,2.4988467680064694
+V01193,Dental Surgery,Dental service,Birmingham and Solihull,409003,279103,D,3.1226372024826903
+V01200,Dental Surgery,Dental service,Birmingham and Solihull,407736,278606,D,3.56831787510327
+V01202,Dental Surgery,Dental service,Birmingham and Solihull,406089,278803,D,2.5102726491069602
+V07264,Dental Surgery,Dental service,Birmingham and Solihull,407149,280635,D,4.11721823447732
+V01183,Dental Surgery,Dental service,Birmingham and Solihull,407402,280527,D,4.31362043765594
+V01217,James Hull Dental Care,Dental service,Birmingham and Solihull,407359,281787,D,4.246900131196125
+V01204,Midlands Smile Centres,Dental service,Birmingham and Solihull,406426,281068,D,3.3972888694480976
+V01186,Dental Surgery,Dental service,Birmingham and Solihull,405719,286029,D,3.46069903888056
+V28579,Attwood Green Health Centre,Dental service,Birmingham and Solihull,406317,286062,D,3.447687805119056
+V83108,Mycol Ltd,Dental service,Birmingham and Solihull,406201,285707,P,3.1504073603330247
+V10129,Pritchatts Road (Dental Surgery),Dental service,Birmingham and Solihull,404311,284212,D,5.122942574342507
+V83225,Highfield Dental Clinic,Dental service,Birmingham and Solihull,405080,285895,P,3.5659302096359635
+V83317,Signature Orthodontics Ltd,Dental service,Birmingham and Solihull,405070,285753,P,3.681434883049496
+V01208,Dental Surgery,Dental service,Birmingham and Solihull,404770,285640,D,4.062093277519899
+V82612,Nursery Road Dental Practice,Dental service,Birmingham and Solihull,403928,284887,P,5.88435589958046
+V83128,Liberty Place,Dental service,Birmingham and Solihull,405696,286826,P,3.6387716691346226
+V04828,Dental Surgery,Dental service,Birmingham and Solihull,404939,286534,D,2.7941695990457975
+V01223,Dental Surgery,Dental service,Birmingham and Solihull,404274,286127,D,3.460348975737042
+V80404,Edgbaston Orthodontics,Dental service,Birmingham and Solihull,404274,286127,P,3.460348975737042
+V01195,Dental Surgery,Dental service,Birmingham and Solihull,403038,284227,D,4.902641661117291
+V08239,Dental Surgery,Dental service,Birmingham and Solihull,403936,284650,D,5.48313364518129
+V01444,Rooprai-Rooprai & Associates,Dental service,Birmingham and Solihull,402391,284019,D,3.80177533380182
+V01209,Knightlow Road (Dental Surgery),Dental service,Birmingham and Solihull,403082,285541,D,4.7860474979727226
+V01226,Dental Surgery,Dental service,Birmingham and Solihull,402608,284673,D,5.668198526779367
+V08190,Dental Dept.,Dental service,Birmingham and Solihull,404272,288288,D,1.2986666977368084
+V04912,Dental Surgery,Dental service,Birmingham and Solihull,403885,287642,D,2.0074737267104306
+V13874,Synergy Dental Practice Limited,Dental service,Birmingham and Solihull,404357,287751,D,1.5865183330447996
+V05354,Broadway Dental Suite,Dental service,Birmingham and Solihull,405252,287211,D,2.8424189581983548
+V05873,Heathfield Road Dental Practice,Dental service,Birmingham and Solihull,406375,289958,D,1.1397276182093456
+V05876,Birchfield Dental Practice,Dental service,Birmingham and Solihull,406708,289959,D,1.1292197677238587
+V14946,Birchfield Road (Dental Surgery),Dental service,Birmingham and Solihull,406708,289959,D,1.1292197677238587
+V04825,Dental Surgery,Dental service,Birmingham and Solihull,406924,289505,D,1.0936459441430992
+V04840,Dental Surgery,Dental service,Birmingham and Solihull,406606,288866,D,1.1378491863499185
+V04871,Dental Surgery,Dental service,Birmingham and Solihull,406243,289437,D,1.0083425726081527
+V04914,Lozells Road (Dental Surgery),Dental service,Birmingham and Solihull,406646,289404,D,1.0325699680547407
+V04810,Farm Street (Dental Surgery),Dental service,Birmingham and Solihull,406090,288667,D,1.4355969593195044
+V82835,Mismile Birmingham,Dental service,Birmingham and Solihull,406950,286776,P,3.9972380059689243
+V04835,Dental Surgery,Dental service,Birmingham and Solihull,407098,286929,D,4.043207656567323
+V05051,Dental Surgery,Dental service,Birmingham and Solihull,404963,291433,D,3.6570410565042493
+V04839,Dental Surgery,Dental service,Birmingham and Solihull,404970,290574,D,1.9017242856313856
+V04863,Handsworth Dental Care,Dental service,Birmingham and Solihull,403489,289879,D,1.3709988041773409
+V13853,78 Soho Road (Dental Practice),Dental service,Birmingham and Solihull,404996,289364,D,1.0157041579196646
+V04897,Grove Lane Dental Surgery,Dental service,Birmingham and Solihull,404710,289925,D,1.2675805010949597
+V04830,Dental Surgery,Dental service,Birmingham and Solihull,404234,290599,D,1.8822387231299849
+V04902,Dental Surgery,Dental service,Birmingham and Solihull,404234,290599,D,1.8822387231299849
+V28582,247-251,Dental service,Birmingham and Solihull,404515,289464,D,1.0698444128806701
+V04904,Dental Surgery,Dental service,Birmingham and Solihull,404399,289517,D,1.1056867770377552
+V02364,Dental Surgery,Dental service,Birmingham and Solihull,411656,292733,D,3.3126320682844193
+V02329,Dental Surgery,Dental service,Birmingham and Solihull,410542,291441,D,1.4909601992784238
+V81636,Stockland Green Health Centre,Dental service,Birmingham and Solihull,409777,291788,D,1.7188963625452078
+V02366,Dental Surgery,Dental service,Birmingham and Solihull,410667,291675,D,1.5704468061925991
+V02331,Smiles 4 U,Dental service,Birmingham and Solihull,410016,290373,D,1.2980416316226686
+V02386,Dental Surgery,Dental service,Birmingham and Solihull,412353,285039,D,1.9602142541814382
+V02356,Yew Tree Dental Surgery,Dental service,Birmingham and Solihull,412829,285474,D,2.5252612145546314
+V02318,Bhandal Dental Practice,Dental service,Birmingham and Solihull,413235,284871,D,3.7737327603172734
+V02304,Dental Surgery,Dental service,Birmingham and Solihull,413557,284941,D,4.130235472283928
+V02382,Dental Surgery,Dental service,Birmingham and Solihull,414180,284043,D,4.378167134639947
+V02360,Dental Surgery,Dental service,Birmingham and Solihull,414893,283925,D,4.1897090672649595
+V02374,Coventry Road (Dental Surgery),Dental service,Birmingham and Solihull,415012,283795,D,4.381485187639979
+V02334,Whitecross Dental Practice,Dental service,Birmingham and Solihull,412146,283192,D,2.1401605816643015
+V02706,Dental Surgery,Dental service,Birmingham and Solihull,412225,283325,D,2.3250891602980417
+V80163,Village Dental Surgery,Dental service,Birmingham and Solihull,412225,283325,P,2.3250891602980417
+V01474,Dental Surgery,Dental service,Birmingham and Solihull,411917,283131,D,1.8820053942908248
+V01196,Orthodontist Surgery,Dental service,Birmingham and Solihull,411400,282996,D,1.7542985456222417
+V01436,Dental Surgery,Dental service,Birmingham and Solihull,411762,283111,D,1.7633431656134755
+V01462,Dental Surgery,Dental service,Birmingham and Solihull,412049,283023,D,1.9426840597770993
+V01438,Victoria Road (Dental Surgery),Dental service,Birmingham and Solihull,412356,282958,D,2.3602592786194703
+V211879,Stratford Orthodontics,Dental service,Birmingham and Solihull,410311,282522,D,2.4414103423249167
+V01477,Dental Surgery,Dental service,Birmingham and Solihull,410361,282719,D,2.226703549599231
+V08202,Dental Surgery,Dental service,Birmingham and Solihull,410913,280827,D,4.656559222156983
+V01430,Dental Surgery,Dental service,Birmingham and Solihull,411053,280575,D,4.8259693612470835
+V01180,Sherwood Dental Practice,Dental service,Birmingham and Solihull,411305,281396,D,3.626051928225154
+V01189,Dental Surgery,Dental service,Birmingham and Solihull,401689,282140,D,1.479153309304507
+V11748,476 - 478 Bristol Road (Dental Practice),Dental service,Birmingham and Solihull,404785,283138,D,5.478055286790179
+V01198,JD Dental Surgery,Dental service,Birmingham and Solihull,404938,282130,D,4.810371185484644
+V01211,Oakville Dental Centre,Dental service,Birmingham and Solihull,403921,282067,D,4.792890211147658
+V01222,Dental Surgery,Dental service,Birmingham and Solihull,403914,282959,D,4.689786095386224
+V83214,Selly Park Dental Centre,Dental service,Birmingham and Solihull,405884,283117,P,5.156598306728758
+V01464,South Birmingham Orthodontics,Dental service,Birmingham and Solihull,405831,282858,D,4.901202166146049
+V45089,Cadbury Dental Practice (29 Sycamore Road),Dental service,Birmingham and Solihull,404555,281342,D,4.304760799035341
+V01192,Dental Surgery,Dental service,Birmingham and Solihull,405389,280855,D,3.2346784587382005
+V01194,Station Dental Practice,Dental service,Birmingham and Solihull,404768,279506,D,4.319641104778135
+V08178,Northfield Health Centre,Dental service,Birmingham and Solihull,401744,279418,D,3.228371856940341
+V01191,Dental Surgery,Dental service,Birmingham and Solihull,403220,279683,D,2.9871311153944413
+V01212,Dental Surgery,Dental service,Birmingham and Solihull,401937,279172,D,3.398897911867669
+V01225,Hilltop Dental Spa,Dental service,Birmingham and Solihull,401870,279182,D,3.3939549669593756
+V01123,Dental Surgery,Dental service,Birmingham and Solihull,402813,277820,D,2.8357793945978536
+V01478,Dental Surgery,Dental service,Birmingham and Solihull,401915,277309,D,3.181579132360686
+V07263,Hollymoor Tower Dental Surgery,Dental service,Birmingham and Solihull,400177,278441,D,1.7476107480061611
+V01190,Dental Surgery,Dental service,Birmingham and Solihull,399716,284889,D,4.642311272663026
+V07262,Euro Dental Care,Dental service,Birmingham and Solihull,401334,284715,D,3.814402442105
+V01479,Jiggins Lane (Dental Surgery),Dental service,Birmingham and Solihull,400409,282092,D,2.1405447700216045
+V01187,Dental Surgery,Dental service,Birmingham and Solihull,399704,281750,D,2.471152743586457
+V02370,21-21a Bell Lane (Dental Surgery),Dental service,Birmingham and Solihull,416289,286163,D,2.1991835692393167
+V02295,Sheldon Dental Surgery,Dental service,Birmingham and Solihull,414393,286563,D,1.6117455073410314
+V12804,Richmond Primary Care Centre,Dental service,Birmingham and Solihull,412491,286693,D,1.3123602026298198
+V02291,Glebe Farm Dental Care,Dental service,Birmingham and Solihull,414146,287828,D,1.3548831393049758
+V02327,Dental Surgery,Dental service,Birmingham and Solihull,415016,287160,D,1
+V02380,Dental Surgery,Dental service,Birmingham and Solihull,414338,288962,D,2.250856923597653
+V02325,Castle Dental Care,Dental service,Birmingham and Solihull,413991,291108,D,1.4038701659545532
+V06779,Dental Surgery,Dental service,Birmingham and Solihull,415832,289949,D,5.208731988717222
+V06784,Dental Surgery,Dental service,Birmingham and Solihull,415911,289353,D,3.874207014136786
+V07890,Lansdown Dental Practice,Dental service,Birmingham and Solihull,417677,288296,D,2.279197232126929
+V196059,Smith's Wood Medical Centre,Dental service,Birmingham and Solihull,417234,289494,D,2.523069057176117
+V28581,Roughlea Avenue (Dental Surgery),Dental service,Birmingham and Solihull,413595,289456,D,2.3009004435598173
+V06444,266 Bradford Road (Dental Practice),Dental service,Birmingham and Solihull,415229,289328,D,3.49574540844693
+V07102,Dental Surgery,Dental service,Birmingham and Solihull,416829,286989,D,1.6403343710538745
+V06772,Kingshurst Dental Surgery,Dental service,Birmingham and Solihull,417022,288476,D,2.0137536455773404
+V06790,Wilkinson Dental Care,Dental service,Birmingham and Solihull,416891,285516,D,3.40155413603068
+V32506,Hedingham Grove Dental Surgery,Dental service,Birmingham and Solihull,418555,286639,D,1.6689437925748871
+V01221,Mydentist,Dental service,Birmingham and Solihull,404590,278355,D,2.546441858648149
+V01199,Dental Surgery,Dental service,Birmingham and Solihull,404900,278769,D,2.9225704126995202
+V01203,Dental Surgery,Dental service,Birmingham and Solihull,405133,278217,D,2.245145882466945
+V08177,Hawkesley Health Centre,Dental service,Birmingham and Solihull,404350,277493,D,2.064052129958728
+V04849,Dental Surgery,Dental service,Birmingham and Solihull,407502,287641,D,2.8488986049797846
+V03318,Walsall Road (Dental Surgery),Dental service,Birmingham and Solihull,404944,293747,D,4.673804734758457
+V12300,Walsall Road (Dental Surgery),Dental service,Birmingham and Solihull,406586,291983,D,3.253297353305087
+V02401,Dental Surgery,Dental service,Birmingham and Solihull,408286,292938,D,2.0911023091083623
+V28530,402-404 Kingstanding Road (Dental Practice),Dental service,Birmingham and Solihull,407800,293680,D,2.77599433356546
+V13852,Dyas Road (Dental Surgery),Dental service,Birmingham and Solihull,406732,293947,D,3.7273004703661434
+V02439,Dental Health Centre,Dental service,Birmingham and Solihull,407975,294945,D,2.3981312194477136
+V01188,Dental Surgery,Dental service,Birmingham and Solihull,399003,278334,D,2.7402884128794356
+V01210,17 Edgewood Road,Dental service,Birmingham and Solihull,400098,276787,D,3.402687019900998
+V08189,Dental Dept.,Dental service,Birmingham and Solihull,399530,278019,D,2.29823632988212
+V01465,Dental Surgery,Dental service,Birmingham and Solihull,406809,285064,D,1.908521726215367
+V08170,Trinity Road (Dental Surgery),Dental service,Birmingham and Solihull,407531,290059,D,1.177797751170535
+V24833,Community Dental Services,Dental service,Birmingham and Solihull,407851,287718,D,2.521557448732294
+V04843,Rupert Street (Dental Surgery),Dental service,Birmingham and Solihull,408464,288414,D,1.3265068932559505
+V02436,Midland Orthodontists,Dental service,Birmingham and Solihull,412070,293205,D,5.093495432821879
+V80067,JM Dental Care,Dental service,Birmingham and Solihull,411978,295579,P,6.2982066489264765
+V80065,Dental Care Partnership,Dental service,Birmingham and Solihull,411840,295404,P,6.4490738464541995
+V82613,Sutton Aesthetic Dentistry,Dental service,Birmingham and Solihull,412254,295887,P,5.953451540936388
+V02388,Coleshill Street (Dental Surgery),Dental service,Birmingham and Solihull,412210,296319,D,5.784474411493001
+V09095,Dental Surgery,Dental service,Birmingham and Solihull,412210,296319,D,5.784474411493001
+V02431,Sharma,Dental service,Birmingham and Solihull,412210,296319,D,5.784474411493001
+V02396,Noble Dental Practice,Dental service,Birmingham and Solihull,412101,296325,D,5.7662915087120385
+V11341,Oasis Dental Care Limited,Dental service,Birmingham and Solihull,412101,296325,D,5.7662915087120385
+V02422,Dental Surgery,Dental service,Birmingham and Solihull,409682,294405,D,4.448612162989139
+V14813,M.C. Reece & Associates,Dental service,Birmingham and Solihull,409682,294405,D,4.448612162989139
+V82676,Reece Associates Llp,Dental service,Birmingham and Solihull,409682,294405,P,4.448612162989139
+V02418,Antrobus Dental Surgery,Dental service,Birmingham and Solihull,410895,294263,D,6.534366426431576
+V82558,Boldmere Dental Practice,Dental service,Birmingham and Solihull,410667,294688,P,7.221077214021436
+V82981,Birmingham Orthodontics,Dental service,Birmingham and Solihull,408522,295735,P,5.022768520602017
+V02438,Belwell Dental,Dental service,Birmingham and Solihull,411322,298789,D,8.218126678765286
+V80041,Browne's Dental Surgery,Dental service,Birmingham and Solihull,411517,298994,P,8.195130173935837
+V83098,Crown House Dental Practice,Dental service,Birmingham and Solihull,410415,299085,P,7.873654235444135
+V02412,Dental Surgery,Dental service,Birmingham and Solihull,410470,299217,D,7.460713235734829
+V03317,Arthur House Dental Practice,Dental service,Birmingham and Solihull,411705,298890,D,8.381595142919096
+V02385,Dental Surgery,Dental service,Birmingham and Solihull,411705,298890,D,8.381595142919096
+V83255,Smile Solutions,Dental service,Birmingham and Solihull,412191,298761,P,8.721015493645218
+V02467,Walmley Dental Surgery,Dental service,Birmingham and Solihull,413606,293611,D,8.411282721082923
+V02392,Dental Surgery,Dental service,Birmingham and Solihull,413452,295747,D,5.947426466373197
+V02409,Dental Surgery,Dental service,Birmingham and Solihull,413560,293855,D,8.541415691600486
+V04895,Dental Surgery,Dental service,Birmingham and Solihull,410133,287765,D,1.1265330822370698
+V02314,Dental Surgery,Dental service,Birmingham and Solihull,412446,288246,D,1.8843662374825896
+V00181,Dental Surgery,Dental service,Birmingham and Solihull,411276,288556,D,1.3114319618434092
+V02368,Dental Surgery,Dental service,Birmingham and Solihull,412009,288358,D,1.658003115594691
+V02376,Dental Surgery,Dental service,Birmingham and Solihull,411469,287661,D,1.1381470468330792
+V02313,Dental Surgery,Dental service,Birmingham and Solihull,411467,287716,D,1.1467346910448872
+V55675,Night Dental Limited,Dental service,Birmingham and Solihull,408175,286457,D,2.107213354285836
+V04870,Bordesley Village,Dental service,Birmingham and Solihull,408876,286736,D,1.4894689602756792
+V04900,Keep Smiling Dental Practice,Dental service,Birmingham and Solihull,410074,286236,D,1.0942447015254737
+V04910,Dental Surgery,Dental service,Birmingham and Solihull,410833,286756,D,1.1285083069615882
+V04889,Dental Surgery,Dental service,Birmingham and Solihull,410447,286342,D,1.1089890619339244
+V08146,Heath Dental,Dental service,Birmingham and Solihull,411202,276348,D,9.733816821609466
+V14065,Shirley Dental Care,Dental service,Birmingham and Solihull,412121,278704,D,7.636939491342206
+V06787,Dental Surgery,Dental service,Birmingham and Solihull,411517,280158,D,5.543409200518222
+V80054,Great Smiles Dental Spa,Dental service,Birmingham and Solihull,414739,277058,P,9.889032628507183
+V80350,Central England Specialist Centre,Dental service,Birmingham and Solihull,413359,278085,P,8.532107036297877
+V08428,Dental Surgery,Dental service,Birmingham and Solihull,414939,279875,D,8.444304723754726
+V82642,Solihull Dental Practice,Dental service,Birmingham and Solihull,413879,281075,P,9.650531897495467
+V06775,Dental Surgery,Dental service,Birmingham and Solihull,413843,281265,D,9.290354103617835
+V06742,Mr A Coley-Smith,Dental service,Birmingham and Solihull,413263,279583,D,9.69719727070547
+V08419,Dental Surgery,Dental service,Birmingham and Solihull,414033,279971,D,9.779444780523441
+V11190,Blossomfield House,Dental service,Birmingham and Solihull,413359,278567,D,8.890571633172522
+V83292,Smile Concepts Limited,Dental service,Birmingham and Solihull,415232,280515,P,7.20797224052075
+V28732,Ground Floor Netherwood Building,Dental service,Birmingham and Solihull,415443,279927,D,7.4989620246048485
+V82637,Dental Practice Manor Square,Dental service,Birmingham and Solihull,415267,279327,P,8.897965258536235
+V06740,Eternal Smiles,Dental service,Birmingham and Solihull,415022,279632,D,8.550025812230883
+V08418,Dental Surgery,Dental service,Birmingham and Solihull,415148,279552,D,8.47477832590081
+V80237,Same Day Teeth West Midlands Ltd,Dental service,Birmingham and Solihull,417996,276496,P,9.530988846142323
+V06754,Dental Surgery,Dental service,Birmingham and Solihull,418290,276644,D,9.541679153068047
+V08579,The Dental Practice,Dental service,Birmingham and Solihull,417471,275782,D,9.55911333468861
+V06759,Dental Surgery,Dental service,Birmingham and Solihull,416823,275097,D,9.625430935623658
+V06471,Dental Surgery,Dental service,Birmingham and Solihull,416848,276108,D,9.160025006258326
+V06773,Dental Surgery,Dental service,Birmingham and Solihull,417685,277557,D,9.548938955813217
+V06757,Hockley Heath Dental Care,Dental service,Birmingham and Solihull,415242,272689,D,8.729915801467508
+V10226,Stoneton Crescent (Dental Surgery),Dental service,Birmingham and Solihull,423549,276779,D,9.648752245166309
+V08553,Dental Surgery,Dental service,Black Country,404733,294031,D,5.123742829934864
+V08164,Dental Surgery,Dental service,Black Country,403487,293442,D,4.832569488462419
+V06942,Dental Surgery,Dental service,Black Country,406627,295484,D,5.3402230225314335
+V04955,Dental Surgery,Dental service,Black Country,398505,284963,D,6.517283028498948
+V04148,Dental Surgery,Dental service,Black Country,398341,284864,D,6.681069769629297
+V04048,Oakleigh Dental Practice,Dental service,Black Country,398625,284231,D,6.951460560759702
+V45129,20 Windmill Hill,Dental service,Black Country,394514,284424,D,4.291161226826057
+V04096,Bhandal Dental Practice,Dental service,Black Country,394514,284424,D,4.291161226826057
+V04017,Williams Dental Surgery,Dental service,Black Country,396632,283351,D,5.184792253390885
+V04248,Morgan Dental Practice,Dental service,Black Country,396775,283643,D,5.131545222591579
+V80389,Halesowen Dental,Dental service,Black Country,396606,284773,P,6.320678430367895
+V04098,Bhandal Dental Practice,Dental service,Black Country,395734,283441,D,5.511022385896437
+V08388,Dental Surgery,Dental service,Black Country,394035,285971,D,3.5212286875193355
+V06030,Dental Surgery,Dental service,Black Country,394459,285998,D,2.745008356847292
+V08923,Dental Surgery,Dental service,Black Country,395480,286760,D,2.6675062389659097
+V08386,Mr S Merali,Dental service,Black Country,395926,285851,D,3.7348723264921992
+V08194,Dental Surgery,Dental service,Black Country,397367,286388,D,2.9513602515440533
+V08384,Dental Surgery,Dental service,Black Country,397099,286223,D,3.3703741057131005
+V08893,Dental Surgery,Dental service,Black Country,397429,286490,D,2.8804668993832583
+V08387,Dental Surgery,Dental service,Black Country,397698,288061,D,2.4414546945842446
+V08158,Dental Surgery,Dental service,Black Country,401895,288776,D,2.1075326366765084
+V17415,Suffrage Street (Dental Surgery),Dental service,Black Country,402812,287974,D,2.087270990393246
+V08168,T Moodley,Dental service,Black Country,402312,286455,D,3.751474422513608
+V08166,Dental Surgery,Dental service,Black Country,402236,286158,D,4.267430457585516
+V08148,Central Orthodontics,Dental service,Black Country,402174,286947,D,3.088402142433801
+V80197,Dhillions Dental Surgery,Dental service,Black Country,402702,287583,P,2.481880349492965
+V08138,Dental Surgery,Dental service,Black Country,402742,287609,D,2.4525631424659124
+V288022,Cape Hill (Dental Surgery),Dental service,Black Country,403252,287678,D,2.2514101295575553
+V08155,Shire Dentist,Dental service,Black Country,401839,286598,D,3.703772436075933
+V00192,Dental Surgery,Dental service,Black Country,400884,288777,D,2.222892113858265
+V08171,Stanley Road (Dental Surgery),Dental service,Black Country,400528,285229,D,4.400041076931579
+V00179,Brandhall Dental Surgery,Dental service,Black Country,399777,286782,D,2.9560969208527026
+V08026,Dental Surgery,Dental service,Black Country,400111,288007,D,2.4247896178257475
+V08169,Londonderry Road (Dental Surgery),Dental service,Black Country,400591,287803,D,2.3826373951339663
+V08160,Cosmo Dent Dental Surgery,Dental service,Black Country,398996,289517,D,2.0425597531063997
+V11171,Oldbury Health Centre,Dental service,Black Country,399157,289539,D,1.9719796275103938
+V08162,Dental Surgery,Dental service,Black Country,399066,289422,D,1.976471221094865
+V08317,Dental Department,Dental service,Black Country,399286,288949,D,1.8093555135301438
+V08370,Dental Surgery,Dental service,Black Country,399378,293111,D,2.1943639524866474
+V08329,Dental Surgery,Dental service,Black Country,401119,290634,D,1.6616433460335975
+V09581,Primary Care Centre,Dental service,Black Country,400210,290865,D,1.5638018309140003
+V08367,Asden House Dental Clinic,Dental service,Black Country,400364,291213,D,1.63694288231069
+V08361,Kainth Dental Surgery,Dental service,Black Country,400028,291602,D,1.562014881669829
+V83727,Stella Maris Practice Limited,Dental service,Black Country,401154,293932,P,2.2253597974104227
+V17417,Lyndon (Dental Surgery),Dental service,Black Country,400919,292165,D,2.205420735344402
+V03367,Briars Dental Practice,Dental service,Black Country,394095,290448,D,2.0144211959414915
+V03347,The Gables Dental Practice,Dental service,Black Country,394172,290450,D,1.9298903045060494
+V04107,Castle View Dental Practice,Dental service,Black Country,394590,290441,D,1.4807024527701815
+V03425,Bhandal Dental Practice,Dental service,Black Country,394273,290154,D,1.628496191650096
+V17385,Pensnett Road (Dental Surgery),Dental service,Black Country,392104,289385,D,1.7975130499560266
+V17379,Maple Green (Dental Surgery),Dental service,Black Country,393362,292369,D,2.964934644208447
+V03438,Bhandal Dental Practice,Dental service,Black Country,394195,287911,D,2.631762234018594
+V17384,Hall Street (Dental Surgery),Dental service,Black Country,394958,290010,D,1.9459206439046108
+V00045,Purity,Dental service,Black Country,395023,289777,D,2.6113597163960045
+V83076,North Street Dental and Implant Clinic,Dental service,Black Country,394873,290121,P,1.7681706156001702
+V17381,Halesowen Road (Dental Surgery),Dental service,Black Country,394753,287766,D,2.94116862402117
+V03324,Dental Surgery,Dental service,Black Country,391992,293886,D,4.938519088750015
+V12929,High View Dental Practice,Dental service,Black Country,391997,293438,D,4.982840719874439
+V03431,Bhandal Dental Practice,Dental service,Black Country,392282,292077,D,4.170578363337766
+V04106,Kemberton Dental Practice,Dental service,Black Country,391398,291310,D,4.398021003730174
+V03437,Bhandal Dental Practice,Dental service,Black Country,391425,291126,D,4.589343722344845
+V03293,Langland Dental Practice,Dental service,Black Country,391409,293794,D,6.401454620486049
+V17383,Ladies Walk Centre,Dental service,Black Country,391779,293535,D,5.491268380051493
+V10855,Glebefields Health Centre,Dental service,Black Country,396597,293725,D,1.8185982913084626
+V100550,Great Bridge Dental Practice,Dental service,Black Country,397703,292527,D,3.1080775505205995
+V08385,Dental Surgery,Dental service,Black Country,394890,292306,D,2.4536476364241224
+V14059,Oasis Dental Care Tipton,Dental service,Black Country,395388,292315,D,2.3773675085247548
+V21942,2 Unity Walk Dental Practice,Dental service,Black Country,395518,292352,D,2.300635148505133
+V08389,Dental Surgery,Dental service,Black Country,396133,291889,D,2.808590263009295
+V04095,Bhandal Dental Practice,Dental service,Black Country,391923,287439,D,1.6733957290271182
+V17382,Venture Way (Dental Surgery),Dental service,Black Country,392092,287093,D,2.4596491387398243
+V04101,Bhandal Dental Practice,Dental service,Black Country,393067,286023,D,3.7752536630534346
+V03412,Amblecote Dental Practice,Dental service,Black Country,391564,285518,D,6.757153427176165
+V04103,Bhandal Dental Practice,Dental service,Black Country,391844,287116,D,2.3314252883269946
+V04104,Bhandal Dental Practice,Dental service,Black Country,391738,287320,D,1.7671222567067952
+V04092,Dental Surgery,Dental service,Black Country,388009,289654,D,8.147047444251548
+V28586,Building 5,Dental service,Black Country,390124,289880,D,6.609472313198748
+V04082,Kingswinford Health Centre (Dental Surg),Dental service,Black Country,389212,288928,D,6.534694128335452
+V04932,Worcester Street (Dental Surgery),Dental service,Black Country,389964,283721,D,5.636766233576411
+V03984,Dental Surgery,Dental service,Black Country,390346,284177,D,4.891552219649381
+V04055,Red Hill Dental Practice,Dental service,Black Country,390540,283826,D,5.436569856188097
+V82509,Oldswinford Cross Dental Practice,Dental service,Black Country,390549,283476,P,6.189571272664739
+V04170,Bhandal Dental Practice,Dental service,Black Country,390446,283398,D,6.3799913222035904
+V09976,Stourcote Dental Practice,Dental service,Black Country,390031,284472,D,4.847024227335677
+V04040,Norton Dental Practice,Dental service,Black Country,389527,283237,D,7.073051272708321
+V12744,Bridgnorth Road (Dental Practice),Dental service,Black Country,388886,284725,D,5.576544400012749
+V04058,Dental Surgery,Dental service,Black Country,389684,283652,D,5.873115903584275
+V17169,135 High Street (Dental Surgery),Dental service,Black Country,389579,285768,D,4.9421079906038266
+V83159,Pabari Dental Clinics Limited,Dental service,Black Country,389603,285830,P,4.886689602085969
+V11146,Stourbridge Health and Social Care Centre,Dental service,Black Country,389933,285239,D,5.258244328985825
+V80292,Black Country Orthodontics,Dental service,Black Country,390151,285284,P,5.596488483498363
+V03995,Dental Surgery,Dental service,Black Country,389112,286969,D,6.904305272884543
+V04474,Dental Surgery,Dental service,Black Country,389124,286893,D,6.737562235287972
+V80929,Holcroft Dental Practice,Dental service,Black Country,391374,283710,D,4.75437090013906
+V44614,Mr A Kapnisis,Dental service,Black Country,391374,283710,D,5.1630246884099
+V04465,Dental Surgery,Dental service,Black Country,392168,284199,D,3.187483806715904
+V04105,Bhandal Dental Practice,Dental service,Black Country,392151,284518,D,3.2787017528272377
+V06931,Dental Surgery,Dental service,Black Country,401534,298553,D,1.5754265965432452
+V06949,The Bridge Dental Centre,Dental service,Black Country,401278,298402,D,1.312088618742097
+V06945,Dental Surgery,Dental service,Black Country,401566,298385,D,1.6630315149306247
+V83361,Springhill Dental Practice (Walsall ) Ltd,Dental service,Black Country,401826,298109,P,2.1336706217985286
+V06951,Dental Surgery,Dental service,Black Country,401888,297934,D,3.206004069475784
+V24099,Brace Street Health Centre,Dental service,Black Country,401228,297753,D,1.6272667019602631
+V06971,Dental Surgery,Dental service,Black Country,401309,297740,D,1.7226932071247896
+V08355,Crankhall Lane Dental Practice,Dental service,Black Country,400405,294794,D,1.6858898926020123
+V13436,Russell Medical Centre,Dental service,Black Country,398766,294869,D,2.2416201709751773
+V08331,Dental Surgery,Dental service,Black Country,398649,294982,D,2.226017402236648
+V08157,Dental Practice,Dental service,Black Country,398670,295061,D,2.200716724356444
+V10167,Darlaston Health Centre,Dental service,Black Country,397636,296480,D,1.858184893391326
+V08335,Dental Surgery,Dental service,Black Country,398851,295055,D,2.1952161464102398
+V06952,Walsall Road Dental Surgery,Dental service,Black Country,397791,296551,D,1.8544294547854832
+V06934,Bhandal Dental Surgery,Dental service,Black Country,397996,296680,D,1.8701394360783992
+V06956,Dental Surgery,Dental service,Black Country,399197,300851,D,1.820095616203493
+V06960,Dental Surgery,Dental service,Black Country,400254,297173,D,1.6386943914541894
+V28587,Manor Hospital,Dental service,Black Country,400152,298264,D,1.3520094812353327
+V06984,Dental Surgery,Dental service,Black Country,401084,301365,D,1.0522450386356283
+V82849,Ortho Keep Smiling Ltd,Dental service,Black Country,401526,300542,P,1.506998510417465
+V06978,Ashleigh Dental Practice,Dental service,Black Country,400391,301260,D,1.0775395984427627
+V06968,First Dental,Dental service,Black Country,399908,301714,D,1.2461453409508534
+V10168,Pinfold Health Centre,Dental service,Black Country,400184,301687,D,1.2780045834374545
+V06966,Dental Surgery,Dental service,Black Country,399831,301865,D,2.574656444547277
+V06979,Dental Surgery,Dental service,Black Country,402362,303641,D,5.148340605427522
+V235915,Dental Surgery,Dental service,Black Country,402362,303641,D,5.148340605427522
+V06957,Dental Surgery,Dental service,Black Country,402725,301182,D,3.083810085681288
+V83025,Ws4 Dental Care,Dental service,Black Country,401900,299282,P,2.0949091637278903
+V08326,Dental Surgery,Dental service,Black Country,402635,295916,D,4.014853332880045
+V11677,24 High Street (Dental Practice),Dental service,Black Country,404571,305526,D,3.0841734067782003
+V06941,Dental Surgery,Dental service,Black Country,404848,305280,D,3.0339817971189897
+V10225,Park View Centre,Dental service,Black Country,404503,305780,D,3.2502647545345384
+V13616,Dental Surgery,Dental service,Black Country,404305,305590,D,3.1429765212707585
+V06988,Aldridge Dental Practice,Dental service,Black Country,405435,300524,D,6.038849434414407
+V12974,Rodericks Dental Ltd,Dental service,Black Country,405707,300805,D,6.555317535096481
+V06964,Dental Surgery,Dental service,Black Country,405682,300585,D,6.6359653470075415
+V06959,Dental Surgery,Dental service,Black Country,405562,300705,D,6.327152459785128
+V83558,Kkhh Ltd T/A Walsall Wood Dentistry,Dental service,Black Country,404988,303565,P,4.961806141259315
+V06351,Dental Surgery,Dental service,Black Country,391503,298549,D,1.6803688369756815
+V28182,Oasis Dental Care,Dental service,Black Country,391289,298543,D,1.7811202610156773
+V06355,Victoria Street (Dental Surgery),Dental service,Black Country,391252,298447,D,1.6883319840829354
+V06391,Parkside Dental Surgery,Dental service,Black Country,390765,298776,D,1.976814881266593
+V14137,Mobile Dental Unit,Dental service,Black Country,390532,298892,D,2.040862107152431
+V83444,Parkdale Dental & Implant Clinic,Dental service,Black Country,390009,299124,P,2.6073032162602727
+V06354,Aesthetics Dental and Implant,Dental service,Black Country,391301,302363,D,3.1868412136540014
+V06358,Dental Health Stop,Dental service,Black Country,391301,302363,D,3.1868412136540014
+V06392,Dental Health Stop (Three Tuns Parade),Dental service,Black Country,391348,302552,D,3.3555725558924667
+V06350,Dental Surgery,Dental service,Black Country,392925,301562,D,2.4258606023164337
+V06393,Cannock Road Dental Practice,Dental service,Black Country,393370,301622,D,3.141847744646256
+V09985,Wolverhampton P C T,Dental service,Black Country,393240,301643,D,2.81747998711948
+V09371,Raynor Road (Dental Surgery),Dental service,Black Country,392889,300901,D,2.6463858685987525
+V06405,Dental Surgery,Dental service,Black Country,394780,300623,D,3.4651250141416647
+V09986,Health Centre,Dental service,Black Country,394628,300189,D,2.9847195582720185
+V06441,Blue Cross Dental Surgery,Dental service,Black Country,395925,301849,D,3.6370349381683145
+V09983,Ashmore Park Clinic,Dental service,Black Country,396182,301765,D,4.401205991237442
+V06359,Dene Hollow Dental Surgery,Dental service,Black Country,394704,300297,D,3.3483473438764766
+V01522,Dental Surgery,Dental service,Black Country,397591,301667,D,3.6577223589635053
+V06976,Dental Surgery,Dental service,Black Country,398041,301093,D,3.2484280229094713
+V06954,Dental Surgery,Dental service,Black Country,396049,298364,D,2.5071204027822462
+V06990,Dental Surgery,Dental service,Black Country,396049,298364,D,2.011330950309077
+V14580,Church Street Dental Practice,Dental service,Black Country,395047,296523,D,1.5741436173253398
+V205448,Church Street Dental Surgery,Dental service,Black Country,394806,296368,D,1.635283990910361
+V06346,Dental Surgery,Dental service,Black Country,394987,296616,D,1.6257212759303459
+V06409,Bilston Health Centre,Dental service,Black Country,394867,296739,D,1.7142577477699499
+DAC_368,Dental Access Centre,Dental Access Centre,Black Country,394867,296739,DAC,NA
+V06452,Bilston Dental Practice,Dental service,Black Country,393783,297080,D,1.7009888812194554
+V06352,Dental Surgery,Dental service,Black Country,393320,294836,D,3.679798551332845
+V03361,Roseville Dental,Dental service,Black Country,394122,293619,D,3.8404826442462716
+V06442,Dental Surgery,Dental service,Black Country,391620,297154,D,2.4108528301432632
+V06395,Goldthorn Hill (Dental Surgery),Dental service,Black Country,391145,296680,D,3.5346870292190675
+V06365,Dental Surgery,Dental service,Black Country,390738,297356,D,2.511680423978002
+V06407,Pennfields Health Centre,Dental service,Black Country,390801,297825,D,1.9096143470892621
+V06402,Dental Surgery,Dental service,Black Country,390356,296995,D,3.811492845419563
+V06399,Dental Surgery,Dental service,Black Country,389800,296793,D,4.828441831710359
+V06366,Brij Dhody Dental Practice,Dental service,Black Country,388330,297114,D,5.098416242054132
+V06357,Colosseum Dental (Wolverhampton),Dental service,Black Country,388330,297114,D,5.098416242054132
+V06360,C J Gibson Dental Surgeon,Dental service,Black Country,390455,298718,D,2.062211932198343
+V82928,Halfway House Dental,Dental service,Black Country,389966,299078,P,2.7138495474309927
+V83360,Larcholme Dental Practice,Dental service,Black Country,390149,298931,P,2.4576738108631107
+V06394,Dental Surgery,Dental service,Black Country,389440,295808,D,6.532079109629845
+DAC_384,The Phoenix Centre,Dental Access Centre,Black Country,391879,296629,D,NA
+V06390,Dental Surgery,Dental service,Black Country,392193,295303,D,4.32347797800937
+V06403,Mark Webb Dental Practice,Dental service,Black Country,389739,299420,D,3.026254208170907
+V09987,Whitmore Reans Health Centre,Dental service,Black Country,390440,299779,D,2.1083750877512926
+V83095,Rock House Dental Practice,Dental service,Black Country,388930,300050,P,5.79415332085247
+V06404,Dental Surgery,Dental service,Black Country,389168,301499,D,5.4232648367351155
+V09984,Pendeford Health Centre,Dental service,Black Country,390306,302877,D,4.293408600979932
+V43880,76dental,Dental service,Coventry and Warwickshire,417954,290933,D,6.821678163244563
+V06099,Dental Surgery,Dental service,Coventry and Warwickshire,417591,291185,D,6.820458099475615
+V06081,Dental Surgery,Dental service,Coventry and Warwickshire,420046,288915,D,5.91229942503188
+V06107,Dental Practice,Dental service,Coventry and Warwickshire,408974,257424,D,5.533053689150541
+V06108,Dental Surgery,Dental service,Coventry and Warwickshire,408802,257363,D,7.271173161440969
+V06109,Bidford Dental Practice,Dental service,Coventry and Warwickshire,410118,251897,D,6.345918199527388
+V06094,Polesworth Dental Centre,Dental service,Coventry and Warwickshire,426128,302441,D,6.8431269902401155
+V06082,Kingsbury Dental Surgery,Dental service,Coventry and Warwickshire,421744,296405,D,6.540735361746238
+V06159,Station Road (Dental Surgery),Dental service,Coventry and Warwickshire,406933,263743,D,6.466082378938496
+V06160,Dental Surgery,Dental service,Coventry and Warwickshire,407226,263897,D,6.469881921923617
+V12556,Ivory Bespoke Dentistry,Dental service,Coventry and Warwickshire,415101,265676,D,8.424822379454366
+V06236,Complete Dental,Dental service,Coventry and Warwickshire,415067,266067,D,8.523926184401292
+V14939,Park Road Dental Care,Dental service,Coventry and Warwickshire,433181,278346,D,4.655897360884938
+V07077,Pinnacle Orthodontics,Dental service,Coventry and Warwickshire,433439,278397,D,4.565184493161503
+V07130,Dental Surgery,Dental service,Coventry and Warwickshire,432519,279318,D,3.662939217598883
+V07083,Dental Perfection,Dental service,Coventry and Warwickshire,432956,278492,D,4.435003601419864
+V07074,Dental Surgery,Dental service,Coventry and Warwickshire,433126,279757,D,2.6277902259900086
+V16840,Dental Department,Dental service,Coventry and Warwickshire,433822,279789,D,2.433521507841137
+V07136,Hillfields Dental Surgery,Dental service,Coventry and Warwickshire,434454,279569,D,2.591527181581998
+V06087,Camphill Dental Practice,Dental service,Coventry and Warwickshire,433432,293290,D,3.884215690066735
+V09670,The George Eliot Hospital N H S,Dental service,Coventry and Warwickshire,435718,290586,D,3.718082289549576
+V06086,Oasis Dental Care Ltd,Dental service,Coventry and Warwickshire,436386,292086,D,3.2161276458930876
+V12378,Back Street (Dental Practice),Dental service,Coventry and Warwickshire,436425,291981,D,3.1578090650125876
+V08475,Attleborough Dental Surgery,Dental service,Coventry and Warwickshire,437101,290712,D,3.735414311057778
+V83534,Whitestone Dental Practice,Dental service,Coventry and Warwickshire,437270,290588,P,4.419413479918897
+V41373,Whitestone Family Dental,Dental service,Coventry and Warwickshire,437270,290588,D,5.18571071426249
+V06091,Dental Surgery,Dental service,Coventry and Warwickshire,435410,291948,D,2.775200462354563
+V06106,B S Rai Dental Surgery,Dental service,Coventry and Warwickshire,435556,292194,D,2.83804686053937
+V06085,Dental Practice,Dental service,Coventry and Warwickshire,437102,292342,D,6.770825453141022
+V91097,Bramcote Dental Centre,Dental service,Coventry and Warwickshire,440890,288545,D,8.011236516959096
+V199907,19-21,Dental service,Coventry and Warwickshire,435858,286987,D,3.2998465295391903
+V06076,Prestige Dental Care,Dental service,Coventry and Warwickshire,435826,286941,D,3.3430554723303643
+V00189,Coventry Road Dentalcare Team,Dental service,Coventry and Warwickshire,435725,286451,D,3.983917401250793
+V06084,R J Monks Dental Surgeon,Dental service,Coventry and Warwickshire,439172,286608,D,5.580811908072724
+V12603,67b Deedmore Road [Dental Practice],Dental service,Coventry and Warwickshire,436458,281885,D,2.9476915587091845
+V07093,Bell Green Dental Surgery,Dental service,Coventry and Warwickshire,436037,282204,D,1.9167692574328565
+V07120,Torcross Dental Practice,Dental service,Coventry and Warwickshire,436119,280324,D,4.639517871700272
+V07118,The Smile Centre,Dental service,Coventry and Warwickshire,435260,279298,D,3.5730585196339124
+V07127,Dental Surgery,Dental service,Coventry and Warwickshire,435170,278952,D,3.6939100389740873
+V31048,Longfellow Road (Dental Surgery),Dental service,Coventry and Warwickshire,436091,279346,D,4.793529411947737
+V07124,Shergills Dental Surgery,Dental service,Coventry and Warwickshire,436091,279346,D,4.9749998366958526
+V11566,8 Regent Place (Dental Practice),Dental service,Coventry and Warwickshire,450481,275501,D,5.278778518996896
+V28213,Regent Place (Dental Surgery),Dental service,Coventry and Warwickshire,450481,275501,D,4.469073126215571
+V14063,42 Regent Street (Dental Practice),Dental service,Coventry and Warwickshire,450460,275423,D,4.49391323652767
+V06051,One Dental,Dental service,Coventry and Warwickshire,450504,275415,D,4.516458581609306
+V06050,Dental Surgery,Dental service,Coventry and Warwickshire,450884,274988,D,5.601192862627498
+V83070,Jones Dental Clinic & Implant Centre,Dental service,Coventry and Warwickshire,450691,275033,P,5.159671835981666
+V06037,High Street Dental Practice,Dental service,Coventry and Warwickshire,450308,275063,D,4.626505708134144
+V06046,Clifton Road Dental Practice,Dental service,Coventry and Warwickshire,451002,275123,D,5.61636417279013
+V06045,Dental Surgery,Dental service,Coventry and Warwickshire,451088,275196,D,5.666929110400691
+V10935,Clifton Road (Dental Surgery),Dental service,Coventry and Warwickshire,451310,275219,D,6.441641061095179
+V06049,Paddox Dental,Dental service,Coventry and Warwickshire,452507,273920,D,8.36561169062288
+V80221,Courtyard Dental Practice,Dental service,Coventry and Warwickshire,448611,271133,P,9.002160677223928
+V82633,Bilton Dental Clinic,Dental service,Coventry and Warwickshire,448491,273832,P,6.477471238964422
+V82914,Grey Gables Dental Practice,Dental service,Coventry and Warwickshire,448394,273671,P,7.500335997044269
+V06059,Revel Dental Surgery,Dental service,Coventry and Warwickshire,447162,281938,D,6.960107524593469
+V80116,Space Health Care,Dental service,Coventry and Warwickshire,445588,265919,P,7.9356363640689835
+V10298,Stoke Aldermoor Clinic,Dental service,Coventry and Warwickshire,435505,278364,D,3.7746406498379446
+V07071,BUPA Dental Care Coventry,Dental service,Coventry and Warwickshire,434625,278996,D,3.4753158731831086
+V82789,Binley Woods Dentistry,Dental service,Coventry and Warwickshire,439279,277549,D,7.703378432397731
+V07072,Willenhall Primary Care Centre,Dental service,Coventry and Warwickshire,436842,276771,D,3.568721505396802
+V07117,R Osman and Associates,Dental service,Coventry and Warwickshire,433567,277639,D,6.212005426856109
+V82895,Murray Dental Limited,Dental service,Coventry and Warwickshire,434301,277317,P,5.47321867576906
+V83314,Leamington Road Dental Practice,Dental service,Coventry and Warwickshire,433005,276717,P,8.251952982629824
+V06121,Dental Surgery,Dental service,Coventry and Warwickshire,432072,265489,D,5.747198392028242
+V06131,The Priory Dental Centre,Dental service,Coventry and Warwickshire,432072,265489,D,5.747198392028242
+V06137,Dental Surgery,Dental service,Coventry and Warwickshire,432222,265212,D,5.394640786073742
+V06133,Dental Surgery,Dental service,Coventry and Warwickshire,433072,265075,D,6.1103698167620895
+V06127,Bridge Dental Practice,Dental service,Coventry and Warwickshire,432127,265072,D,5.225135708952565
+V27231,Court Street (Dental Surgery),Dental service,Coventry and Warwickshire,432127,265072,D,5.225135708952565
+V06134,Whitnash Dental Surgery,Dental service,Coventry and Warwickshire,432436,263457,D,7.142553621948425
+V06132,Dental Surgery,Dental service,Coventry and Warwickshire,431855,265697,D,6.020508288297844
+V29441,Dental Spa Solutions,Dental service,Coventry and Warwickshire,431959,265772,D,6.160746750786847
+V06125,Dental Surgery,Dental service,Coventry and Warwickshire,432337,266355,D,6.475214134936061
+V80351,Orthoral Leamington Spa,Dental service,Coventry and Warwickshire,431613,265782,P,6.14518638240103
+V06116,Leamington Spa Orthodontics,Dental service,Coventry and Warwickshire,431505,266095,D,6.788700941046766
+V82508,The Grove Practice,Dental service,Coventry and Warwickshire,431382,266214,P,6.837997950708073
+V06136,Dental Surgery,Dental service,Coventry and Warwickshire,431872,266333,D,6.924543402368621
+V41673,Crown Way Clinic,Dental service,Coventry and Warwickshire,432822,267320,D,7.187785241069682
+V06124,Dental Surgery,Dental service,Coventry and Warwickshire,432822,267320,D,7.03951849197377
+V06168,Dental Surgery,Dental service,Coventry and Warwickshire,428022,265316,D,7.601590599823988
+V06162,Old Square Dental Practice,Dental service,Coventry and Warwickshire,428133,264966,D,6.628783592433935
+V06166,Westgate Dental Practice,Dental service,Coventry and Warwickshire,427983,264611,D,8.029049402811372
+V06138,Brook House (Dental Surgery),Dental service,Coventry and Warwickshire,431120,255915,D,7.088613578354981
+V06172,Dental Surgery,Dental service,Coventry and Warwickshire,427956,255236,D,7.189641600409674
+V82917,Shipston Dental Practice,Dental service,Coventry and Warwickshire,425720,240575,P,7.840408779377655
+V10046,10 Sheep Street (Dental Surgery),Dental service,Coventry and Warwickshire,425807,240642,D,7.003082392512404
+V179526,Elta House,Dental service,Coventry and Warwickshire,419848,255386,D,6.196878101196727
+V83506,Pennington Dental,Dental service,Coventry and Warwickshire,419848,255386,D,5.877488201615223
+V83113,Principal Dentistry,Dental service,Coventry and Warwickshire,421751,259980,P,8
+V13470,Trinity Court Surgery,Dental service,Coventry and Warwickshire,419734,255230,#N/A,6.083261376231931
+V81393,Evesham Place Limited,Dental service,Coventry and Warwickshire,419729,254619,D,7.852369076422717
+V81764,Mr AJ Browne,Dental service,Coventry and Warwickshire,419729,254619,D,7.852369076422717
+V06154,Rother Street (Dental Surgery),Dental service,Coventry and Warwickshire,419887,254946,D,6.961458724871758
+V20786,Dental Practice (Ely Place),Dental service,Coventry and Warwickshire,420007,254849,D,7.279934566540131
+V06150,Dental Surgery,Dental service,Coventry and Warwickshire,420240,255132,D,6.6901457062903384
+V06157,Tiddington Road (Dental Surgery),Dental service,Coventry and Warwickshire,420792,254858,D,8.019374675376033
+V14046,Meon Dental Centre,Dental service,Coventry and Warwickshire,417692,246940,D,8
+V83334,Stratford Dental,Dental service,Coventry and Warwickshire,418916,254099,P,8.955315337711088
+V06915,J H Dental Surgery,Dental service,Coventry and Warwickshire,429354,277375,D,3.7738944399929006
+V07089,Dental Surgery,Dental service,Coventry and Warwickshire,429826,277398,D,4.57504900723532
+V83106,Modus Advanced Dental Clinic,Dental service,Coventry and Warwickshire,427659,278002,P,5.359585930121732
+V12602,Tile Hill Health Centre,Dental service,Coventry and Warwickshire,428767,278842,D,5.2707393146155015
+V12631,21 Market Hill [Dental Practice,Dental service,Coventry and Warwickshire,441829,261766,D,7.532023674824595
+V06144,Cedarlea Dental Care,Dental service,Coventry and Warwickshire,441503,261547,D,8.121819680278831
+V06143,Dental Surgery,Dental service,Coventry and Warwickshire,441930,261834,D,7.968298300510228
+V91099,Kineton Dental Centre,Dental service,Coventry and Warwickshire,437957,251839,D,7.702182713254203
+V07076,Kingston Road Dental Care,Dental service,Coventry and Warwickshire,431831,278586,D,5.401517118146425
+V07123,Dental Surgery,Dental service,Coventry and Warwickshire,429499,279032,D,5.871463977934261
+V07073,Balkrishna Dental Practice,Dental service,Coventry and Warwickshire,431677,278913,D,5.652999205854145
+V07121,D G S Price Dentist,Dental service,Coventry and Warwickshire,430193,279623,D,7.278772275880615
+V19384,Winsford Avenue (Dental Surgery),Dental service,Coventry and Warwickshire,430193,279623,D,7.171644283779807
+V07112,Dental Surgery,Dental service,Coventry and Warwickshire,432320,280079,D,3.8308039108322625
+V07119,Jubilee Dental Practice,Dental service,Coventry and Warwickshire,432890,281623,D,3.4362171216340585
+V07114,Holbrooks Dental Surgery,Dental service,Coventry and Warwickshire,433254,282885,D,3.44204591245891
+V07084,Holbrooks Health Team,Dental service,Coventry and Warwickshire,433306,283543,D,3.681463589580665
+V07075,Bhandal Dental Practice,Dental service,Coventry and Warwickshire,433994,280928,D,1.8393086193135464
+V07105,Foleshill Dental Practice,Dental service,Coventry and Warwickshire,434139,281327,D,1.7899578191536096
+V07110,Densmile Dental Care,Dental service,Coventry and Warwickshire,434417,281147,D,1.5710934389894842
+V07109,Longford Road (Dental Surgery),Dental service,Coventry and Warwickshire,435014,283657,D,2.7897923697095646
+V00735,Windmill Road Dental Surgery,Dental service,Coventry and Warwickshire,435266,283049,D,2.4072359804806176
+V07107,Gentle Dental Centre,Dental service,Coventry and Warwickshire,435807,282129,D,2.004007216985483
+V06115,Kenilworth Dental Practice,Dental service,Coventry and Warwickshire,429057,271728,D,8.563266285327122
+V83193,Priory Dental Clinic,Dental service,Coventry and Warwickshire,429125,271783,P,8.720629997575939
+V06112,Dental Practice,Dental service,Coventry and Warwickshire,428630,271949,D,8.360595264564793
+V06113,Dental Surgery,Dental service,Coventry and Warwickshire,428475,272479,D,8.479333179357933
+V06074,Dental Surgery,Dental service,Coventry and Warwickshire,431017,297706,D,4.272883318809968
+V06075,Atherstone Dental Practice,Dental service,Coventry and Warwickshire,430712,297890,D,4.455152776619489
+V07318,Dental Surgery,Dental service,Herefordshire and Worcestershire,400735,273509,D,9.455526878833696
+V07329,Dental Surgery,Dental service,Herefordshire and Worcestershire,398844,276920,D,4.320918288182835
+V07320,Dental Surgery,Dental service,Herefordshire and Worcestershire,398601,277297,D,4.479757311754666
+V07338,Rubery Dental Surgery,Dental service,Herefordshire and Worcestershire,398664,277216,D,4.55958347092101
+V82886,Omnia Dental Spa,Dental service,Herefordshire and Worcestershire,409011,275557,P,8.551467942466601
+V07340,Dental Surgery,Dental service,Herefordshire and Worcestershire,402864,272645,D,8.095911727001043
+V07332,Dental Surgery,Dental service,Herefordshire and Worcestershire,396117,270706,D,6.495440849720195
+V07327,Dental Surgery,Dental service,Herefordshire and Worcestershire,396600,270007,D,8.5383871177945
+V07326,Dental Surgery,Dental service,Herefordshire and Worcestershire,396155,270649,D,6.658840442139706
+V07328,Damani Dental Practice,Dental service,Herefordshire and Worcestershire,396742,269419,D,9.214182354940732
+V14691,Parkside Dental,Dental service,Herefordshire and Worcestershire,395996,271057,D,5.726985357755784
+V09456,Princess of Wales Hospital (Dental Surgery),Dental service,Herefordshire and Worcestershire,396196,271740,D,6.209567089087266
+V00937,Dental Surgery,Dental service,Herefordshire and Worcestershire,396226,273984,D,6.165340041597338
+V83323,Bromsgrove Dental Clinic,Dental service,Herefordshire and Worcestershire,395174,269888,P,5.3007820593432164
+V07325,Orthodontics for You,Dental service,Herefordshire and Worcestershire,395769,271049,D,5.6895843815849805
+V07330,Anne Christina Haddon,Dental service,Herefordshire and Worcestershire,395474,274405,D,8.00611336522536
+V09461,Smallwood Dental Clinic,Dental service,Herefordshire and Worcestershire,404116,267796,D,3.3019929269478725
+V07337,Red House Dental Clinic,Dental service,Herefordshire and Worcestershire,404129,267838,D,3.3578570778288013
+V07334,Headless Cross Dental Practice,Dental service,Herefordshire and Worcestershire,403671,266041,D,5.927438421610022
+V07321,Pinnacle Orthodontics,Dental service,Herefordshire and Worcestershire,402375,266766,D,6.3982879537678725
+V07335,Oasis Dental Care,Dental service,Herefordshire and Worcestershire,403581,267472,D,3.192040224754959
+V07331,Kingfisher Dental Surgery,Dental service,Herefordshire and Worcestershire,403854,265458,D,5.923454945456162
+V07892,Crabbs Cross Dental Surgery,Dental service,Herefordshire and Worcestershire,403936,265052,D,6.253113761900932
+V07341,Tynsall Avenue (Dental Surgery),Dental service,Herefordshire and Worcestershire,402026,266966,D,6.1589636547476765
+V09459,Time for Teeth HMP Hewell,Dental service,Herefordshire and Worcestershire,400669,269722,D,8.160351924982987
+V09460,Community Dental Department,Dental service,Herefordshire and Worcestershire,401921,269268,D,7.988053709011239
+V07333,Matchborough Dental Practice,Dental service,Herefordshire and Worcestershire,407161,266413,D,4.575120395759986
+V07317,Dental Surgery,Dental service,Herefordshire and Worcestershire,404413,267679,D,3.1805794630562656
+V25213,Dental Centre of Excellence,Dental service,Herefordshire and Worcestershire,406538,268719,D,3.995901715728341
+V07866,Wyre Forest PCT,Dental service,Herefordshire and Worcestershire,383426,276668,D,3.3021537903268308
+DAC_549,Kidderminster Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,383426,276668,DAC,NA
+V07747,Oasis Dental Care Ltd,Dental service,Herefordshire and Worcestershire,383097,276785,D,2.773687748880459
+V08604,Dental Surgery,Dental service,Herefordshire and Worcestershire,383088,276871,D,3.871762232349666
+V08173,Dental Surgery,Dental service,Herefordshire and Worcestershire,383088,276871,D,2.8074821452988497
+DAC_553,Worcs Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,383083,276714,D,NA
+V09220,Dental Surgery,Dental service,Herefordshire and Worcestershire,384236,276256,D,4.7015508167971785
+V09893,Sutton Park Dental Centre,Dental service,Herefordshire and Worcestershire,382108,275294,D,3.977687249297763
+V08001,Foley Park Dental Practice,Dental service,Herefordshire and Worcestershire,382278,275467,D,3.7299959534636846
+V07885,Denora Healthcare Ltd,Dental service,Herefordshire and Worcestershire,382401,275272,D,4.282331587175167
+V14572,Stourport Road Dental Surgery,Dental service,Herefordshire and Worcestershire,382134,274620,D,2.390108459099225
+V07871,Bewdley Dental Practice,Dental service,Herefordshire and Worcestershire,378564,275332,D,6.492501540860897
+V07860,Dental Surgery,Dental service,Herefordshire and Worcestershire,380787,272293,D,6.183761275542606
+V07999,Dental Surgery,Dental service,Herefordshire and Worcestershire,381324,271467,D,5.127009997540214
+V195319,Mitton Gardens Dental Surgery,Dental service,Herefordshire and Worcestershire,381324,271467,D,5.127009997540214
+V08939,Salmon and Light Dental Surgery,Dental service,Herefordshire and Worcestershire,381324,271467,D,5.099407063576676
+V07872,Dental Surgery,Dental service,Herefordshire and Worcestershire,381101,271248,D,5.602576784863207
+V08011,Dental Surgery,Dental service,Herefordshire and Worcestershire,390342,280331,D,9.991608101718242
+V88996,Tupsley Dental Practice,Dental service,Herefordshire and Worcestershire,352262,240931,P,6.715635499923378
+V83481,The Dentist@tupsley,Dental service,Herefordshire and Worcestershire,352501,239994,P,7.44203415510589
+V07342,The Orchards (Dental Practice),Dental service,Herefordshire and Worcestershire,351127,240103,D,5.032380571210075
+V06919,Dental Surgery,Dental service,Herefordshire and Worcestershire,351180,240139,D,4.707372910098875
+V07069,Kyrle Street Dental Practice,Dental service,Herefordshire and Worcestershire,351498,240146,D,5.058388904236842
+V06916,Brighton Villa Dental Surgery,Dental service,Herefordshire and Worcestershire,351381,240020,D,4.737901935906496
+V83434,Hereford Dental and Implant Clinic,Dental service,Herefordshire and Worcestershire,351381,240020,D,4.737901935906496
+DAC_573,Wye Valley NHS Trust,Dental Access Centre,Herefordshire and Worcestershire,351314,239968,D,NA
+V07062,Collins House Dental Surgery,Dental service,Herefordshire and Worcestershire,351265,239916,D,4.459731142197336
+V07068,34 Castle Street Dental Practice,Dental service,Herefordshire and Worcestershire,351208,239718,D,4.25764773236994
+V07061,Marden House Dental Surgery,Dental service,Herefordshire and Worcestershire,351175,239944,D,4.3719134008318745
+V153975,St. Owen Street (Dental Surgery),Dental service,Herefordshire and Worcestershire,351175,239944,D,4.3719134008318745
+V82640,Chapel House Dentistry,Dental service,Herefordshire and Worcestershire,351515,239655,P,4.913048676077432
+DAC_579,Dental Access Centre (Wye Valley NHS Tru,Dental Access Centre,Herefordshire and Worcestershire,338727,228682,D,NA
+DAC_580,Wye Valley NHS Trust,Dental Access Centre,Herefordshire and Worcestershire,350561,239247,D,NA
+V11138,1 Pool Farm Cottages,Dental service,Herefordshire and Worcestershire,350691,239175,D,4.5429540493125815
+V83435,St Martins Dental Practice,Dental service,Herefordshire and Worcestershire,350811,239244,P,3.7856278214448316
+V91098,Dental Centre,Dental service,Herefordshire and Worcestershire,345928,243399,D,6.215338685242948
+V07067,The Dental Surgery,Dental service,Herefordshire and Worcestershire,340480,251577,D,5.164951438890354
+V82983,Broad Street Dental Surgery,Dental service,Herefordshire and Worcestershire,350893,239898,P,4.346368418477681
+DAC_586,Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,330099,256814,D,NA
+V07063,Morton Hudson and Mileson,Dental service,Herefordshire and Worcestershire,349726,259144,D,3.1137086157769933
+DAC_588,Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,349453,258889,D,NA
+V10865,Leominster Dental Centre,Dental service,Herefordshire and Worcestershire,349453,258889,D,4.2601784258476005
+V06342,High Street (Dental Surgery),Dental service,Herefordshire and Worcestershire,365390,254727,D,3.6190229187824183
+V28968,Hatton Park (Dental Surgery),Dental service,Herefordshire and Worcestershire,364682,254298,D,4.573399150039791
+DAC_592,Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,370893,237629,D,NA
+V82950,Ledbury Dental Care Ltd,Dental service,Herefordshire and Worcestershire,371125,237463,P,6.2886563378918305
+V83147,Spadental Ledbury,Dental service,Herefordshire and Worcestershire,371125,237463,P,5.661418113126311
+V07275,Herefordshire Community,Dental service,Herefordshire and Worcestershire,359967,223940,D,4.978949607381804
+DAC_596,Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,359967,223940,DAC,NA
+V07065,Oasis Dental Care Ltd,Dental service,Herefordshire and Worcestershire,359842,223966,D,5.225060388615702
+V07064,Warrendale Dental Surgery,Dental service,Herefordshire and Worcestershire,360182,223997,D,4.997483428449659
+V07066,The Dental Surgery,Dental service,Herefordshire and Worcestershire,355362,217037,D,5
+V83146,Spadental Ross on Wye,Dental service,Herefordshire and Worcestershire,359895,224263,P,4.618301284763835
+V10845,St Marys Dental Practice,Dental service,Herefordshire and Worcestershire,384900,255505,D,4.104241536194944
+V08102,Epworth House Dental Surgery,Dental service,Herefordshire and Worcestershire,384774,256114,D,5.1807259646693815
+V09417,Dental Surgery,Dental service,Herefordshire and Worcestershire,385061,255108,D,3.72466877254434
+V08952,Lowesmoor Dental Practice,Dental service,Herefordshire and Worcestershire,385250,255238,D,3.3658239119959332
+DAC_605,Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,385250,255238,DAC,NA
+V09453,Moor Street Clinic,Dental service,Herefordshire and Worcestershire,384630,255525,D,4.538521982508572
+V83011,Lincoln House Dental Practice,Dental service,Herefordshire and Worcestershire,394981,245807,P,7.1218513124707075
+V82734,Abbey Dental Practice,Dental service,Herefordshire and Worcestershire,394868,245989,P,6.306417230164835
+V10569,133 High Street (Dental Surgery),Dental service,Herefordshire and Worcestershire,394736,246151,D,6.583433106875769
+V45446,44-46,Dental service,Herefordshire and Worcestershire,404197,243596,D,4.400944566325027
+V08962,Evesham Dental Health Team,Dental service,Herefordshire and Worcestershire,404714,243299,D,5.826671723706256
+DAC_612,Worcs Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,403613,243102,D,NA
+V08607,Gentle Dental,Dental service,Herefordshire and Worcestershire,404314,243598,D,4.529319826103479
+V08956,The Dental Practice,Dental service,Herefordshire and Worcestershire,404314,243598,D,4.529319826103479
+V08942,Evesham Health Centre,Dental service,Herefordshire and Worcestershire,403458,243639,D,4.850292802211479
+V83284,Albert Road Dental Practice,Dental service,Herefordshire and Worcestershire,403652,244189,P,4.953066055024978
+V07187,Grafton House Dental Surgery,Dental service,Herefordshire and Worcestershire,403609,243737,D,3.9006014086486926
+V09458,Time for Teeth HMP Long Lartin,Dental service,Herefordshire and Worcestershire,410028,245712,D,4.748892195615035
+V83050,Broadway Dental Care,Dental service,Herefordshire and Worcestershire,409734,237552,P,6.591874782080964
+V08935,Malvern Hills Dental Care,Dental service,Herefordshire and Worcestershire,378606,247805,D,6.242807760906452
+V09395,58 Spring Lane (Dental Surgery),Dental service,Herefordshire and Worcestershire,378843,247677,D,5.8174727334799226
+V72492,Somers Road (Dental Surgery),Dental service,Herefordshire and Worcestershire,378050,247540,D,6.594124644363496
+DAC_623,Dental Access Centre,Dental Access Centre,Herefordshire and Worcestershire,378151,247563,D,NA
+V07183,Richmond Dental Practice,Dental service,Herefordshire and Worcestershire,378508,247848,D,6.464300852704099
+V83005,Buckingham House Dental Llp,Dental service,Herefordshire and Worcestershire,377667,246278,P,7.3813951488218486
+V82622,Gensmile Beacon Dental Care,Dental service,Herefordshire and Worcestershire,378469,247421,P,5.988567475919273
+V08427,St Margarets,Dental service,Herefordshire and Worcestershire,378222,245689,D,7.164995220879315
+V08045,Tenbury Dental Centre,Dental service,Herefordshire and Worcestershire,359604,268438,D,5.1637019433129705
+V24513,Teme Street Dental Surgery,Dental service,Herefordshire and Worcestershire,359636,268310,D,5.081813189898788
+V17224,The St. Johns Dental Practice,Dental service,Herefordshire and Worcestershire,383980,254213,D,6.866223115092496
+V08137,The Bull Ring Dental Surgery,Dental service,Herefordshire and Worcestershire,384173,254505,D,5.952628946581518
+V08429,Oasis Dental Care Ltd,Dental service,Herefordshire and Worcestershire,384044,254394,D,5.6360078350327685
+V08090,Dental Surgery,Dental service,Herefordshire and Worcestershire,384593,257116,D,7.36101931798252
+V08163,The Beeches Dental Centre,Dental service,Herefordshire and Worcestershire,385019,257088,D,6.92558087503805
+V08606,Lyppard Dental Centre,Dental service,Herefordshire and Worcestershire,387936,255768,D,5.653178647589801
+V14082,London Road (Dental Surgery),Dental service,Herefordshire and Worcestershire,385387,254238,D,5.065170108865319
+V08126,Redcliffe Orthodontics,Dental service,Herefordshire and Worcestershire,386133,253612,D,7.612074576433284
+V80258,Bath Road Dental Surgery,Dental service,Herefordshire and Worcestershire,385303,254267,P,4.95666464387238
+V83026,St Peters Dental Practice,Dental service,Herefordshire and Worcestershire,385405,252590,P,8.247415509473997
+V08511,Abbotsbury Court Dental Practice,Dental service,Herefordshire and Worcestershire,386077,252651,D,9.040039545462113
+V11241,Upton-Upon-Severn Dental Surgery,Dental service,Herefordshire and Worcestershire,384459,240022,D,6.1551586642725855
+V09396,91 Worcester Road (Dental Surgery),Dental service,Herefordshire and Worcestershire,389735,262713,D,6.7343390790934015
+V16302,62 Friar Street (Dental Practice),Dental service,Herefordshire and Worcestershire,389915,263397,D,5.466889684427185
+V86406,Droitwich Dental Studio,Dental service,Herefordshire and Worcestershire,390081,263337,P,5.772901100007886
+V80282,Roy Morris Dental Practice,Dental service,Herefordshire and Worcestershire,389675,263251,P,5.028661382351642
+V01073,Droitwich Spa Dental Practice,Dental service,Herefordshire and Worcestershire,389643,262897,D,6.146623699416573
+V06424,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,367284,275781,D,4.7293647405717465
+V12220,Shrewsbury Orthodontic Centre,Dental service,Shropshire and Telford & Wrekin,349340,312558,D,6.259877282555791
+V07033,Bellstone Dental Practice,Dental service,Shropshire and Telford & Wrekin,348939,312475,D,6.934759609329317
+V07034,St Johns Hill Dental Practice,Dental service,Shropshire and Telford & Wrekin,348905,312407,D,7.077194276911793
+V06688,David E Barker's Dental Surgery,Dental service,Shropshire and Telford & Wrekin,348954,312442,D,6.966730482798176
+V06713,Mydentist,Dental service,Shropshire and Telford & Wrekin,348792,312549,D,7.002126736509054
+V80445,Exclusive Orthodontics Ltd,Dental service,Shropshire and Telford & Wrekin,349117,312263,D,6.933689515950373
+V06724,Bowdlers House Dental Practice,Dental service,Shropshire and Telford & Wrekin,349351,312303,D,6.552167574983254
+V81890,Mr YM Tso,Dental service,Shropshire and Telford & Wrekin,349220,312540,D,6.428295435757574
+V80751,Sandeep Kaur Dhanda,Dental service,Shropshire and Telford & Wrekin,349220,312540,D,6.428295435757574
+V06818,Winchester House Dental Practice,Dental service,Shropshire and Telford & Wrekin,349265,313292,D,5.629820994169541
+V26831,Castle Foregate Dental Practice,Dental service,Shropshire and Telford & Wrekin,349492,313163,D,5.695050766417879
+V08953,Dental Matters,Dental service,Shropshire and Telford & Wrekin,349492,313163,D,5.695050766417879
+DAC_660,Dental Access Centre,Dental Access Centre,Shropshire and Telford & Wrekin,349492,313163,DAC,NA
+V09171,H M Prison,Dental service,Shropshire and Telford & Wrekin,349546,312943,#N/A,5.832494873660858
+V06727,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,349331,314127,D,5.340335450678475
+V80214,Oracle Dental Limited,Dental service,Shropshire and Telford & Wrekin,350640,316118,P,4.267346216712392
+V07101,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,350717,315054,D,4.465275701278302
+V06734,Ambleside Dental Practice,Dental service,Shropshire and Telford & Wrekin,350886,315515,D,4.631698556792745
+V06808,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,328918,329759,D,4.640854656066257
+V14879,Oswestry Dental,Dental service,Shropshire and Telford & Wrekin,329573,329979,D,4.672275981286053
+V06682,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,329300,329726,D,4.197174045137018
+V06812,Thomas Dental Practice,Dental service,Shropshire and Telford & Wrekin,328917,329293,D,5.645515406445217
+V06645,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,328964,329526,D,4.796722023208724
+V14329,3 Brook Buildings (Dental Surgery),Dental service,Shropshire and Telford & Wrekin,330301,333546,D,5.127144279546959
+V06571,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,340028,334785,D,5.4740466973022945
+V11895,Corser House Dental Practice,Dental service,Shropshire and Telford & Wrekin,354308,341547,D,4.283401882871281
+V07227,Green End Dental Practice,Dental service,Shropshire and Telford & Wrekin,354308,341547,D,4.204603762198093
+V83008,Whitchurch Dental Studio Ltd,Dental service,Shropshire and Telford & Wrekin,354418,341739,P,4.231611170669553
+V07185,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,350350,312820,D,5.284456570564595
+V80151,Emstrey Dental Practice,Dental service,Shropshire and Telford & Wrekin,351733,310699,P,5.933445145242736
+V02905,Bayston Hill Dental Surgery,Dental service,Shropshire and Telford & Wrekin,347856,308835,D,7.729288981489898
+V07031,Oxon Dental Care,Dental service,Shropshire and Telford & Wrekin,345664,313229,D,6.351469404014378
+V07028,Radbrook Green Dental Practice,Dental service,Shropshire and Telford & Wrekin,347716,311239,D,7.79232130642863
+V07094,Greyfriars Dental Practice,Dental service,Shropshire and Telford & Wrekin,349566,312119,D,6.654832208415429
+V12930,New Park House Dental Centre,Dental service,Shropshire and Telford & Wrekin,349948,311954,D,7.022859643376911
+V82570,Esthetique Dental Limited,Dental service,Shropshire and Telford & Wrekin,351979,321624,P,8.133722805985208
+V91100,Shawbury Dental Centre,Dental service,Shropshire and Telford & Wrekin,355395,322389,D,7.639284163206115
+V12664,Drawwell House Dental Surgery,Dental service,Shropshire and Telford & Wrekin,351260,328975,D,5.249269328632936
+V07210,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,351340,328834,D,5.9573350447610185
+V28008,Minsterley Road Dental Practice,Dental service,Shropshire and Telford & Wrekin,339449,306068,D,5.057739268431072
+V06783,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,345276,293758,D,5.7399509603795416
+V06801,Redcote Surgery,Dental service,Shropshire and Telford & Wrekin,345510,293607,D,5.095710348868106
+V13790,Suite 2B (Dental Surgery),Dental service,Shropshire and Telford & Wrekin,351176,274823,D,5.35583974694406
+V83103,Alliance Dentistry Ltd,Dental service,Shropshire and Telford & Wrekin,352861,274304,P,4.958005519081072
+V01027,Castle View House (Dental Surgery),Dental service,Shropshire and Telford & Wrekin,351229,275380,D,5.061054602478489
+V06761,Butler and Finnigan,Dental service,Shropshire and Telford & Wrekin,332355,288996,D,4.00587473003583
+V07250,Oasis Dental Care Ltd,Dental service,Shropshire and Telford & Wrekin,365057,311772,D,4.551360648428923
+V07249,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,365056,311821,D,4.582469945463303
+V07248,Manor Orthodontic Clinic,Dental service,Shropshire and Telford & Wrekin,364896,311766,D,4.566671053555132
+V07247,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,364924,311766,D,4.55857131497913
+V07253,45 Tan Bank,Dental service,Shropshire and Telford & Wrekin,365157,311321,D,4.282640314956722
+V26355,Dental Surgery Hadley Centre,Dental service,Shropshire and Telford & Wrekin,367324,312118,D,3.350931161234723
+V09525,Loft House Unit,Dental service,Shropshire and Telford & Wrekin,365606,312873,D,6.72971609606691
+V17327,High Street (Dental Surgery),Dental service,Shropshire and Telford & Wrekin,374581,319031,D,7.149442504088852
+V02992,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,374474,319116,D,7.425048750251822
+V10515,BUPA Dental Care,Dental service,Shropshire and Telford & Wrekin,374763,318824,D,7.1288083517452465
+V07182,Newport Dental Practice,Dental service,Shropshire and Telford & Wrekin,374649,319117,D,7.200351014510724
+V06815,Shifnal Dental Practice,Dental service,Shropshire and Telford & Wrekin,374887,307501,D,5.895431002786128
+V80400,Broseley Dental Practice,Dental service,Shropshire and Telford & Wrekin,367497,301728,P,5.368317656450127
+V06371,Broseleydental Practice Ltd,Dental service,Shropshire and Telford & Wrekin,367497,301728,D,5.368317656450127
+V11676,Twickel Dental Limited,Dental service,Shropshire and Telford & Wrekin,362414,299911,D,5.108191432625482
+V07229,Station House Dental Practice,Dental service,Shropshire and Telford & Wrekin,369662,310729,D,4.545220728886393
+V07232,Bridge Dental Centre,Dental service,Shropshire and Telford & Wrekin,369443,310924,D,4.43267696265916
+V07221,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,370321,313645,D,3.565720351963764
+V07220,D N Woodhouse Dental Surgeon,Dental service,Shropshire and Telford & Wrekin,370269,313583,D,4.003309712817675
+V187756,Wrekin Drive (Dental Surgery),Dental service,Shropshire and Telford & Wrekin,370343,313530,D,3.4302067288801408
+V07246,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,370751,306466,D,2.834294969537387
+V29840,The Smileworks Ltd,Dental service,Shropshire and Telford & Wrekin,369334,308381,D,2.4856756993165137
+V07252,Integrated Dental Holdings,Dental service,Shropshire and Telford & Wrekin,370691,309209,D,6.90818713161031
+V07188,Dawley Dental Practice,Dental service,Shropshire and Telford & Wrekin,368671,307924,D,2.1218860156051687
+V07192,Dawley Family Dental Centre,Dental service,Shropshire and Telford & Wrekin,368445,307450,D,2.4205039854219734
+V07211,Lawley Dental Practice,Dental service,Shropshire and Telford & Wrekin,367628,308680,D,5.137831490137786
+V09169,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,368261,307420,D,2.8506228518083616
+V07239,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,364171,313518,D,6.525109743889797
+V07225,Madeley Dental Practice,Dental service,Shropshire and Telford & Wrekin,369914,304477,D,2.2902365368769937
+V09179,Woodside Dental Clinic,Dental service,Shropshire and Telford & Wrekin,368489,304589,D,2.263463967898142
+DAC_724,Dental Access Centre,Dental Access Centre,Shropshire and Telford & Wrekin,368489,304589,DAC,NA
+V06598,St Marys Dental Practice,Dental service,Shropshire and Telford & Wrekin,367548,334108,D,5.585644745447895
+V09386,Time for Teeth HMP Stoke Heath,Dental service,Shropshire and Telford & Wrekin,364860,330349,D,4.718507858468373
+V06721,Drayton Primary Care Centre,Dental service,Shropshire and Telford & Wrekin,367417,334701,D,4.939915565784183
+V06612,Dental Surgery,Dental service,Shropshire and Telford & Wrekin,367405,334062,D,4.669865255634414
+V06628,The Dental Practice,Dental service,Shropshire and Telford & Wrekin,367405,334062,D,4.669865255634414
+V91101,Tern Hill Dental Centre,Dental service,Shropshire and Telford & Wrekin,363850,331452,D,5.198530720371021
+DAC_731,Dental Access Centre,Dental Access Centre,Shropshire and Telford & Wrekin,359908,268752,D,NA
+V13330,39 Underhill Street [Dental Practice],Dental service,Shropshire and Telford & Wrekin,371806,292834,D,5.660094204908668
+V06774,St Leonards House Dental Centre,Dental service,Shropshire and Telford & Wrekin,371659,293338,D,5.868832651995816
+V10814,Bridgnorth and South Shropshire,Dental service,Shropshire and Telford & Wrekin,371508,293421,D,6.469216635665127
+V06763,High Town Dental Practice,Dental service,Shropshire and Telford & Wrekin,371359,293158,D,6.532245105163716
+V91012,Cosford Dental Centre,Dental service,Shropshire and Telford & Wrekin,379891,305425,D,7.8384101219851825
+V02785,Mr G Shiravi,Dental service,Shropshire and Telford & Wrekin,381362,304229,D,5.849617970851478
+V83356,Little Aston Dental Care,Dental service,Staffordshire and Stoke-on-Trent,408699,298768,P,9.99605542597646
+V07638,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,421702,300139,D,7.02690143844811
+V06597,Miss S Khan,Dental service,Staffordshire and Stoke-on-Trent,423733,302256,D,4.087739710566498
+V09407,Stonydelph Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,423733,302256,D,4.078151831386656
+DAC_742,Dental Access Centre,Dental Access Centre,Staffordshire and Stoke-on-Trent,423733,302256,DAC,NA
+V19632,Tamworth House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,420826,304084,D,4.068051741940606
+V13199,21 Church Street [Dental Practice],Dental service,Staffordshire and Stoke-on-Trent,420639,304075,#N/A,3.8801451895581742
+V05931,Dale House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,420885,304360,D,4.3774363286301545
+V08916,Tamworth Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,421071,304327,D,5.507272320883614
+V06796,Central Ortho,Dental service,Staffordshire and Stoke-on-Trent,420849,303922,D,3.8269813985141345
+V06809,Riverside Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,420359,304029,D,4.901296001294199
+V05753,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,377315,344957,D,7.042450123153912
+V13182,Stop The Clock Dental Care Ltd,Dental service,Staffordshire and Stoke-on-Trent,425709,325643,D,7.325313912843072
+V06260,Burton Family Dental Centre,Dental service,Staffordshire and Stoke-on-Trent,423797,325372,D,5.515609035533044
+V80360,Alrewas Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,417182,315014,P,9.317252232729311
+V06254,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,421221,329026,D,6.586883883914217
+V06276,Oasis Dental Care Ltd.,Dental service,Staffordshire and Stoke-on-Trent,424997,322901,D,3.350102128716067
+V09405,Cross Street Clinic,Dental service,Staffordshire and Stoke-on-Trent,424473,323006,D,2.2509972747544085
+DAC_756,Dental Access Centre,Dental Access Centre,Staffordshire and Stoke-on-Trent,424473,323006,DAC,NA
+V12289,Modwena Orthodontics,Dental service,Staffordshire and Stoke-on-Trent,425031,322745,D,3.7452030168205566
+V46588,33 High Street,Dental service,Staffordshire and Stoke-on-Trent,425049,322889,D,4.770889236259422
+V82583,Mike Allens Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,423089,322984,P,4.178151197232437
+V14205,Dental Perfection @ Branston,Dental service,Staffordshire and Stoke-on-Trent,423725,321243,D,5.79029771886528
+V06261,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,424882,322590,D,3.318632344025755
+V06252,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,425630,322019,D,4.797776061987146
+V12137,Hill Street Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,425393,321561,D,3.854169772477275
+V10455,Rosliston Road (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,425415,321140,D,3.328501834973397
+V06542,Keetons Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,384225,283909,D,7.423061910834004
+V06544,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,384575,283366,D,6.543595531301776
+V00198,Pall Mall (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,388260,347443,D,1.2351598250409603
+V09913,Salaried Dental Service,Dental service,Staffordshire and Stoke-on-Trent,388654,347786,D,1.5728177856770396
+V07410,Stoke Orthodontic Services,Dental service,Staffordshire and Stoke-on-Trent,388560,348378,D,2.3731148611404294
+V14158,679 Leek Road (Dental Practice),Dental service,Staffordshire and Stoke-on-Trent,389160,346947,D,1.8023931063036065
+V07407,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,388724,349020,D,3.3659762226931345
+V07620,The Avenue Dentistry,Dental service,Staffordshire and Stoke-on-Trent,400875,342960,D,6.498346177626342
+V07621,Millennium Dentistry,Dental service,Staffordshire and Stoke-on-Trent,401051,343135,D,5.938191027479058
+V07617,St Edward Street Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,398352,356414,D,5.403364344353446
+V07614,Russell Street Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,398472,356418,D,4.130610298656843
+V14044,Park Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,398701,356767,D,3.7616224228333843
+V07625,Leek Dental Centre,Dental service,Staffordshire and Stoke-on-Trent,399023,357175,D,3.872739220087547
+V82815,Waterer Dental Care,Dental service,Staffordshire and Stoke-on-Trent,398601,356668,P,3.8822602929027776
+V07624,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,398573,356641,D,3.916538077021777
+V82037,The Staffordshire Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,409355,333641,D,6.127943383213279
+V80978,The Staffordshire Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,409355,333641,D,6.127943383213279
+V06256,The Staffordshire Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,409355,333641,D,5.544861743727236
+V14654,Uttoxeter Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,409516,333630,D,6.333581778450743
+V09413,Balance Street Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,409275,333308,D,6.665865071336821
+DAC_785,Uttoxeter Dental Practice,Dental Access Centre,Staffordshire and Stoke-on-Trent,409275,333308,DAC,NA
+V03033,Whitecross Dental Care Ltd,Dental service,Staffordshire and Stoke-on-Trent,409330,333328,D,6.470971647431713
+V31428,Time for Teeth HMP Dovegate,Dental service,Staffordshire and Stoke-on-Trent,414753,330387,D,5.792130028451986
+V09414,Trentside Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,390032,333778,D,6.210368995441441
+V00066,Stone Dental Care,Dental service,Staffordshire and Stoke-on-Trent,390229,333839,D,6.223601420109798
+V06635,Regency House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,390066,334027,D,6.415096303169336
+V06650,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,390317,333739,D,6.8894233797097835
+V11293,Castle Way Dental Care,Dental service,Staffordshire and Stoke-on-Trent,391358,322616,D,6.13531167155174
+V80120,Pure Dental Solutions,Dental service,Staffordshire and Stoke-on-Trent,390797,324975,P,6.1471696584031505
+V06583,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,392098,323138,D,4.658365324715988
+V80648,Rajdeep Koner,Dental service,Staffordshire and Stoke-on-Trent,392134,323120,D,4.724320615028205
+V00057,Eastgate Street (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,392473,323237,D,4.635667500456692
+V13621,Oriel House (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,392487,323144,D,4.824064258537989
+V06749,Staffs & Sot Ptnrship Trust,Dental service,Staffordshire and Stoke-on-Trent,392277,323439,D,4.049641700389473
+DAC_799,2nd Floor Central Clinic,Dental Access Centre,Staffordshire and Stoke-on-Trent,392360,323059,DAC,NA
+V06695,Time for Teeth HMP Stafford,Dental service,Staffordshire and Stoke-on-Trent,392114,323781,D,3.7293315263802036
+V06593,Stafford Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,392270,322813,D,5.408069601954049
+V06611,C N Grocott and D Vlok,Dental service,Staffordshire and Stoke-on-Trent,392433,322677,D,5.558479232826676
+V06631,Oasis Dental Care,Dental service,Staffordshire and Stoke-on-Trent,392433,322677,D,5.558479232826676
+V83393,Smile Styles Dental Care,Dental service,Staffordshire and Stoke-on-Trent,392910,322535,P,7.965573882536002
+V06553,Hillcrest Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,391379,321735,D,5.2258607845000045
+V91013,Stafford Dental Centre,Dental service,Staffordshire and Stoke-on-Trent,393930,324260,D,7.268612250162284
+V06534,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,399868,322782,D,8.283174121854072
+V297476,Oracle Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,394209,324398,D,8.552976608404006
+V29548,Clay Street Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,392285,314109,D,8.727448360672895
+V82597,The Priors Dental Practice Ltd,Dental service,Staffordshire and Stoke-on-Trent,392132,314258,P,7.393061357810244
+V06681,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,392379,314179,D,8.724019191175548
+V07405,Bucknall Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,390785,346646,D,1.967390267239033
+V07401,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,390451,348794,D,5.095297615334837
+V06659,Gnosall Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,382916,320817,D,8.157422596119918
+V13159,VIPs Dental,Dental service,Staffordshire and Stoke-on-Trent,382797,321424,D,8.281155651259812
+V82991,Castle View Dental Spa,Dental service,Staffordshire and Stoke-on-Trent,383086,329048,P,8.541445233941133
+V10033,Castle Street (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,383142,329255,D,5.568865794819568
+V09312,Time for Teeth HMP Drake Hall,Dental service,Staffordshire and Stoke-on-Trent,383891,331294,D,9.769938777606026
+V06860,Longton Dental Centre,Dental service,Staffordshire and Stoke-on-Trent,390910,343696,D,2.0910388734283605
+V06854,Dental Centre,Dental service,Staffordshire and Stoke-on-Trent,389311,343572,D,2.6698610602340636
+V06805,Rosslyn House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,391171,342867,D,2.224119992144222
+V06865,Meir Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,393366,342450,D,3.7608255077777257
+V06677,Meir Health Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,392882,340290,D,7.329427099306181
+V06810,Modwena Dental,Dental service,Staffordshire and Stoke-on-Trent,387596,345311,D,3.180446194257477
+V14500,Liverpool Road Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,387580,345365,D,3.207700177191191
+V06806,Middleton & Partners Dental,Dental service,Staffordshire and Stoke-on-Trent,387712,346409,D,2.316192712712411
+V12195,Alchemy Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,387871,345951,D,2.633348792668624
+V06803,Victoria Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,389243,344931,D,2.026107152095163
+V06834,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,387784,346139,D,2.477391507234001
+V06811,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,387770,344712,D,2.9164317796948316
+V06780,Grosvenor Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,386827,343724,D,3.623121025727365
+V06828,Ashlow Orthodontic Practice,Dental service,Staffordshire and Stoke-on-Trent,386172,345692,D,4.518627888457515
+V06807,Hammonds,Dental service,Staffordshire and Stoke-on-Trent,385804,346537,D,5.195051384432967
+V06813,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,386973,341966,D,7.591406074397895
+V05751,Wolstanton Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,385529,348320,D,6.090011133648762
+V05000,M N Devlin's Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,385213,348723,#N/A,5.973610970246469
+V80240,Newcastle Under Lyme Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,385534,345994,P,4.287050679131352
+V04983,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,385166,346226,D,4.05814612124756
+V83012,Whittaker Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,385506,346373,P,4.5951734171365795
+V297474,Newcastle Dental and Implant Clinic,Dental service,Staffordshire and Stoke-on-Trent,385645,346135,D,4.305933744585944
+V04980,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,384685,346375,D,4.062434407043461
+V04979,Mr M E Neeld and Associates,Dental service,Staffordshire and Stoke-on-Trent,385005,346297,D,3.841791960573045
+V04975,Westbury Park Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,384992,342943,D,6.710102347540907
+V13055,Milehouse Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,383048,346709,D,3.146809208677498
+V09831,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,382373,346614,D,3.818219537757083
+V04977,Elm Villa Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,383559,348739,D,4.7802970002714495
+V82872,Moorland Dental Clinic,Dental service,Staffordshire and Stoke-on-Trent,387028,349903,D,1.6643312159954815
+V13339,Smallthorne Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,388353,350426,D,3.2145197066293574
+V07409,Waterloo Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,387439,348896,D,1.2675362443380391
+V07400,Synergy Dental Care,Dental service,Staffordshire and Stoke-on-Trent,386568,349654,D,1.4129945818585807
+V07408,The Boulevard Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,386114,351325,D,1.8757252471065082
+V07613,Butt Lane Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,382755,354407,D,4.2019527172734294
+V07616,Kidsgrove Bank Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,384090,354380,D,4.860749972031355
+V07619,Kidsgrove Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,384195,354253,D,5.164804210886533
+V04962,Audley Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,379839,350739,D,5.959702949550356
+V07622,Horizons Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,388324,357648,D,5.761771981303756
+V12012,Keen Dental Care,Dental service,Staffordshire and Stoke-on-Trent,388385,357532,D,6.5219403526725745
+V07618,Werrington Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,394459,347590,D,7.97359653711385
+V10535,Time for Teeth HMP Werrington,Dental service,Staffordshire and Stoke-on-Trent,394158,347257,D,7.939738683220421
+V13435,107 109 Walsall Road [Dental Surgery],Dental service,Staffordshire and Stoke-on-Trent,398370,309636,D,3.7196278270050755
+V06079,Chase Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,397965,309983,D,4.678018749397329
+V06065,The Cannock Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,397965,309983,D,4.678018749397329
+V06057,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,398398,310352,D,4.5106941370538305
+V279160,37 Queens Square,Dental service,Staffordshire and Stoke-on-Trent,398220,310286,D,4.492594381007589
+V09412,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,398028,310618,D,4.483678881567774
+DAC_866,Dental Department,Dental Access Centre,Staffordshire and Stoke-on-Trent,398028,310618,DAC,NA
+V06069,Dentaire,Dental service,Staffordshire and Stoke-on-Trent,400160,312402,D,5.448711892823065
+V06083,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,399965,312189,D,4.989877364228701
+V209633,Hednesford Road (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,401425,310124,D,6.410860978498994
+V06055,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,400056,312747,D,5.569033087792484
+V07349,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,411708,309649,D,6.2791087865658
+V06802,Guys Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,412148,309620,D,7.016969544186907
+V06557,Asquith House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,411752,309410,D,6.790732182526762
+V09406,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,412189,309545,D,7.4203903352857825
+V05875,Bore Street Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,411719,309435,D,6.733531375891098
+V82791,Lichfield Family Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,411348,309752,P,7.069120454879297
+V06753,Lichfield Dental Care,Dental service,Staffordshire and Stoke-on-Trent,411649,308280,D,8.134375073692688
+V10536,80 Upper St John Street (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,411870,308952,D,7.528816366919209
+V06589,Pickering House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,411870,308952,D,7.528816366919209
+V91014,Lichfield Dental Centre,Dental service,Staffordshire and Stoke-on-Trent,415305,307082,D,7.680241702624166
+V06638,Time for Teeth HMP Swinfen Hall,Dental service,Staffordshire and Stoke-on-Trent,413559,305890,D,6.252978820297075
+V06070,Avondale House Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,404425,318355,D,6.1752079073307895
+V42398,Mydentist,Dental service,Staffordshire and Stoke-on-Trent,404447,318034,D,5.059987114177625
+V06058,K R Grundy Dental Surgeon,Dental service,Staffordshire and Stoke-on-Trent,404747,317889,D,4.4241582170809846
+V14903,Sandy Lane Health Centre,Dental service,Staffordshire and Stoke-on-Trent,404335,317669,D,4.215047193508701
+V06056,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,407840,316082,D,6.898846219786327
+V06063,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,398838,306736,D,6.043020859905188
+V06067,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,399150,307468,D,6.416428884826082
+V80193,Carolyn Jones Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,397759,306924,P,7.058057948589245
+V80198,Cheslyn Hay Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,397759,306924,P,7.058057948589245
+V209165,Inspire Dental and Implant Centre,Dental service,Staffordshire and Stoke-on-Trent,404586,309393,D,6.907053614368163
+V05929,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,404538,308196,D,4.601659454973059
+V19856,267 High Street Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,404542,309223,D,5.867786922969538
+V06699,Dental Dept.,Dental service,Staffordshire and Stoke-on-Trent,392654,305458,D,5.0781507378784445
+V06701,Dental Dept.,Dental service,Staffordshire and Stoke-on-Trent,392638,305883,D,7.197613633790549
+V17438,Time for Teeth HMP Oakwood,Dental service,Staffordshire and Stoke-on-Trent,392451,305586,D,5.3601934826899775
+V06661,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,387666,293030,D,7.324741491161818
+V06665,Willows Dental & Implant Centre,Dental service,Staffordshire and Stoke-on-Trent,387266,293218,D,7.190752665585023
+V06548,Perton Dental Practice,Dental service,Staffordshire and Stoke-on-Trent,386360,299687,D,8.56375707566344
+V06683,Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,386231,299508,D,8.619578940795668
+V28588,Wood Road (Dental Surgery),Dental service,Staffordshire and Stoke-on-Trent,388490,299551,D,6.670472249438399
+V83358,Codsall Dental Practice (Wolves) Ltd,Dental service,Staffordshire and Stoke-on-Trent,386570,303736,P,7.9779649721889
+V06204,Treetops Surgery,Dental service,Staffordshire and Stoke-on-Trent,387555,302997,D,6.807521659305398
+V06684,Coven Village Dental Surgery,Dental service,Staffordshire and Stoke-on-Trent,387260,303115,D,6.944514072773643
+V09408,Codsall Clinic,Dental service,Staffordshire and Stoke-on-Trent,387093,303314,D,6.92784820656322
