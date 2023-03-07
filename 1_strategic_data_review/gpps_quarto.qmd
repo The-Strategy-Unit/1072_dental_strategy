@@ -1,0 +1,150 @@
+---
+editor: visual
+execute:
+  echo: false
+  message: false
+  warning: false
+title: "Trying quarto with GPPS data and z-test"
+author: Andy Hood
+date: last-modified
+date-format: "YYYY-MM-DD"
+title-block-banner: "#f9bf07"
+title-block-banner-color: "#333739"
+format:
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    theme: cosmo
+    fontcolor: black
+    toc: true
+    toc-location: left
+    toc-title: Summary
+    toc-depth: 3
+css: styles.css
+---
+
+```{r}
+#| label: loading packages
+#| include: false
+
+my_packages <- c("tidyverse", "palmerpenguins", "quarto", "readxl") # list of required packages
+
+not_installed <- my_packages[!(my_packages %in% installed.packages()[ , "Package"])]    # Extract not installed packages
+if(length(not_installed)) install.packages(not_installed)
+
+lapply(my_packages, require, character.only = TRUE)    # Load packages
+
+```
+
+```{r}
+#| label: loading and wrangling data
+#| include: false
+
+data <- read_csv("C:/Users/Andrew.Hood/OneDrive - Midlands and Lancashire CSU/Working Projects/1072 Dental Analysis/1072_dental_strategy/1_strategic_data_review/data/gpps_ICB.csv") %>%
+  mutate(across(everything(), na_if, "NA"))
+  
+# create percentage values across table
+data <- data %>%
+  mutate(ICB22NM = str_replace(ICB22NM, ' Integrated Care Board','')) %>%
+  mutate(resp_rate = forms_resp / forms_dist*100) %>%
+  mutate(across(c(7:12), ~ ./q1_resp*100)) %>%
+  mutate(across(c(14:16), ~ ./q2_resp*100)) %>%
+  mutate(across(c(18:23), ~ ./q3_resp*100)) %>%
+  mutate(across(c(25:29), ~ ./q4_resp*100)) %>%
+  mutate(across(c(31:40), ~ ./q5_resp*100)) %>%
+  mutate(region = case_when(ICB22CD %in% c("E54000010","E54000011","E54000018"
+                                           ,"E54000019","E54000055","E54000062") ~ "West Midlands",
+                   TRUE ~ "Other"))
+
+data_z <- data %>%
+  #filter(period == 2015) %>%
+  group_by(period) %>%
+  mutate(across(c(4:40), function(x) {(x-mean(x))/sd(x)}))
+
+# level order for questions on chart axis...
+level_order <- c('q5_not_need','q5_no_teeth','q5_not_time','q5_not_like','q5_not_think','q5_waiting','q5_switch','q5_private','q5_too_exp','q5_other'
+                 ,'q4_very_pr','q4_fairly_pr','q4_neither','q4_fairly_gd','q4_very_gd'
+                 ,'q3_yes','q3_no','q3_noapps','q3_nopats','q3_other','q3_notrem'
+                 ,'q2_yes','q2_no','q2_notrem'
+                 ,'q1_<3','q1_3to6','q1_6to12','q1_12to24','q1_>24','q1_never'
+                 )
+
+```
+
+## GP Patient Survey and dental data
+
+The GPPS is a large-scale patient survey of primary care and GP services. It includes several questions on access to, experience of, and attitudes towards dental care. To learn more about the GPPS and, in particular, the dental aspects see <https://www.england.nhs.uk/statistics/statistical-work-areas/gp-patient-survey/gpps-dental-statistics/>.
+
+There are 5 headline questions in the survey:
+
+1.  When did you last try to get an NHS dental appointment?
+2.  Was this with a dental practice you had been to before?
+3.  Were you successful in getting an appointment?
+4.  What was your experience of NHS dental services?
+5.  What are the reasons for not getting an NHS dental appointment?
+
+## Response rates
+
+Each survey period a sample of patients at each practice receive a survey. The charts below demonstrates the most recent and trends in response rate by West Midlands ICB
+
+```{r}
+#| label: Response by ICB latest year
+
+resp_rate_avg <- data %>%
+  group_by(period) %>%
+  summarise(avg = mean(resp_rate))
+
+data %>%
+  filter(region == "West Midlands", period == 2022) %>%
+  ggplot(aes(x=ICB22NM, y=resp_rate, fill = ICB22NM)) +
+  geom_col() +
+  geom_text(aes(x=ICB22NM, y=1, label = ICB22NM, angle = 90), size = 3, hjust = 'left') +
+  theme(axis.text.x = element_blank()
+        ,legend.position = "none") +
+  labs(title = "Response rate to GPPS by Integrated Care Board"
+       , subtitle = "West Midlands: Q1 survey 2022"
+       , x = "ICB"
+       , y ="% patients responded")
+
+data %>%
+  filter(region == "West Midlands") %>%
+  ggplot(aes(x=period, y=resp_rate)) +
+  geom_line(size = 1) +
+  geom_smooth(method = "glm", size = 0.5, linetype = "dashed") +
+  geom_line(data = resp_rate_avg, aes(x=period, y=avg), colour = "red", size = 0.6) + #
+  facet_wrap(~ ICB22NM, ncol = 3) +
+  theme(legend.position = "none") +
+  labs(title = "Trend in response rate by Integrated Care Board"
+       , subtitle = "2015 to 2022"
+       , x = "year"
+       , y ="% patients responded")
+  
+```
+
+## Survey response z-scores
+
+Z-scores represent the number of standard deviations a point is away from the group mean, suggestive of significant differences. The group mean in this instance is the mean for the 42 ICB in England in 2022.
+
+The spine/lollipop chart(s) below demonstrate where registered patients of each ICB sit on the distribution of z-scores for each question response.
+
+```{r}
+#| label: z-score spine chart
+
+data_z %>%
+  select(-c("forms_dist","forms_resp","q1_resp","q2_resp","q3_resp","q4_resp","q5_resp","resp_rate")) %>%
+  filter(period == 2022) %>%
+  pivot_longer(cols=c(4:33),
+                    names_to='question',
+                    values_to='value') %>%
+  ggplot(aes(x=factor(question, level = level_order), y=value, fill=factor(region))) +
+  geom_point(shape = 21, size = 2.0, stat="identity", alpha = 0.5
+             ,data = . %>% filter(region == "Other")) +
+  geom_point(shape = 21, size = 2.4, stat="identity", alpha = 0.9
+             ,data = . %>% filter(region == "West Midlands")) +
+  scale_fill_manual(values=c("#EBE9E7","#ec6555")) +
+  geom_hline(yintercept = c(-2.575, 2.575), colour = "red") +
+  geom_hline(yintercept = c(1.96, -1.96), colour = "orange") +
+  geom_hline(yintercept = 0, colour = "green") +
+  coord_flip()
+
+```
