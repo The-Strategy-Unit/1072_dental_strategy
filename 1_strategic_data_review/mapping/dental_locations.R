@@ -380,6 +380,20 @@ lsoa_shp |>
 
 
 
+dental_services |>
+  left_join(d, by = "code") |> 
+  
+  ggplot(aes(x = avg_deprivation, after_stat(count))) +
+  geom_density() +
+  facet_wrap(~icb_name) +
+  xlim(0,10) +
+  theme(strip.background = element_rect(fill = NA, colour = "grey"),
+        strip.text = element_text(face = "bold")
+        ) +
+  labs(x = "Average deprivation",
+       y = "Practice count",
+       title = "Distribution of dental practices by deprivation decile",
+       subtitle = "West Midlands ICB's") 
 
 
 

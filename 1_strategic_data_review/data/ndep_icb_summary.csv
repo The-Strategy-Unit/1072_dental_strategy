@@ -1,0 +1,9 @@
+area_code,area_name,"3-year olds with dmft (decayed, missing or filled teeth)",3-year olds with dental caries,3-year olds with substantial plaque,"3-year olds with pufa (pulp, ulceration, fistula or abscess)","5-year olds with dmft (decayed, missing or filled teeth)",5-year olds with dental caries,5-year olds with substantial plaque,"12-year olds with dmft (decayed, missing or filled teeth)"
+NA,England,0.314,3.36,1.91,0.42,0.796,5.24,1.15,0.738
+E40000008,Midlands,0.296,2.88,0.88,0.31,0.781,4.75,0.67,0.709
+E54000017,Birmingham and Solihull Integrated Care System,0.296,2.076,1.526,NA,0.634,4.63,0.8,0.681
+E54000016,Black Country Integrated Care System,0.234,2.856,2.064,NA,0.806,5.66,0.58,0.688
+E54000018,Coventry and Warwickshire Integrated Care System,0.137,0,1.442,0,0.671,4.3,1.92,0.591
+E54000019,Herefordshire and Worcestershire Integrated Care System,0.366,2.841,0,0,0.822,5.67,1.51,0.63
+E54000011,"Shropshire, Telford and Wrekin Integrated Care System",0.316,0.454,0,0,0.775,6.58,1.24,0.762
+E54000010,Staffordshire and Stoke-on-Trent Integrated Care System,0.15,1.077,1.03,0.207,0.717,3.82,0,0.62
